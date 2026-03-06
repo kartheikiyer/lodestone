@@ -27,32 +27,9 @@ Each page covers a single concept: an astrophysical object class, physical proce
 
 ---
 
-## Start exploring
+## Start exploring at [lodestone.wiki](https://lodestone.wiki/)
 
-
-### Instruments and surveys
-- [[James Webb Space Telescope]]
-- [[extragalactic-astronomical-surveys|Extragalactic Surveys]]
-- [[sloan-digital-sky-survey-and-sub-surveys|SDSS and Friends]]
-- [[dustpedia|Dustpedia]]
-
-### Galaxies and their evolution
-- [[high-redshift-galaxy-evolution|High-z galaxy evolution]]
-- [[little-red-dots-jwst|Little Red Dots (JWST)]]
-- [[star-forming-galaxies|Star-forming Galaxies]]
-- [[galaxy-luminosity-function|Luminosity Function (Galaxies)]]
-
-### Processes and mechanisms
-- [[supermassive-black-holes|SMBHs]]
-- [[gas-depletion-and-consumption|Gas Depletion and Consumption]]
-- [[violent-disk-instability|Violent Disk Instabilities]]
-
-### Methods
-- [[sed-fitting|SED fitting]]
-- [[star-formation-rate-tracers|SFR Tracers]]
-- [[Photometric Redshifts]]
-- [[neural-posterior-estimation|Neural Posterior Estimation]]
-- [[frequentist-inference|Frequentist Inference]]
+If you're interested in contributing, get in touch!
 
 ---
 
