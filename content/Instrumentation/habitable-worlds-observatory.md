@@ -8,7 +8,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **Habitable Worlds Observatory (HWO)** is a planned NASA [[astronomical-observatories-and-missions|flagship astrophysics mission]] designed to be the first space telescope specifically optimized to search for signs of life on Earth-like planets orbiting Sun-like stars [Arney et al. (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260109766A/abstract). Emerging as a top priority recommendation for a large space mission in the Astro2020 Decadal Survey, HWO draws upon the scientific goals and technical heritage of major precursor concept studies, specifically the [[luvoir|Large UV/Optical/Infrared Surveyor (LUVOIR)]] and the Habitable Exoplanet Observatory (HabEx) [Howe et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024JATIS..10b5008H/abstract). By bridging the ambitious scientific yield of a massive aperture with strict cost and launch feasibility constraints, HWO is envisioned to succeed current flagship missions like the [[james-webb-space-telescope-jwst|James Webb Space Telescope (JWST)]]—which pioneered infrared sensitivity and resolution for modern astronomical research [Kalirai et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ConPh..59..251K/abstract)—and permanently transition [[exoplanetary-science|Exoplanetary Science]] from statistical demographic censuses into an era of detailed atmospheric and surface characterization.
 

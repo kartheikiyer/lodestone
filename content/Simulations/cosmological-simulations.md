@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **[[numerical-cosmological-simulations|Numerical Cosmological Simulations]]** are sophisticated numerical frameworks designed to model the non-linear evolution of the Universe, bridging the gap between primordial density fluctuations and the complex, observed cosmic web. At their mathematical core, these models solve the coupled Vlasov-Poisson equations for collisionless dark matter alongside the Euler equations for dissipative baryonic gas, all within an expanding $\Lambda$CDM metric. By tracking the hierarchical gravitational collapse of matter, simulations provide the theoretical bedrock for interpreting large-scale structure, [[galaxy-models|galaxy formation]], and the distribution of multiphase gas. The historical evolution of the field—from early, gravity-only N-body calculations [Bertschinger et al. (1991)](https://ui.adsabs.harvard.edu/abs/1991ComPh...5..164B/abstract) to the pioneering integration of smoothed-particle hydrodynamics (SPH) [Katz et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996ApJS..105...19K/abstract)—has culminated in modern, multi-physics frameworks capable of capturing a vast dynamic range of astrophysical phenomena [Vogelsberger et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020NatRP...2...42V/abstract).
 

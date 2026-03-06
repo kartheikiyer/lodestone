@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Cosmological perturbation theory** is the rigorous mathematical framework used to describe the origin and evolution of macroscopic structures in the Universe. In [[modern-cosmology|Modern cosmology]], the Universe is modeled at the zeroth order by the homogeneous and isotropic Friedmann-Lemaître-Robertson-Walker (FLRW) metric, whose macroscopic [[expansion-history|Expansion history]] is governed by the [[friedmann-equations|Friedmann equations]]. However, a perfectly uniform universe cannot explain the rich cosmic web of galaxies, clusters, and voids observed today. Perturbation theory introduces small deviations—both [[metric-perturbations|Metric perturbations]] in the spacetime geometry and [[density-perturbations|Density perturbations]] in the cosmic fluid—and tracks their evolution. Driven by [[gravitational-instability|Gravitational instability]], regions with slight initial overdensities exert a stronger gravitational pull than their surroundings, amplifying these microscopic fluctuations into macroscopic structures over cosmic time [Juszkiewicz et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996astro.ph..2134J/abstract), [Bernardeau et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002PhR...367....1B/abstract).
 

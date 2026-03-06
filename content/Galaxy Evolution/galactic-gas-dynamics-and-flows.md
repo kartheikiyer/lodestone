@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Galactic gas dynamics and flows** encompass the complex hydrodynamical and magnetohydrodynamical processes that govern the life cycle of baryons within and around galaxies. Situated at the intersection of [[astrophysical-fluid-dynamics-and-turbulence|Astrophysical Fluid Dynamics and Turbulence]] and galaxy evolution, this field investigates how the [[multiphase-gas|Multiphase gas]] of the interstellar medium (ISM) couples to the extended [[circumgalactic-medium|Circumgalactic Medium]] (CGM). These fluid interactions dictate the galactic "baryon cycle": the continuous process by which galaxies [[galactic-gas-inflow-and-infall|accrete primordial and recycled gas]] from the cosmic web, transport it inward to fuel [[star-formation-processes|star formation]], and subsequently eject metal-enriched material back into the halo. Understanding these multiscale [[galaxy-outflows|flows]] is essential for explaining the observed properties of galaxies, from their star formation efficiencies to their chemical abundance gradients and morphological transformations during [[galaxy-merger-physics|mergers]] [Hernquist et al. (1989)](https://ui.adsabs.harvard.edu/abs/1989Natur.340..687H/abstract).
 

@@ -11,7 +11,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The **Canadian NIRISS Unbiased Cluster Survey (CANUCS)** is a James Webb Space Telescope (JWST) Cycle 1 Guaranteed Time Observation program designed to probe the early universe. By targeting five massive foreground galaxy clusters—such as Abell 370 and MACS J0416—the survey utilizes strong gravitational lensing to magnify intrinsically faint [[background-galaxies|Background galaxies]] that would otherwise remain undetectable. Building upon the legacy of previous [[hubble-space-telescope-deep-surveys|Hubble Space Telescope Deep Surveys]] like the [[clash-survey|CLASH survey]] and [[relics-survey|RELICS survey]], CANUCS combines high-resolution NIRCam imaging, with a specific emphasis on medium-band filters, and wide-field NIRISS slitless spectroscopy. This instrumental synergy allows researchers to construct highly precise lens models constrained by hundreds of secure multiple images, effectively turning the galaxy clusters into "cosmic telescopes" capable of resolving the structural and chemical properties of galaxies stretching deep into the Epoch of Reionization [Rihtaršič et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025A&A...696A..15R/abstract).
 

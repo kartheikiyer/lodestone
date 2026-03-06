@@ -8,7 +8,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The **Cosmic Dawn (CoDa) project** is a series of massive, fully coupled radiation-hydrodynamics [[cosmological-simulations|Cosmological simulations]] designed to model the Epoch of Reionization (EoR)—the period during the first billion years of the universe when radiation from the first generations of stars ionized the surrounding intergalactic medium (IGM). Simulating this era requires bridging the large-scale, inhomogeneous topology of the IGM with the sub-grid physics of individual star-forming galaxies. Because solving the radiative transfer of ionizing photons on the fly is computationally bottlenecked by the speed of light, CoDa employs a unique hybrid CPU-GPU architecture. Utilizing the RAMSES-CUDATON code, the project computes fluid dynamics and dark matter gravity on standard CPUs, while offloading computationally expensive radiative transfer and chemical ionization rate-solvers to graphics processing units. This allows the simulation to execute hundreds of radiation timesteps for every single hydro-gravity step [Ocvirk et al. (2015)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.463.1462O/abstract).
 

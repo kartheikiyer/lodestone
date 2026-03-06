@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In quantum mechanics and astrophysics, **degeneracy pressure** is a macroscopic, temperature-independent outward force arising directly from the Pauli exclusion principle. Because identical fermions—such as electrons or neutrons—cannot simultaneously occupy the same quantum state, compressing a fermionic system forces particles into increasingly higher momentum states up to a threshold known as the Fermi energy. This fundamental resistance to compression generates a robust internal pressure that persists even at absolute zero. The mathematical viability of astronomical structures supported by this phenomenon is rigorously formalized through the Vlasov-Einstein equations, which demonstrate that self-gravitating, collisionless gases in general relativity can maintain globally defined, stable, and singularity-free static configurations [Rein et al. (1994)](https://ui.adsabs.harvard.edu/abs/1994MPCPS.115..559R/abstract).
 

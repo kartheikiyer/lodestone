@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **[O III] 88 μm line** is a prominent [[far-infrared-fine-structure-lines|far-infrared fine-structure transition]] of doubly ionized oxygen (O$^{++}$) that serves as a critical diagnostic of the ionized interstellar medium (ISM). Because the production of the O$^{++}$ ion requires a hard ionizing radiation field with an ionization potential of 35.1 eV, this line originates almost exclusively in the highly ionized gas of [[h-ii-regions|H II regions]] surrounding massive young stars or in the narrow-line regions of [[seyfert-galaxies|Seyfert galaxies]]. Occurring in the [[far-infrared-astronomy|far-infrared]], the 88 μm transition provides a distinct observational advantage over rest-frame optical transitions such as the [[o-iii-5007-line|[O III] 5007 Å line]]: it is virtually unaffected by dust extinction. Combined with its low excitation energy, which makes its emissivity largely insensitive to electron temperature variations, the [O III] 88 μm line functions as a robust, extinction-free tool for determining [[gas-phase-metallicity|Gas-Phase Metallicity]]  and assessing [[star-formation-tracers|star formation rates]] [De Looze et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014A&A...568A..62D/abstract) in heavily obscured environments, such as local [[luminous-infrared-galaxies-lirgs|Luminous Infrared Galaxies (LIRGs)]].
 

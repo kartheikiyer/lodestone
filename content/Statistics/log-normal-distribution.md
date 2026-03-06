@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In astrophysics, the **log-normal distribution** is a foundational statistical model used to characterize probability density functions that arise from multiplicative, rather than additive, stochastic processes. By the multiplicative central limit theorem, physical systems governed by successive fractional amplifications or cascading random variables naturally evolve toward log-normal states. This functional form is thus a fundamental descriptor for diverse quantities shaped by cumulative amplification and the [[inherent-stochasticity|Inherent stochasticity]] of non-linear physical processes.
 

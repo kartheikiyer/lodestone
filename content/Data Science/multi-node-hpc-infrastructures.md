@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Multi-node HPC infrastructures** in astrophysics refer to [[distributed-computing|distributed computing systems]] that aggregate the memory and processing power of numerous interconnected servers (nodes) to execute massive, highly [[parallelization|parallelized]] tasks. Driven by the extreme computational demands of simulating the [[lambda-cdm-model|Lambda-CDM model]] and processing petabyte-scale data streams from next-generation observatories, these infrastructures form the backbone of modern data-intensive astronomy. The historical evolution of this field is rooted in the deployment of cost-effective commodity [[beowulf-clusters|Beowulf clusters]], which established the standard for [[high-performance-computing-hpc|high-performance scientific computing]]. To distribute computational loads that far exceed the capabilities of any single machine, modern astrophysical software relies heavily on parallelization schemes, frequently utilizing the [[message-passing-interface-mpi|Message Passing Interface (MPI)]] for inter-node communication and [[openmp|OpenMP]] for shared-memory intra-node threading.
 

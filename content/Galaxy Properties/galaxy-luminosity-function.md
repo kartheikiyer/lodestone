@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **galaxy luminosity function** (LF), denoted $\phi(L)$, is a fundamental statistical distribution in [[extragalactic-astronomy|Extragalactic astronomy]] that describes the volumetric [[number-density|Number density]] of galaxies per unit luminosity interval. At its core, the LF quantifies the probability of finding a galaxy of a specific luminosity within a given comoving volume of the universe. For galaxy populations tracing assembled stellar mass, this distribution is most commonly parameterized by the [[schechter-function|Schechter function]]. This mathematical form combines a power-law behavior at the faint end—characterized by a [[logarithmic-slope|Logarithmic slope]], $\alpha$—with an exponential cutoff above a characteristic "knee" luminosity, $L^*$ (or absolute magnitude $M^*$) [Marzke et al. (1994)](https://ui.adsabs.harvard.edu/abs/1994ApJ...428...43M/abstract). By integrating the luminosity function, astronomers can derive global cosmic properties, such as the total luminosity density of the universe, and establish crucial empirical constraints for the [[halo-mass-luminosity-relation|Halo mass-luminosity relation]] that links visible baryonic matter to underlying dark matter halos.
 

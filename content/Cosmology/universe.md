@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In [[modern-cosmology|Modern cosmology]], the **Universe** is defined as the totality of space-time, matter, and energy. Its evolution and large-scale geometry are primarily understood through the [[lambda-cdm-model|Lambda CDM model]], which serves as the concordance framework for an expanding space-time continuum originating from a hot, dense initial state known as the [[big-bang|Big Bang]] [Sharov et al. (1993)](https://ui.adsabs.harvard.edu/abs/1993ehdb.book.....S/abstract). Governed by General Relativity and the Cosmological Principle—which posits that the Universe is statistically homogeneous and isotropic on large scales—this framework dictates that the [[expansion-history|Expansion history]] and thermal evolution of the cosmos are fundamentally determined by its [[energy-content|Energy content]] and [[mass-density|Mass density]]. The early Universe underwent a series of phase transitions, evolving from a primordial plasma during the [[radiation-dominated-era|Radiation-dominated era]] to a state where neutral atoms could form, releasing the relic photons observed today as the [[cosmic-microwave-background|Cosmic microwave background]].
 

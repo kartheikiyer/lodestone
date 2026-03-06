@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **OB stars** are hot, massive, and superluminous stellar objects of spectral types O and B that reside on the [[upper-main-sequence|Upper main sequence]]. With initial masses generally exceeding $8 M_\odot$, these [[early-type-stars|Early-type stars]] are characterized by extreme effective temperatures and a steep mass-luminosity relation that dictates exceptionally short main-sequence lifetimes—typically on the order of a few million to tens of millions of years. Due to their prodigious output of ultraviolet continuum photons, OB stars dominate the ionizing radiation fields of their host galaxies, rapidly transforming their natal environments into [[giant-h-ii-regions|Giant H II regions]]. Throughout their brief existences, they exert profound mechanical and radiative feedback on the interstellar medium through intense, radiatively driven stellar winds, ultimately governing the physical state and chemical enrichment of the galactic disk.
 

@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In observational astrophysics and cosmology, **sample selection biases** refer to [[systematic-errors-and-statistical-biases|Systematic Errors and Statistical Biases]] that arise when an observed [[astronomical-catalogs|catalog]] of astronomical sources is not statistically representative of the underlying intrinsic population. Because all [[extragalactic-astronomical-surveys|Extragalactic astronomical surveys]] are fundamentally constrained by instrumental sensitivities and the brightness of the night sky, their [[detection-probability|Detection probability]] strongly favors highly luminous, high-surface-brightness objects. Mathematically, this effect is quantified by the [[selection-function|Selection function]], which describes the probability of a source being included in a sample as a function of its intrinsic properties, environment, and spatial position. The realization that optical surveys suffer from a "visibility bias" that systematically hides diffuse, low-surface-brightness galaxies was formalized in foundational work by Disney (1976), establishing that apparent galaxy demographics are heavily sculpted by both strict flux limits and isophotal detection thresholds. 
 

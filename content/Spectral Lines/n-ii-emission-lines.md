@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **[N II] emission lines** are prominent forbidden transitions of singly ionized nitrogen ($N^+$) that serve as critical diagnostic tools across galactic and extragalactic astrophysics. Because the first ionization potential of nitrogen (14.5 eV) slightly exceeds that of hydrogen (13.6 eV), $N^+$ exists almost exclusively within fully ionized environments. Consequently, [N II] emission is a fundamental tracer of [[h-ii-regions|H II regions]], planetary nebulae, and the diffuse warm ionized medium (WIM). The most widely observed transitions are the optical doublet at $\lambda\lambda 6548, 6584$ Å and the [[far-infrared-fine-structure-lines|Far-infrared fine structure lines]] at $122\ \mu\text{m}$ and $205\ \mu\text{m}$. While the optical lines are primarily driven by collisional excitation and are highly sensitive to electron temperature and chemical evolution, the far-infrared transitions are vital, extinction-independent probes of electron density that help isolate the ionized gas fraction of other cooling lines, such as the [[c-ii-158-m-line|[C II] 158 μm line]].
 

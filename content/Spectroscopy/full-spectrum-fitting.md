@@ -8,7 +8,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In astrophysics, **full-spectrum fitting** is a rigorous analytical technique used to extract the physical properties and stellar kinematics of galaxies and star clusters from their [[integrated-light-spectroscopy|Integrated light spectroscopy]]. Moving beyond traditional methods that rely on measuring isolated [[narrowband-equivalent-widths|Narrowband equivalent widths]]—such as [[lick-indices|Lick indices]]—this approach models the entire observed continuum and absorption profile simultaneously. By performing a pixel-by-pixel comparison between the observed data and a synthesized model, full-spectrum fitting reconstructs the target spectrum as a linear combination of reference templates. These templates are generated via [[stellar-population-synthesis|Stellar Population Synthesis]] frameworks, utilizing either theoretical stellar atmospheres or empirical databases like the [[miles-stellar-library|MILES (stellar library)]]. The technique has become a cornerstone of modern extragalactic astronomy, providing robust, simultaneous constraints on a galaxy's [[stellar-populations|Stellar Populations]], [[stellar-chemical-abundances|Stellar Chemical Abundances]], and [[galaxy-mass-to-light-ratio|Galaxy mass-to-light ratio]] [Cappellari et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012ascl.soft10002C/abstract).
 

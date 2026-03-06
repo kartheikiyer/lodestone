@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **[C II] 158 μm line** is a prominent [[fine-structure-emission-lines|fine-structure transition]] of singly ionized carbon and one of the brightest [[far-infrared-fine-structure-lines|Far-infrared fine structure lines]] in the universe. With an ionization potential slightly lower than that of hydrogen (13.6 eV), the C$^+$ ion is ubiquitous across multiple phases of the interstellar medium (ISM). It serves as the dominant [[astrophysical-cooling-processes|cooling mechanism]] for the cold neutral medium and photodissociation regions (PDRs), balancing the thermal energy inputted by far-ultraviolet (FUV) photoelectrons ejected from dust grains [Hollenbach et al. (1997)](https://ui.adsabs.harvard.edu/abs/1997ARA&A..35..179H/abstract). Because of this widespread distribution, integrated [C II] emission represents a complex composite signal originating from dense PDRs, diffuse atomic gas, ionized H II regions, and metal-poor "CO-dark" molecular gas, where carbon remains ionized but CO is completely photodissociated [Carilli et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013ARA&A..51..105C/abstract). 
 

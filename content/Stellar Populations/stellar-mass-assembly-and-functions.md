@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The process of stellar mass assembly tracks the [[integrated-star-formation|Integrated star formation]] within galaxies across cosmic time, serving as a fundamental pillar in the study of [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]]. Galaxies grow their stellar mass through two primary channels: *in-situ* star formation from the cooling of interstellar gas, and *ex-situ* [[galaxy-accretion|Galaxy accretion]] via [[major-mergers|Major Mergers]] and minor interactions. The demographic evolution of this process is quantified by the galaxy stellar mass function (GSMF), which measures the comoving number density of galaxies as a function of their stellar mass. By mapping the GSMF and integrating the [[global-star-formation-rate|Global star formation rate]] density across different epochs, astrophysicists can reconstruct the mass history of the Universe, linking the dark matter halo growth predicted by $\Lambda$CDM cosmology to the luminous baryonic structures observed today [Dickinson et al. (2002)](https://ui.adsabs.harvard.edu/abs/2003ApJ...587...25D/abstract). Ultimately, the observed diversity of galaxy forms arises from complex structural transformations driven by the dynamical assembly of smaller constituent systems, which remains a key area of multi-wavelength study [Ellis et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998Natur.395A...3E/abstract).
 

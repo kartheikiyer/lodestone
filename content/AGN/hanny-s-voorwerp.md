@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Hanny's Voorwerp** is a massive, highly ionized extended emission-line region (EELR) located approximately 15 to 25 kiloparsecs from the central supermassive black hole of the spiral galaxy IC 2497. Serendipitously discovered by a citizen scientist during the Galaxy Zoo project, the object is recognized as the prototypical quasar "light echo" or fossil nebula [Lintott et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..129L/abstract). Its unusually strong [O III] $\lambda5007$ forbidden emission lines require an extreme ionizing radiation field that exceeds the current radiative output of the IC 2497 nucleus by orders of magnitude. This dramatic energy shortfall indicates that the gas is currently reflecting the historical luminosity of a central engine that has since faded. By acting as a delayed, kiloparsec-scale bolometer, the nebula provides a unique archaeological record to study short-term variability and episodic duty cycles in [[active-galactic-nuclei-agn-physics|Active Galactic Nuclei (AGN) Physics]].
 

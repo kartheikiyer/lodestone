@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 Cold dark matter (CDM) is a hypothetical form of [[non-baryonic-dark-matter|Non-baryonic dark matter]] characterized by its sluggish, non-relativistic velocities at the epoch of radiation-matter equality. As the primary mass component of the [[universe|Universe]], it provides the fundamental gravitational scaffolding for the standard [[lambda-cdm-model|Lambda CDM model]]. In this cosmological paradigm, CDM is modeled as a pressureless, collisionless fluid that accounts for approximately 80% of the universe's total [[mass-density|Mass density]] and over 20% of its overall [[energy-content|Energy content]]. The necessity of a dominant dark component was initially inferred from the anomalous kinematics of galaxy clusters and the flat rotation curves of spiral galaxies. Today, the CDM framework is robustly supported by a wide array of precision observations, including the power spectrum of cosmic microwave background anisotropies, the large-scale distribution of galaxies, and the mass profiles derived from strong and weak gravitational lensing [Spergel et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015Sci...347.1100S/abstract).
 

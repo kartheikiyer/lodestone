@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In modern astrophysics, large-scale surveys produce data of unprecedented volume and complexity, encompassing multi-wavelength galaxy spectra, massive photometric catalogs, and high-resolution pixel-level imagery. Analyzing these datasets in their native observational spaces exposes algorithms to the "curse of dimensionality," where distance metrics become uninformative and traditional statistical modeling becomes intractable. **Low-dimensional representations** mitigate this challenge by compressing high-dimensional data into a reduced, compact set of latent variables—often referred to as a latent space. This process of [[dimensionality-reduction-in-astrophysics|Dimensionality reduction in astrophysics]] and [[feature-extraction|Feature extraction]] is designed to discard observational noise and redundant information while preserving fundamental physical and morphological properties. By mapping complex observations into just a few latent dimensions, astronomers can efficiently track stellar population evolution, automate redshift estimation, and perform robust [[objective-classification|Objective classification]] on millions of sources.
 

@@ -11,7 +11,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The **Big Bang** is the prevailing cosmological model describing the origin, [[expansion-history|Expansion history]], and continuous evolution of the [[universe|Universe]]. Rooted in Einstein's general theory of relativity and the Cosmological Principle—which posits that the cosmos is homogeneous and isotropic on macroscopic scales—the model dictates that the universe has been expanding from an ultra-dense, extremely hot initial state for approximately 13.8 billion years [Dodelson et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020moco.book.....D/abstract). As the space-time metric expanded, the primordial plasma underwent adiabatic cooling, dictating a rigorous thermal history that governed the decoupling of fundamental forces and the creation of elementary particles [Zeldovich et al. (1983)](https://ui.adsabs.harvard.edu/abs/1983reas.book.....Z/abstract). This framework forms the foundational basis of [[modern-cosmology|Modern cosmology]], transitioning the study of the universe from a static, eternal backdrop to a dynamic, evolving physical system. In this context, the study of [[particle-physics|Particle physics]] provides the necessary tools to understand the creation of the first nuclei and atoms.
 

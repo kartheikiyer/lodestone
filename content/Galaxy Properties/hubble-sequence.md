@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The Hubble sequence is the foundational framework for the [[visual-classification-systems|visual classification]] of galaxies, originally developed by Edwin Hubble in the 1920s. It organizes galaxies into a continuous [[galaxy-morphological-classification|morphological spectrum]], famously represented by a "tuning fork" diagram. The sequence divides galaxies into two broad historical categories: "early-type" systems, which include pressure-supported [[elliptical-and-early-type-galaxies|Elliptical and Early-Type Galaxies]] and transitional lenticulars (S0), and "late-type" systems, comprising rotationally supported [[disk-galaxies|Disk Galaxies]] (spirals) and [[irregular-morphology|irregulars]]. Position along the sequence is primarily governed by structural parameters such as the [[galaxy-structure|Galaxy subcomponents]] (specifically the bulge-to-disk luminosity ratio, $B/T$), the [[arm-pitch-angle|winding tightness of spiral arms]], and the degree of asymmetry. Although initially constructed purely as a visual taxonomy, the classification has proven to reflect deep underlying [[galaxy-properties|Galaxy properties]] and formation histories.
 

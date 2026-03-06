@@ -10,7 +10,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In extragalactic astronomy, the **age-extinction degeneracy** is a fundamental observational ambiguity wherein young, dust-obscured stellar populations exhibit nearly identical [[rest-frame-colors|Rest-frame colors]] and photometric spectral energy distributions (SEDs) to those of older, dust-free quiescent galaxies. This degeneracy arises because both stellar aging and interstellar [[reddening-astronomy|Reddening (astronomy)]] produce functionally similar effects on a galaxy's integrated light. As a stellar population evolves, the rapid depletion of hot, massive O and B stars naturally depresses the ultraviolet and blue continuum. Simultaneously, interstellar dust grains preferentially scatter and absorb short-wavelength photons. Because both processes systematically shift the observed broadband light toward redder wavelengths and steepen the UV-to-optical continuum slope, relying solely on photometry using [[traditional-sed-fitting-techniques|Traditional SED fitting techniques]] often fails to uniquely distinguish between intrinsic stellar cooling and interstellar medium obscuration.
 

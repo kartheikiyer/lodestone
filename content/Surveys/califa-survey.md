@@ -9,7 +9,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The **Calar Alto Legacy Integral Field Area (CALIFA) survey** is a pioneering [[extragalactic-astronomical-surveys|extragalactic]] observational project designed to map the spatially resolved properties of galaxies in the local universe. Conducted using the PMAS/PPAK instrument on the 3.5-meter telescope at the [[calar-alto-observatory|Calar Alto Observatory]], the survey utilized [[integral-field-spectroscopy|Integral Field Spectroscopy]] (IFS) to obtain continuous, two-dimensional maps of stellar populations, gas kinematics, and chemical abundances for a representative sample of nearly 900 local galaxies. Historically, CALIFA served as a critical transitional bridge between early, small-scale IFS mosaics and next-generation, highly multiplexed campaigns like the [[manga-survey|MaNGA survey]] [Bundy et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015IAUS..311..100B/abstract) and SAMI [Bryant et al. (2014)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447.2857B/abstract) surveys. By systematically resolving the full optical extent of its targets, CALIFA overcame the severe aperture biases inherent in earlier single-fiber studies, fundamentally advancing our understanding of galactic mass assembly, chemical enrichment, and secular evolution.
 

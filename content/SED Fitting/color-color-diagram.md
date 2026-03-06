@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In observational astrophysics, a **color-color diagram** is a fundamental diagnostic plot that compares two distinct photometric color indices to classify astronomical objects and infer their underlying physical properties. By plotting the magnitude difference between different pairs of filters against one another, these diagrams serve as low-resolution, two-dimensional projections of an object's spectral energy distribution (SED). Because obtaining high-resolution spectroscopy for large populations of faint objects is observationally expensive, multi-band photometry provides a highly efficient means to isolate specific physical processes. Rooted historically in early stellar population modeling [Bahcall et al. (1986)](https://ui.adsabs.harvard.edu/abs/1986ARA&A..24..577B/abstract), color-color spaces allow astronomers utilizing various [[photometric-systems-and-color-indices|Photometric Systems and Color Indices]] to evaluate continuum emission, measure spectral breaks, and map complex populations without requiring extensive spectroscopic follow-up.
 

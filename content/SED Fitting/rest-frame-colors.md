@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In [[extragalactic-astronomy|Extragalactic astronomy]], **rest-frame colors** represent the intrinsic photometric properties of a celestial object, such as a galaxy, as they would be measured in the object's local rest frame. Because the expansion of the universe redshifts an object's intrinsic spectral energy distribution (SED) to longer wavelengths, a fixed observational filter samples progressively bluer rest-frame light at higher redshifts. To meaningfully compare populations across cosmic time, observed fluxes must be standardized into a common set of [[photometric-systems-and-filters|Photometric Systems and Filters]]. This transformation is typically achieved by applying a [[k-correction|k-correction]] or by utilizing [[traditional-sed-fitting-techniques|Traditional SED fitting techniques]], which mathematically reverse the effects of cosmological redshifting and distance dimming to yield [[magnitude-system|absolute magnitudes]] and intrinsic [[galaxy-color-distributions|colors]] [Coleman et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980ApJS...43..393C/abstract), [de Vaucouleurs et al. (1991)](https://ui.adsabs.harvard.edu/abs/1991rc3..book.....D/abstract). The concept of rest-frame properties also extends to transient sources; for instance, correlating rest-frame peak energy and luminosity is critical for standardizing Gamma-Ray Bursts [Gruber et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012arXiv1207.4620G/abstract).
 

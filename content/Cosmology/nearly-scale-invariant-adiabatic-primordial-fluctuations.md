@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Nearly scale-invariant adiabatic primordial fluctuations** represent the foundational [[initial-conditions-in-astrophysics|Initial Conditions in Astrophysics]] for all structure formation in the universe. Theorized to originate during the early-universe epoch of cosmic inflation, these seeds began as microscopic quantum vacuum fluctuations ([[primeval-fluctuations|Primeval fluctuations]]) that were stretched beyond the Hubble horizon, eventually freezing out as macroscopic [[density-perturbations|Density perturbations]]. They are characterized by two defining properties. First, they are *adiabatic*, meaning that the fractional density perturbations of all cosmic components (such as photons, baryons, and dark matter) are locally equal, preserving a spatially constant matter-to-entropy ratio. Second, they are *nearly scale-invariant*, meaning the amplitude of the [[cosmological-power-spectrum|Cosmological power spectrum]] is approximately equal across all spatial scales. Standard single-field slow-roll inflation predicts that the gradual decay of the inflationary expansion rate imparts a slight "red tilt" to this spectrum. This tilt is parameterized by a scalar spectral index ($n_s$) that is slightly less than unity.
 

@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The **Eddington ratio** ($\lambda_{\rm Edd}$ or simply $\lambda$) is a fundamental [[dimensionless-parameters|dimensionless parameter]] in astrophysics that quantifies the physical balance between outward [[radiation-pressure|Radiation pressure]] and inward gravitational attraction for an accreting body. It is formally defined as the ratio of an object's bolometric luminosity ($L_{\rm bol}$) to its theoretical [[eddington-limit|Eddington limit]] ($L_{\rm Edd}$). Serving as a critical diagnostic of the [[dimensionless-accretion-rate|Dimensionless accretion rate]], the Eddington ratio governs the geometric structure, radiative efficiency, and spectral state of compact accreting systems, most notably [[stellar-mass-black-holes|Stellar mass black holes]] in X-ray binaries and [[supermassive-black-holes|Supermassive black holes]] powering [[active-galactic-nuclei-agn-physics|Active Galactic Nuclei (AGN) Physics]] [Krolik et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999agnf.book.....K/abstract). 
 

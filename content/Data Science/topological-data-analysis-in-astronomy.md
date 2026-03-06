@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Topological data analysis in astronomy** is a mathematical framework used to robustly quantify the [[multi-scale-analysis|multiscale]] connectivity, shape, and morphological features of complex astronomical datasets. Traditionally, the large-scale structure of the Universe has been analyzed using two-point statistics, such as the power spectrum and the standard [[n-point-correlation-function|N-point correlation function]]. However, because the late-time cosmic density field is highly non-linear and non-Gaussian, these conventional spatial metrics fundamentally fail to capture the complex, higher-order geometry of the cosmic web [Pranav et al. (2016)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.4281P/abstract). By employing tools from algebraic topology—principally [[persistent-homology|Persistent homology]] and Betti numbers—topological data analysis (TDA) provides a coordinate-free method to systematically categorize the hierarchical arrangement of dark matter and galaxies. This modern approach represents a significant analytical evolution from early global scalar metrics, such as the [[minkowski-functionals|Minkowski functionals]], allowing researchers to continuously track the "birth" and "death" of structural features across multiple spatial scales [Pranav et al. (2016)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.4281P/abstract).
 

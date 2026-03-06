@@ -11,7 +11,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **BAGPIPES** (Bayesian Analysis of Galaxies for Physical Inference and Parameter EStimation) is an open-source Python package designed to infer the intrinsic physical properties of galaxies from their observed light. In extragalactic astrophysics, deriving fundamental quantities such as stellar mass, star formation rate (SFR), and metallicity relies on [[sed-fitting|SED fitting]]—the statistical process of comparing observed multi-wavelength photometric or spectroscopic data to a library of synthetic spectral energy distributions (SEDs). BAGPIPES achieves this by coupling [[stellar-population-synthesis|Stellar Population Synthesis]] codes with flexible, physically motivated prescriptions for dust attenuation and nebular emission [Carnall et al. (2017)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.4379C/abstract). By utilizing a rigorous [[hierarchical-bayesian-inference|Hierarchical Bayesian inference]] framework powered by nested sampling algorithms, the code efficiently navigates complex, high-dimensional parameter spaces to produce robust marginalized posterior distributions for various [[galaxy-properties|Galaxy properties]].
 

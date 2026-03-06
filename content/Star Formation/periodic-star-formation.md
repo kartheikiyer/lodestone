@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Periodic star formation** describes the recurrent, oscillatory episodes of intense stellar birth—often termed "burst-quench" cycles—that punctuate the otherwise steady evolution of galaxies. In contrast to the steady-state [[continuous-star-formation|Continuous star formation]] predicted by classical equilibrium models, periodic star formation is driven by a non-equilibrium, self-regulating feedback loop. As cold gas condenses and undergoes gravitational collapse, it triggers a localized or galaxy-wide starburst. However, the subsequent delayed energy injection from [[massive-stars|Massive stars]] via supernovae, stellar winds, and photoionizing radiation rapidly heats and evacuates the surrounding interstellar medium. This feedback temporarily quenches further [[star-formation-processes|Star Formation Processes]] until the expelled gas can cool and re-accrete, reinitiating the cycle.
 

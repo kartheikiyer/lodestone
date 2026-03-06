@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 ## Introduction
 In the standard $\Lambda$CDM cosmological paradigm, the condensation of gas into dark matter halos naturally leads to rapid radiative cooling and the catastrophic overproduction of stars. Cosmological simulations demonstrate that without energetic regulatory mechanisms, theoretical models severely overpredict both the cosmic [[star-formation-processes|star formation history]] and the number density of galaxies at the low- and high-mass ends of the galaxy stellar mass function [[bibcode-2009mnras-398-53b|bibcode:2009MNRAS.398...53B]], [[bibcode-2014mnras-445-581h|bibcode:2014MNRAS.445..581H]]. To reconcile theory with observation, astrophysicists invoke **stellar and AGN feedback**—the injection of energy, momentum, and mass into the [[galactic-gas-dynamics-and-flows|interstellar and circumgalactic media]] from stars and supermassive black holes. These [[multi-scale-feedback-processes|Multi-scale feedback processes]] fundamentally drive the cosmic baryon cycle, governing the continuous accretion, ejection, and recycling of gas.

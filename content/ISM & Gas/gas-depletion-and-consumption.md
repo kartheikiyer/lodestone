@@ -8,7 +8,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Gas depletion and consumption** govern the lifecycle of a galaxy's [[cold-gas|Cold gas]] reservoir, dictating its capacity to sustain star formation over cosmic time. At the core of this framework are two fundamental metrics: the [[gas-fraction|Gas fraction]] ($f_{\rm gas}$), which quantifies the relative mass of available interstellar fuel, and the [[depletion-time|Depletion time]] ($\tau_{\rm dep}$), defined as the ratio of the available gas mass to the current [[instantaneous-star-formation-rate|Instantaneous star formation rate]] ($\tau_{\rm dep} = M_{\rm gas}/\dot{M}_\star$). In local [[star-forming-galaxies|Star-forming galaxies]], a tight linear correlation exists between the surface density of [[molecular-gas-and-cloud-evolution|molecular hydrogen]] and the star formation rate, yielding a remarkably uniform molecular gas depletion timescale on kiloparsec scales [Bigiel et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011ApJ...730L..13B/abstract). However, this timescale is observed to decrease systematically at higher redshifts, reflecting the heightened [[average-star-formation-efficiency|Average star formation efficiency]] characteristic of the early Universe [Genzel et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...20G/abstract). Together, these metrics delineate the empirical foundation of [[h2-regulated-star-formation|H2-regulated star formation]] and are used to distinguish quiescent galactic disks from extreme [[starburst-galaxy-evolution|starburst environments]].
 

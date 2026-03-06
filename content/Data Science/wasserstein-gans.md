@@ -7,7 +7,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Wasserstein Generative Adversarial Networks (WGANs)** are a class of deep generative models widely utilized in astrophysics to synthesize high-resolution [[paltas|mock observational data]], emulate computationally expensive simulations, and process complex astronomical imagery. While standard Generative Adversarial Networks (GANs) have proven powerful in computer vision, they frequently suffer from mode collapse and training instability when applied to the highly non-Gaussian continuous density fields and complex morphological distributions inherent to cosmological datasets. WGANs overcome these limitations by utilizing the Wasserstein-1 metric, intuitively known as the Earth Mover’s distance, which provides continuous, non-vanishing gradients throughout training. By dynamically enforcing these gradients—often via a gradient penalty (WGAN-GP)—WGANs establish a highly stable mathematical framework capable of faithfully reproducing intricate astrophysical statistics [Luo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv241020025L/abstract), [Luo et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..279...17L/abstract).
 

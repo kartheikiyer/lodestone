@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The **Paα emission line** (Paschen-alpha), located at a rest-frame vacuum wavelength of 1.875 μm, is a prominent near-infrared hydrogen recombination transition originating from the $n=4$ to $n=3$ atomic energy level of the [[paschen-series|Paschen series]]. Produced primarily in the ionized gas of H II regions and the accretion environments of active galactic nuclei (AGN), Paα is a fundamental, direct tracer of a system's intrinsic ionizing radiation field. Its defining astrophysical advantage is its extremely low susceptibility to interstellar dust extinction compared to optical [[balmer-lines|Balmer lines]]. In deeply enshrouded environments where traditional [[h-alpha-astronomy|H-alpha Astronomy]] and [[optical-emission-line-diagnostics|Optical Emission-Line Diagnostics]] are severely attenuated or rendered completely opaque, near-infrared Paα photons can effectively penetrate dense dust columns. By comparing observed Paα fluxes with heavily attenuated optical measurements to anchor [[steep-balmer-decrements|Steep Balmer decrements]], astronomers can robustly quantify line-of-sight visual extinction ($A_V$) and derive intrinsic, dust-corrected line luminosities.
 

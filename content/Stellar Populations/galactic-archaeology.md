@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Galactic archaeology** is the study of a galaxy's formation and evolutionary history by treating long-lived stars as "fossils" whose precise chemical abundances and phase-space kinematics preserve a record of their birth environments. Operating as a form of [[near-field-cosmology|Near-field cosmology]], the field uses detailed, star-by-star observations of the [[milky-way|Milky Way]] and other nearby galaxies to test theoretical frameworks of galaxy assembly [Freeman et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002ARA&A..40..487F/abstract), [Wyse et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005astro.ph.10025W/abstract). By analyzing these [[stellar-tracers|Stellar tracers]], astronomers can piece together how massive galaxies evolved from early monotonic collapse scenarios to the modern cosmological paradigm of hierarchical growth, in which galaxies are built over cosmic time through the continuous accretion and merger of smaller [[accreted-satellite-galaxies|satellite systems]] [Gilmore et al. (1989)](https://ui.adsabs.harvard.edu/abs/1989epg..conf..172G/abstract), [Majewski et al. (2014)](https://ui.adsabs.harvard.edu/abs/2004PASA...21..197M/abstract).
 

@@ -12,7 +12,6 @@ date: "2026-03-03"
 draft: false
 ---
 
-## Article
 
 The **All-Sky Automated Survey for Supernovae (ASAS-SN)** is a global network of robotic telescopes designed for the continuous, high-cadence optical monitoring of the entire sky. Unlike historical [[stellar-transient-and-supernova-surveys|Stellar Transient and Supernova Surveys]] that relied heavily on host-galaxy [[target-selection|Target selection]], ASAS-SN employs a strictly untargeted [[sky-mapping-and-surveys|Sky Mapping and Surveys]] strategy. By scanning both the northern and southern hemispheres uniformly to a depth of approximately the 18th magnitude in the $g$-band, the survey effectively eliminates host-galaxy bias. This architecture allows ASAS-SN to achieve over 90% completeness for bright optical transients peaking at $m \le 17.0$, compiling an unprecedented volume-limited census of the local universe [Neumann et al. (2022)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4356N/abstract). As a result, the survey has been instrumental in the rapid discovery and characterization of a diverse array of astrophysical phenomena, ranging from local stellar outbursts to the most luminous supernova ever recorded, ASASSN-15lh [Dong et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ATel.7774....1D/abstract).
 

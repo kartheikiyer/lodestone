@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The **Dense Basis** method is a flexible, [[non-parametric-methods-in-astrophysics|Non-parametric methods in astrophysics]] Bayesian framework used to reconstruct the star formation histories (SFHs) of galaxies from their observed integrated light. In contrast to [[traditional-sed-fitting-techniques|Traditional SED fitting techniques]] that rely on rigid analytical forms—such as exponentially declining $\tau$-models—the Dense Basis approach models a galaxy's SFH using a flexible set of basis functions [Iyer et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...838..127I/abstract), a framework that was later upgraded to a fully non-parametric Gaussian process formulation [Iyer et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...879..116I/abstract). Rather than fitting instantaneous star formation rates in arbitrary time bins, the framework mathematically parameterizes a galaxy's [[stellar-component|Stellar component]] assembly via quantiles, inferring the precise lookback times at which a galaxy formed specific fractions (e.g., 25%, 50%, and 75%) of its total stellar mass [Iyer et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...879..116I/abstract). This allows the observational data, rather than an assumed functional form, to directly drive the reconstructed shape of the galaxy's evolutionary track.
 

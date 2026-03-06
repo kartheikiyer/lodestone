@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The **COS Legacy Archive Spectroscopic Survey (CLASSY)** is a comprehensive [[hubble-space-telescope-deep-surveys|Hubble Space Telescope]] observing program that provides a high-resolution, far-ultraviolet (FUV) spectral atlas of 45 local [[emission-line-galaxies|star-forming galaxies]]. Utilizing the [[cosmic-origins-spectrograph-cos-surveys|Cosmic Origins Spectrograph (COS)]], the survey provides high-quality, broad-coverage, high-resolution FUV spectra [Leitherer et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020Galax...8...13L/abstract), [Xu et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...933..222X/abstract). The primary objective of CLASSY is to establish a high-fidelity empirical baseline of local starbursts that spans a broad range of stellar masses, [[chemical-abundances|metallicities]], and star formation rates. By thoroughly characterizing these local analogs, the survey provides the critical calibrations necessary for interpreting the rest-frame UV spectra of distant galaxies, particularly those currently being observed by the [[james-webb-space-telescope-jwst|James Webb Space Telescope (JWST)]].
 

@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Lyman-Alpha science** is a prominent subfield of observational and theoretical astrophysics dedicated to studying the 121.6 nm (rest-frame) resonant transition of neutral hydrogen. Because hydrogen is the universe's most abundant element, and the Lyman-alpha (Ly$\alpha$) line corresponds to its fundamental ground-state excitation, neutral gas presents an exceptionally high scattering cross-section to these photons. Consequently, Ly$\alpha$ radiation undergoes a highly complex, random-walk scattering process in both the spatial and frequency domains as it propagates through the interstellar medium (ISM), circumgalactic medium (CGM), and intergalactic medium (IGM). Foundational theoretical models demonstrated that this resonant scattering strongly couples the emergent radiation field to the underlying gas kinematics, multiphase dust geometry, and local shock fronts [Neufeld et al. (1988)](https://ui.adsabs.harvard.edu/abs/1988ApJ...331L..87N/abstract), [Neufeld et al. (1991)](https://ui.adsabs.harvard.edu/abs/1991ApJ...370L..85N/abstract). Today, Ly$\alpha$ science serves as a critical diagnostic tool for tracing the physical state, distribution, and chemical evolution of gas across cosmic time.
 

@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In astrophysics, the **mass loading factor** (typically denoted as $\eta$ or $\beta$) is a fundamental dimensionless parameter used to quantify the efficiency of [[galactic-outflows-and-feedback|Galactic Outflows and Feedback]]. It is formally defined as the ratio of the total mass outflow rate of gas expelled from a galaxy to its [[instantaneous-star-formation-rate|Instantaneous star formation rate]]. As a central diagnostic of the cosmic baryon cycle, the mass loading factor dictates how effectively [[stellar-and-agn-feedback|Stellar and AGN Feedback]] can eject mass from the interstellar medium and transport it into the [[circumgalactic-medium|Circumgalactic Medium]]. By regulating the gas supply available for future star formation, $\eta$ plays a critical role in controlling the growth of galaxies over cosmic time and shaping global galaxy scaling relations.
 

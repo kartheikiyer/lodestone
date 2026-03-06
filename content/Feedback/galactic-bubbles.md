@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Galactic bubbles** are expansive, low-density cavities of hot, ionized gas, relativistic particles, and magnetic fields driven into the interstellar medium and [[extra-planar-and-circumgalactic-gas|Extra-planar and Circumgalactic Gas]] by highly energetic, localized feedback. These structures span a vast range of physical scales and are primarily classified by their driving mechanisms. On parsec to kiloparsec scales, the collective winds and subsequent supernovae of massive OB stellar associations inflate [[interstellar-bubbles|Interstellar Bubbles]] and larger [[superbubbles|Superbubbles]] that regulate the multiphase structure of the galactic disk [McCray et al. (1977)](https://ui.adsabs.harvard.edu/abs/1977ASSL...70...35M/abstract). On macroscopic scales extending up to hundreds of kiloparsecs, powerful relativistic jets and winds launched by [[central-engines|Central engines]] and active galactic nuclei ([[active-galactic-nuclei-agn-physics|AGN]]) excavate giant cavities within the dense environments of galaxy groups and clusters [Gull et al. (1973)](https://ui.adsabs.harvard.edu/abs/1973Natur.244...80G/abstract). Regardless of their specific origin, these bubbles act as fundamental agents of astrophysical feedback, serving as primary conduits for the transport of mechanical energy, heavy elements, and cosmic rays from galactic cores into the broader halo.
 

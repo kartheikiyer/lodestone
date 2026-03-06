@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Fabry-Pérot (FP) spectroscopy** is a powerful [[high-resolution-imaging|interferometric imaging technique]] that combines the wide spatial coverage of traditional imaging with the high spectral resolution of an [[interferometry|interferometer]]. Within the broader context of [[observational-astronomy-techniques|Observational Astronomy Techniques]], the core of an FP spectrometer is the tunable etalon—an optical cavity formed by two highly reflective, strictly parallel plates. By systematically varying either the physical distance between the plates or the refractive index of the gas within the cavity, astronomers can scan across a specific target wavelength range. As the etalon steps through different resonance conditions, an array detector records a sequence of images. This scanning process produces a comprehensive three-dimensional spectral data cube $(x, y, \lambda)$, providing a continuous, seeing-limited velocity map across a wide field of view without the need for prior target selection or complex slit arrangements.
 

@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The Sloan Digital Sky Survey (SDSS) is a pioneering, multi-generational photometric and spectroscopic campaign that fundamentally transformed observational astrophysics by shifting the field from targeted single-object observations to massive, statistical [[galaxy-surveys-and-catalogs|Galaxy Surveys and Catalogs]]. Initiated using a dedicated wide-field 2.5-meter telescope at Apache Point Observatory, the survey established a standardized [[ugriz-photometry|ugriz photometry]] system and utilized multi-object fiber-fed spectrographs to map the three-dimensional distribution of millions of galaxies, quasars, and stars [Strauss et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002AJ....124.1810S/abstract). By proving that highly efficient, wide-field operations on mid-sized telescopes could produce definitive measurements of the local and distant universe—such as the benchmark optical galaxy luminosity function [Blanton et al. (2002)](https://ui.adsabs.harvard.edu/abs/2003ApJ...592..819B/abstract)—SDSS laid the architectural and algorithmic groundwork for modern big-data astronomy.
 

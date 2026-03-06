@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Galaxy property distributions** describe the statistical frequency and multi-dimensional correlations of physical characteristics—such as luminosity, stellar mass, color, and morphology—across observed [[galaxy-populations|Galaxy populations]]. Because galaxies are complex systems shaped by highly non-linear baryonic physics and dark matter halo assembly, individual objects exhibit vast diversity. However, when analyzed as an aggregated population, galaxies occupy tightly constrained regions of parameter space. Projecting these multidimensional distributions onto single observable axes yields fundamental demographic measures like the [[galaxy-luminosity-function|Galaxy luminosity function]] and the [[mass-distribution-and-functions|stellar mass function]], which are often parameterized by the [[schechter-function|Schechter function]] to identify characteristic scales of galaxy assembly. Another prominent statistical feature of the local universe is [[galactic-bimodality|Galactic Bimodality]]; the [[color-magnitude-relation|Color-magnitude relation]] cleanly divides the population into a star-forming "blue cloud" and a quiescent [[red-sequence|Red sequence]], reflecting distinct evolutionary pathways and star formation histories [Lahav et al. (2014)](https://ui.adsabs.harvard.edu/abs/2004PASA...21..404L/abstract). 
 

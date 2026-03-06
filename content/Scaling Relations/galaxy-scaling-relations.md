@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In extragalactic astrophysics, galaxy scaling relations are empirical power-law correlations that link the fundamental macroscopic [[galaxy-properties|Galaxy properties]] of galaxies, such as their total luminosity, characteristic radius, kinematic velocity, and metallicity. Rather than being mere phenomenological coincidences, these [[fundamental-scaling-relations|Fundamental scaling relations]] arise from the basic requirements of dynamical equilibrium—specifically the virial theorem—acting upon self-gravitating systems [White et al. (1997)](https://ui.adsabs.harvard.edu/abs/1997gsr..proc....3W/abstract). The most prominent examples include the [[tully-fisher-relation|Tully-Fisher relation]] for rotationally supported late-type disks [Courteau et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003astro.ph.10440C/abstract) and the Fundamental Plane for dispersion-supported early-type galaxies. When expressed in observable photometric terms, the theoretically expected geometric power laws are often "tilted." These deviations are primarily driven by systematic variations in the [[galaxy-mass-to-light-ratio|Galaxy mass-to-light ratio]], which reflect changing stellar population demographics, initial mass functions, and gas fractions as a function of total galaxy mass.
 

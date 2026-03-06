@@ -8,7 +8,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Disc regrowth** refers to the process by which a galaxy reconstitutes a rotationally supported stellar or gaseous disc following a [[galaxy-merger-dynamics-and-evolution|major merger]]. Within the standard $\Lambda$CDM paradigm of [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]], massive galaxies grow hierarchically through a continuous sequence of [[galaxy-accretion|mass accretion]] and frequent mergers. Historically, classical models posited that major mergers violently relax collisionless stellar populations, inevitably destroying fragile [[disk-galaxies|discs]] and leaving behind early-type, spheroidal remnants. However, modern high-resolution cosmological simulations and deep observations have driven a paradigm shift: if an interaction is sufficiently gas-rich (a "[[luminous-gas-rich-disc-galaxies|wet" merger]]"), the dissipative, collisional gas can survive the disruption or rapidly re-accrete. Because this gas radiates away its shock-heated kinetic energy while conserving its angular momentum, it rapidly cools and settles into a newly formed rotational plane [Governato et al. (2008)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.398..312G/abstract). This mechanism naturally explains the observed ubiquity of late-type spiral galaxies in the local Universe, demonstrating that the Hubble sequence is a dynamic evolutionary track rather than a static consequence of initial formation.
 

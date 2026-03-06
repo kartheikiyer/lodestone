@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The '''Star Formation History (SFH)''' of a galaxy describes the absolute rate at which it converts cold gas into stars as a function of cosmic time, commonly denoted as $\Psi(t)$ or $\text{SFR}(t)$. Serving as a fundamental fossil record of [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]], a galaxy's SFH encodes the complex physics of baryon cycling—specifically the regulatory balance between cosmic [[galaxy-accretion|Galaxy accretion]], star formation, and feedback-driven outflows. Over cosmic time, the majority of galaxies grow steadily along the [[star-forming-main-sequence|Star-Forming Main Sequence]], interrupted occasionally by intense, short-lived [[starburst-galaxy-evolution|Starburst Galaxy Evolution]] or permanently halted by feedback mechanisms in a process known as quenching. 
 

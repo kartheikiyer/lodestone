@@ -142,8 +142,8 @@ Finally, matching the precise cessation of star formation in massive galaxies co
 > This article has **2** flagged issue(s) (severity: **major**).
 >
 > **1. [broken link]** in *Inside-Out Growth and Spatially Resolved Downsizing*
-> The page `[[two-phase-galaxy-growth|Two-phase galaxy growth]]` does not exist in the provided list of available wiki pages.
-> → *Suggested fix:* Remove the wiki brackets or replace the link with an available page from the list, such as `[[ex-situ-galaxy-growth|Ex-situ galaxy growth]]` or `[[mass-accretion-and-assembly|Mass Accretion and Assembly]]`.
+> The page [[two-phase-galaxy-growth|Two-phase galaxy growth]] does not exist in the provided list of available wiki pages.
+> → *Suggested fix:* Remove the wiki brackets or replace the link with an available page from the list, such as [[ex-situ-galaxy-growth|Ex-situ galaxy growth]] or [[mass-accretion-and-assembly|Mass Accretion and Assembly]].
 >
 > **2. [factual error]** in *Feedback Mechanisms and Physical Drivers*
 > This statement contradicts the findings of the cited paper. Cen (2011) explicitly states that "The mean sSFR at a given redshift is a monotonically increasing function of decreasing galaxy mass." This means that sSFR increases as mass decreases (i.e., lower-mass galaxies have higher sSFRs). The article incorrectly states that sSFR drops from high to low masses, which would mean lower-mass galaxies have lower sSFRs.

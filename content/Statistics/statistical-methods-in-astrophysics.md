@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Statistical methods in astrophysics** encompass the mathematical, computational, and probabilistic frameworks required to extract physical insights from observational data. As astronomy has transitioned from the manual analysis of photographic plates to the petascale data streams of modern automated surveys, rigorous statistical treatments have become an indispensable component of the field [Feigelson et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003sca..book.....F/abstract). Broadly categorized under the interdisciplinary umbrella of "Astrostatistics," these methods integrate [[frequentist-inference|Frequentist inference]], Bayesian probability theory, and machine learning to solve underdetermined inverse problems. By rigorously modeling instrumental noise and background signals, statistical techniques are essential for robust [[physical-parameter-estimation|Physical parameter estimation]] and [[uncertainty-quantification|Uncertainty quantification]] across highly complex, multi-dimensional [[parameter-estimation|parameter spaces]]. These frameworks address fundamental astrophysical challenges, ranging from constraining the $\Lambda$CDM cosmological model to the automated filtering of transient light curves.
 

@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Stellar Dynamics and Kinematics** is the branch of astrophysics dedicated to studying the collective gravitational motion of stars within galaxies, [[star-clusters|star clusters]], and other dense stellar environments. At its theoretical core, the field treats large populations of stars as a macroscopic fluid flowing through [[6d-phase-space|6D phase space]]. Depending on the physical density of the environment, stellar systems operate in one of two distinct dynamical regimes. In vast, extended systems like [[disk-galaxies|Disk Galaxies]] and elliptical halos, the timescale for direct stellar encounters vastly exceeds the age of the Universe; such systems are governed by [[collisionless-dynamics|Collisionless dynamics]] and are mathematically described by the [[vlasov-poisson-equation|Vlasov-Poisson equation]], wherein stars orbit within a smooth, self-consistently generated mean-field gravitational potential [Binney et al. (1987)](https://ui.adsabs.harvard.edu/abs/1987gady.book.....B/abstract). Conversely, in dense environments such as [[globular-clusters|Globular Clusters]] and [[galaxy-nuclei-and-complex-morphologies|Galaxy Nuclei and Complex Morphologies]], the discrete granularity of the stellar distribution cannot be ignored. Here, cumulative small-angle scatterings drive [[two-body-relaxation|Two-body relaxation]], dictating internal processes such as energy equipartition, mass segregation, and core collapse [Binney et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998gaas.book.....B/abstract).
 
@@ -147,8 +146,8 @@ Complicating this debate is the realization that galaxies are rarely in perfect 
 > This article has **3** flagged issue(s) (severity: **major**).
 >
 > **1. [broken link]** in *Historical Evolution of Galactic Dynamical Models*
-> The linked page `[[cosmogony|Cosmogony]]` is not present in the provided list of available wiki pages.
-> → *Suggested fix:* Remove the brackets around 'cosmogony' or link to a related existing page such as `[[stellar-and-galactic-dynamics|Stellar and Galactic Dynamics]]`.
+> The linked page [[cosmogony|Cosmogony]] is not present in the provided list of available wiki pages.
+> → *Suggested fix:* Remove the brackets around 'cosmogony' or link to a related existing page such as [[stellar-and-galactic-dynamics|Stellar and Galactic Dynamics]].
 >
 > **2. [missing context]** in *Collisionless Dynamics in Elliptical Galaxies*
 > The cited paper (Wu et al. 2017) explicitly models the instability driven by external cluster fields within the framework of Modified Newtonian Dynamics (MOND), attributing the effect to MOND's unique External Field Effect (EFE). Presenting this as a general N-body dynamical phenomenon without mentioning its reliance on modified gravity is highly misleading.

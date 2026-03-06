@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **warm neutral medium (WNM)** is a pervasive, diffuse phase of the [[neutral-interstellar-medium|Neutral Interstellar Medium]] composed primarily of neutral atomic hydrogen (H I). Characterized by kinetic temperatures modeled to be somewhat less than $10^4 \text{ K}$ and densities dictated by thermal pressure equilibrium [Wolfire et al. (2002)](https://ui.adsabs.harvard.edu/abs/2003ApJ...587..278W/abstract), the WNM is the volume-dominant neutral gas component in the disks of the Milky Way and other star-forming galaxies. Under the classical [[two-phase-model|Two-phase model]] of the interstellar medium, the WNM exists in a bistable thermal pressure equilibrium with the much cooler, denser [[cold-neutral-medium|Cold neutral medium]] (CNM) [Wolfire et al. (1995)](https://ui.adsabs.harvard.edu/abs/1995ApJ...443..152W/abstract). This thermodynamic balance is maintained by the equilibrium between ambient heating—dominated by the photoelectric ejection of electrons from small dust grains and polycyclic aromatic hydrocarbons (PAHs) via far-ultraviolet radiation—and radiative cooling through fine-structure lines, though observationally the vast majority of fine-structure emission such as [C II] arises from the denser cold phase.
 

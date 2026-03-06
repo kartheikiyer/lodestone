@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In astrophysics, the **gas fraction** ($f_{\rm gas}$) is a fundamental parameter that quantifies the relative mass of gaseous material within a galaxy or galaxy cluster compared to its total baryonic or stellar mass. Formally defined as $f_{\rm gas} = M_{\rm cold} / (M_{\rm cold} + M_*)$—where $M_{\rm cold}$ is the mass of the [[cold-gas|Cold gas]] reservoir (typically comprising atomic hydrogen, H I, and molecular hydrogen, H$_2$) and $M_*$ is the mass of the [[stellar-component|Stellar component]]—this ratio measures the efficiency with which a system has converted its primordial and accreted baryons into stars over cosmic time. In the local universe, the gas fraction exhibits robust [[fundamental-scaling-relations|Fundamental scaling relations]] with stellar mass, luminosity, and surface brightness. [[low-mass-galaxies|Low-mass galaxies]] are overwhelmingly gas-rich and often dominated by H I, whereas [[massive-galaxies|Massive galaxies]] have largely exhausted or expelled their cold gas, evolving into gas-poor systems. By incorporating the gas fraction alongside stellar mass, kinematic scaling laws such as the [[baryonic-tully-fisher-relation|Baryonic Tully-Fisher relation]] can successfully unify the scaling between total baryonic mass and rotational velocity across five orders of magnitude.
 

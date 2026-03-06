@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **half-mass radius** ($r_{1/2}$ or $r_{\rm mass}$) is a fundamental spatial scale in astrophysics defined as the distance from the center of a [[self-gravitating-systems|self-gravitating system]] that encloses exactly half of its [[total-gravitating-mass|Total gravitating mass]]. While early studies of [[galaxy-structure|Galaxy structure]] primarily relied on observational metrics such as [[isophotal-diameters|Isophotal diameters]] or the [[half-light-radius|Half-light radius]] to quantify physical extent [Hubble et al. (1936)](https://ui.adsabs.harvard.edu/abs/1936rene.book.....H/abstract)[de Vaucouleurs et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980AJ.....85..637D/abstract), the half-mass radius provides a more rigorous, physically motivated measure of mass concentration. It serves as a crucial parameter for evaluating theoretical models of galaxy assembly, linking the observable [[stellar-component|Stellar component]] to the underlying dynamical properties of host dark matter halos [Binney et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998gaas.book.....B/abstract). 
 

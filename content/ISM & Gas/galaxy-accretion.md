@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Galaxy accretion** is the fundamental mechanism by which galaxies assemble their mass, dictating their structural, chemical, and dynamical evolution across cosmic time. Operating within the broader framework of the [[hierarchical-merger-paradigm|Hierarchical merger paradigm]], mass assembly proceeds via two primary channels: the continuous [[smooth-accretion|Smooth accretion]] of baryonic gas from the intergalactic medium, and the stochastic, discrete capture of [[accreted-satellite-galaxies|Accreted satellite galaxies]] and dark matter subhalos. While early [[monolithic-collapse|Monolithic collapse]] theories posited a rapid, singular formation epoch, modern cosmological models demonstrate that galaxies are fundamentally open systems. [[smooth-gas-infall|Smooth gas infall]] accounts for the vast majority of a typical galaxy's total mass assembly, fueling [[secular-evolution-of-galaxies|Secular evolution of galaxies]] and sustaining [[continuous-star-formation|Continuous star formation]], whereas the discrete accretion of minor satellites and major mergers primarily makes galaxies more concentrated and triggers intense starbursts [Combes et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998astro.ph..4121C/abstract).
 

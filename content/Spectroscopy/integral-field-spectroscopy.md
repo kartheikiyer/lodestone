@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Integral field spectroscopy (IFS)** is a transformative observational technique in [[astrophysical-spectroscopy|Astrophysical spectroscopy]] that captures both spatial and spectral information simultaneously. By dividing a continuous two-dimensional field of view into discrete spatial pixels—known as [[spaxel|Spaxel]]s—an integral field unit (IFU) records an independent spectrum for each localized region of an extended source. This produces a three-dimensional data cube containing two spatial dimensions and one spectral dimension ($x, y, \lambda$). Historically, astronomers studying extended objects relied heavily on [[long-slit-spectroscopy|Long-slit spectroscopy]], which maps only a single one-dimensional slice across a target, or [[integrated-light-spectroscopy|Integrated light spectroscopy]], which captures the total light within a single fiber but frequently introduces severe aperture biases [Sánchez et al. (2011)](https://ui.adsabs.harvard.edu/abs/2012A&A...538A...8S/abstract). IFS overcomes these limitations by providing a continuous, spatially resolved map, allowing researchers to accurately trace the internal dynamics, chemical environments, and asymmetric structures of galaxies and nebulae without conflating distinct physical regions.
 

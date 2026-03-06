@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In computational astrophysics, **subgrid physics models** are numerical algorithms used in [[cosmological-hydrodynamic-simulations|Cosmological Hydrodynamic Simulations]] to represent physical processes that occur on spatial and mass scales smaller than the explicitly resolved computational grid cells or particles. Modeling the evolution of the Universe requires spanning an immense dynamic range, from megaparsec-scale large-scale structure down to the sub-parsec environments of molecular cloud collapse and black hole accretion. Because finite [[resolution-simulations|Resolution (simulations)]] and limited [[mass-resolution|Mass resolution]] make it computationally prohibitive to track this entire hierarchy simultaneously from first principles, simulations rely on [[subgrid-physics-prescriptions|subgrid prescriptions]]. These models act as [[heuristic-models|heuristic]] or physically motivated bridges, utilizing resolved macroscopic fluid variables—such as gas density, temperature, and metallicity—to approximate the microscopic phenomena that govern galaxy evolution.
 

@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **All-sky surveys** are systematic astronomical observational campaigns designed to map the entire celestial sphere—or a statistically significant fraction of it—down to a specified uniform detection limit. Unlike targeted observations of [[discrete-astronomical-sources|Discrete astronomical sources]], these wide-area programs provide the continuous, high-completeness datasets necessary to evaluate the statistical properties of astrophysical populations and the large-scale distribution of matter. Historically transitioning from early visual [[astronomical-catalogs|Astronomical catalogs]] of nebulae to digital mapping with large-format CCD mosaics, modern surveys now operate comprehensively across the entire electromagnetic spectrum. Foundational optical and infrared efforts, such as the [[sloan-digital-sky-survey-and-sub-surveys|Sloan Digital Sky Survey and Sub-surveys]] and the digitized USNO-B catalog, revolutionized observational astrophysics by enabling the automated extraction and characterization of hundreds of millions of objects, permanently altering the scale of structural [[galaxy-mapping|Galaxy mapping]] [Loveday et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002ConPh..43..437L/abstract), [Monet et al. (2002)](https://ui.adsabs.harvard.edu/abs/2003AJ....125..984M/abstract).
 

@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The $\Lambda$CDM (Lambda cold dark matter) model is the standard parametrization of [[big-bang|Big Bang]] cosmology and the prevailing "concordance" model of [[modern-cosmology|Modern cosmology]] [Turner et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999RvMPS..71..145T/abstract). It provides a minimal yet highly successful theoretical framework that describes the [[cosmological-history|Cosmological history]] of the [[universe|Universe]] from a primordial hot, dense state to its current accelerated expansion. The model is defined by a spatially flat geometry governed by General Relativity, with its [[energy-content|Energy content]] dominated by two distinct, currently unidentified components: a [[positive-cosmological-constant|Positive cosmological constant]] ($\Lambda$) representing vacuum energy, and non-relativistic, collisionless [[cold-dark-matter|Cold dark matter]] (CDM) [Spergel et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015Sci...347.1100S/abstract). Ordinary baryonic matter—the fundamental building blocks of stars, gas, and planets—comprises only about 5% of the total cosmic energy budget, while the elusive [[dark-sector|Dark sector]] accounts for the remaining 95%. 
 

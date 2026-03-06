@@ -7,7 +7,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The **Friedmann equations** are a set of fundamental differential equations in [[general-relativity|General Relativity]] that govern the [[expansion-history|Expansion history]] of a homogeneous and isotropic universe. Derived independently by Alexander Friedmann in 1922 and Georges Lemaître in 1927, these equations arise from applying Einstein's field equations to the highly symmetric Friedmann-Lemaître-Robertson-Walker (FLRW) metric. They represent the mathematical backbone of [[modern-cosmology|Modern cosmology]], dictating how the spatial extent of the universe—parameterized by the cosmic scale factor, $a(t)$—evolves over time in response to its constituent [[energy-density-cosmology|Energy density (cosmology)]], thermodynamic pressure, and intrinsic [[spatial-curvature|Spatial curvature]] [Peacock et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999coph.book.....P/abstract), [Dodelson et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020moco.book.....D/abstract). By reducing the complex, non-linear dynamics of general relativistic [[spacetime-geometry|Spacetime geometry]] to a set of manageable ordinary differential equations, the Friedmann framework established the theoretical foundation for the expanding universe.
 

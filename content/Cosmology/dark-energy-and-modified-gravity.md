@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The [[late-time-cosmic-acceleration|Late-time cosmic acceleration]] of the Universe, confirmed to have begun at a transition redshift of $z_T \approx 0.42 \pm 0.08$ [Daly et al. (2004)](https://ui.adsabs.harvard.edu/abs/2005IJMPA..20.1113D/abstract), [Daly et al. (2006)](https://ui.adsabs.harvard.edu/abs/2007NuPhS.173...19D/abstract), stands as one of the most profound discoveries in [[modern-cosmology|Modern cosmology]]. Direct kinematic measurements yield a present-day deceleration parameter constrained to $q_0 = -0.35 \pm 0.15$ and a dark energy pressure of $p_0 = -0.6 \pm 0.15$ [Daly et al. (2004)](https://ui.adsabs.harvard.edu/abs/2005IJMPA..20.1113D/abstract). To explain this phenomenon, modern cosmology faces a fundamental theoretical bifurcation: the acceleration is either driven by an exotic fluid added to the matter sector (dark energy), or it is a manifestation of new gravitational physics altering the geometry of spacetime at cosmological scales ([[modified-gravity-theories|Modified Gravity Theories]]).
 

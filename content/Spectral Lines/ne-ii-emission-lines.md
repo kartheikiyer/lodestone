@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **[Ne II] 12.81 μm line** is a prominent mid-infrared [[fine-structure-emission-lines|fine-structure emission line]] originating from singly ionized neon (Ne$^+$). As a forbidden transition excited primarily by electron collisions, it serves as a crucial cooling line and a reliable tracer of intermediate-density ionized gas within [[h-ii-regions|H II regions]] and the broader interstellar medium [Tommasin et al. (2007)](https://ui.adsabs.harvard.edu/abs/2008ApJ...676..836T/abstract). Because the formation of Ne$^+$ requires primary [[stellar-ionizing-radiation|Stellar ionizing radiation]] produce enough energy to strip neutral neon, its presence is fundamentally tied to the radiation produced by young, massive stars. Unlike optical [[balmer-lines|Balmer lines]] traditionally used as [[star-formation-tracers|Star formation tracers]], mid-infrared [[neon-emission-lines|Neon emission lines]] are largely impervious to dust attenuation. This relative immunity to extinction allows [Ne II] to probe deeply embedded environments—such as heavily obscured starbursts and ultraluminous infrared galaxies—that are otherwise hidden at shorter wavelengths [Spoon et al. (2008)](https://ui.adsabs.harvard.edu/abs/2009ApJ...693.1223S/abstract).
 

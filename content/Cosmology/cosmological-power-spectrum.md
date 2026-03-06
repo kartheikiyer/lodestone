@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **cosmological power spectrum**, typically denoted as $P(k)$, is a fundamental statistical measure in [[modern-cosmology|Modern cosmology]] that quantifies the variance of cosmic [[density-perturbations|Density perturbations]] as a function of spatial scale, or wavenumber $k$. Rooted in the assumption that the [[universe|Universe]] is statistically homogeneous and isotropic on large scales—the Cosmological Principle—the power spectrum is mathematically defined as the Fourier transform of the [[two-point-correlation-function|Two-point correlation function]] [Mo et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010gfe..book.....M/abstract). For a purely [[gaussian-statistical-methods-in-astrophysics|Gaussian]] random field, this spectrum provides a mathematically complete statistical description of the density fluctuations. Consequently, it serves as the premier theoretical and observational tool for mapping the [[large-scale-structure-of-the-universe|Large-Scale Structure of the Universe]]. By comparing theoretical predictions of $P(k)$ against observational data, astrophysicists can tightly constrain the parameters of the concordance $\Lambda$CDM model, including the total matter density, the amplitude of mass fluctuations (often parameterized by [[f-8|fσ8]] or $\sigma_8$), and the late-time [[expansion-history|Expansion history]].
 

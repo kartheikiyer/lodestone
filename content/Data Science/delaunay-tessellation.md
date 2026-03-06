@@ -7,7 +7,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 ## Revised Full Draft
 
 In cosmological and astrophysical data analysis, a **Delaunay tessellation** is a fundamental geometric framework used to reconstruct continuous, volume-weighted scalar and vector fields from discrete point sets, such as galaxy catalogs or $N$-body simulation particles. Mathematically defined as the dual graph of the Voronoi tessellation, the Delaunay triangulation partitions space into a network of contiguous, non-overlapping simplices (tetrahedra in three dimensions) where the circumsphere of each simplex contains no dataset points in its interior. This unique geometric property provides a self-adaptive foundation for [[density-estimation-techniques|Density estimation techniques]] that naturally scales with local sampling density. By bypassing the arbitrary smoothing scales and symmetric kernels required by standard grid-based mass assignment or [[adaptive-kernel-density-estimation|Adaptive kernel density estimation]], Delaunay-based interpolation seamlessly preserves the extreme density gradients, sharp caustics, and highly anisotropic structural geometries characteristic of the cosmic web [van de Weygaert et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998pcls.work..207V/abstract), [Pelupessy et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003A&A...403..389P/abstract).

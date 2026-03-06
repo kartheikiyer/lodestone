@@ -11,7 +11,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In astrophysics, **bathtub models** (also known as gas regulator models) are foundational analytical frameworks used to describe [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]] by treating a galaxy's interstellar medium as an open, highly regulated gas reservoir. Emerging as a necessary paradigm shift away from the traditional [[closed-box-model|Closed box model]]—which fundamentally failed to explain the sustained star formation and observed metallicities of [[early-galaxy-formation|Early galaxy formation]] [Erb et al. (2007)](https://ui.adsabs.harvard.edu/abs/2008ApJ...674..151E/abstract)—bathtub models emphasize continuous "**baryon cycling**." In this framework, the galactic system is governed by a fundamental mass-balance equation: the gas reservoir is continuously fueled by cosmological [[galaxy-accretion|Galaxy accretion]] from the cosmic web (the "faucet") and depleted by the sink terms of star formation and feedback-driven galactic outflows (the "drain"). By employing a minimal set of physically grounded macroscopic parameters, such as the [[average-star-formation-efficiency|Average star formation efficiency]] and the mass-loading factor of outflows, these models provide a highly efficient, mathematically transparent alternative to complex [[cosmological-hydrodynamic-simulations|Cosmological Hydrodynamic Simulations]] and [[semi-analytic-modeling|Semi-analytic modeling]].
 

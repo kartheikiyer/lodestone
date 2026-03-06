@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The interstellar **extinction law** characterizes the wavelength-dependent [[dust-modeling-and-radiative-transfer|Dust Modeling and Radiative Transfer]] by interstellar dust grains. Because the interaction cross-sections of typical dust grains are larger at shorter wavelengths, this process preferentially removes blue light from the [[line-of-sight-corrections|Line-of-sight corrections]], a phenomenon known as [[reddening-astronomy|Reddening (astronomy)]]. Mathematically, the reduction in observed intensity is described by the [[optical-depth|Optical depth]], which scales with the [[column-density|Column density]] of the intervening dust. In the Milky Way, the extinction law from the ultraviolet through the infrared is canonically parameterized as a one-parameter family of curves governed by the total-to-[[selective-extinction|Selective extinction]] ratio, $R_V$ [Fitzpatrick et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999PASP..111...63F/abstract), [Fitzpatrick et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004ASPC..309...33F/abstract). This single parameter serves as an empirical proxy for the mean dust grain size, while distinct [[interstellar-spectra|Interstellar spectra]]—most notably the prominent [[2175 Å bump]] and mid-infrared silicate absorption bands—encode the underlying [[chemical-abundances|Chemical Abundances]] of the carbonaceous and silicate dust populations.
 

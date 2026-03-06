@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 Violent disk instability (VDI) is a rapid, [[internal-galactic-structure|internal dynamical process]] that dominates the structural and morphological evolution of gas-rich, high-redshift ($z \gtrsim 1$) [[star-forming-galaxies|Star-forming galaxies]]. Unlike the slow [[secular-evolution-of-galaxies|Secular evolution of galaxies]] driven by weak non-axisymmetric features in the local universe [Sellwood et al. (2013)](https://ui.adsabs.harvard.edu/abs/2014RvMP...86....1S/abstract), or external transformations triggered by [[major-mergers|Major Mergers]], VDI is characterized by extreme, global [[gravitational-instability|Gravitational instability]]. In the early universe, galactic disks possess exceptionally high cold gas fractions, pushing the Toomre $Q$ parameter—which quantifies the balance between stabilizing rotational shear, turbulent velocity dispersion, and destabilizing self-gravity—into highly unstable, sub-critical regimes (often $Q \approx 0.2-0.3$). Unable to support themselves against their own gravity, these turbulent disks undergo rapid [[fragmentation-astrophysics|Fragmentation (astrophysics)]], transforming into [[clumpy-disks|Clumpy disks]] dominated by massive, kiloparsec-scale star-forming clumps that contain $10^8$ to $10^9 M_\odot$ of gas and stars.
 

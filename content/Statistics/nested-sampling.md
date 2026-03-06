@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Nested sampling** is a computational algorithm widely used in [[statistical-methods-in-astrophysics|Statistical methods in astrophysics]] to perform robust Bayesian inference. While traditional Markov chain Monte Carlo (MCMC) algorithms focus primarily on [[parameter-estimation|Parameter estimation]] by generating samples from [[posterior-distributions|Posterior distributions]], nested sampling was specifically designed to simultaneously compute the marginal likelihood, or Bayesian evidence. It achieves this by transforming the notoriously difficult multi-dimensional integral of the likelihood over the parameter space into a tractable one-dimensional integral over the prior mass [[bibcode-2009bmc-book-h|bibcode: 2009bmc..book.....H]], [[bibcode-2014bmc-book-h|bibcode: 2014bmc..book.....H]]. This dual capability to both sample the posterior and calculate the evidence makes it an exceptionally powerful tool for complex astrophysical problems where evaluating competing theoretical models is just as important as constraining their underlying parameters.
 

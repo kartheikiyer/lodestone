@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 [[spectral-classification-scheme|Stellar classification]] is the foundational taxonomic framework of astrophysics, mapping the observable properties of stars—such as their spectra, colors, and luminosities—to fundamental physical parameters including effective temperature ($T_{\rm eff}$), surface gravity ($\log g$), and [[stellar-chemical-abundances|chemical composition]]. The most widely adopted scheme is the [[morgan-keenan-classification|Morgan-Keenan classification]] (MK) system, which categorizes stars into distinct spectral types and luminosity classes. When these empirical classifications are plotted against intrinsic luminosity, stars populate highly restricted sequences on the [[hertzsprung-russell-diagram|Hertzsprung-Russell diagram]] (HRD). This distribution strictly reflects the evolutionary states and initial masses of the stars, tracing their lifecycles from pre-main-sequence [[young-stellar-objects|Young stellar objects]] undergoing protostellar collapse, through stable core-hydrogen fusion on the main sequence, and ultimately to post-main-sequence phases such as [[evolved-stars|Evolved stars]] on the asymptotic giant branch or degenerate white dwarfs [Tinsley et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980FCPh....5..287T/abstract), [Renzini et al. (1981)](https://ui.adsabs.harvard.edu/abs/1981A&A....94..175R/abstract). 
 

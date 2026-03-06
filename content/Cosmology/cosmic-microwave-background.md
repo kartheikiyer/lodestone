@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The cosmic microwave background (CMB) is the relic thermal radiation left over from the [[big-bang|Big Bang]], constituting the most ancient light in the observable [[universe|Universe]]. It originated during the epoch of [[recombination-cosmology|Recombination (cosmology)]], approximately 380,000 years after the initial expansion, when the ambient temperature of the hot, dense primordial plasma dropped sufficiently for electrons and protons to bind into neutral hydrogen atoms. This sudden drop in the density of free electrons caused the universe to transition from an opaque fog to a transparent vacuum, allowing decoupled photons to free-stream across space. Today, adiabatic cosmic expansion has stretched these photons to microwave wavelengths, presenting a highly isotropic, near-perfect [[blackbody-radiation|Blackbody radiation]] spectrum with a thermodynamic temperature of $2.7255$ K. As the dominant energetic component of the [[extragalactic-background-light|Extragalactic Background Light]], the CMB serves as the ultimate backdrop for all subsequent cosmological evolution.
 

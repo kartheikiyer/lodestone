@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 [[photoionization-and-ionizing-radiation|Photoionization]] is the fundamental quantum-mechanical process by which high-energy photons—typically in the ultraviolet or X-ray regime—strip bound electrons from neutral atoms or partially ionized species. In astrophysical plasmas, this process is inextricably linked to [[heating-mechanisms-astrophysics|radiative heating]] (or photoionization heating), which occurs when the newly liberated [[x-ray-photoelectrons|photoelectrons]] transfer their residual kinetic energy to the surrounding gas through elastic Coulomb collisions. Together, these mechanisms serve as the primary drivers of thermal regulation and ionization equilibrium in both the interstellar medium (ISM) and the intergalactic medium (IGM) [Draine et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011piim.book.....D/abstract), [Longair et al. (1981)](https://ui.adsabs.harvard.edu/abs/1981heaa.book.....L/abstract). By converting the energy of a macroscopic [[radiation-field|Radiation field]] into microscopic thermal motions, radiative heating counterbalances energy losses from [[radiative-cooling|Radiative cooling]] and [[collisional-excitation|Collisional excitation]], establishing a tight [[temperature-density-relation|Temperature-density relation]] that dictates the thermodynamic state of diffuse cosmic baryonic matter.
 

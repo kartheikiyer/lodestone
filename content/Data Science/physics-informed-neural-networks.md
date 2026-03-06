@@ -7,7 +7,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Physics-informed neural networks** (PINNs) represent a major paradigm shift in astrophysical modeling, moving beyond the purely data-driven "black box" algorithms that historically dominated early morphological classification and parameter estimation tasks [Naim et al. (1995)](https://ui.adsabs.harvard.edu/abs/1995MNRAS.275..567N/abstract), [Phillips et al. (2001)](https://ui.adsabs.harvard.edu/abs/2001astro.ph.12359P/abstract). Unlike standard neural network architectures that rely solely on empirical data, PINNs integrate known governing equations—such as the Vlasov-Poisson, Navier-Stokes, or magnetohydrodynamic (MHD) equations—directly into their training process. This is typically achieved by formulating custom loss functions that penalize any network predictions deviating from established conservation laws, thermodynamic relations, or differential equations. For example, by anchoring a custom loss function to the astrophysical entropy ($K \propto P/\rho^{5/3}$), researchers can enforce exact thermodynamic consistency in complex fluid and outflow models [Nguyen et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv231102057N/abstract).
 

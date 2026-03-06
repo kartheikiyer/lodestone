@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In astrophysics, **stellar generations** (or [[stellar-populations|Stellar Populations]]) constitute a fundamental classification framework that categorizes stars based on their age, kinematics, and [[metallicity|Metallicity]]. Originally developed from Walter Baade's mid-20th-century observations, this system divides stars into three primary tiers that trace the continuous [[chemical-enrichment-history|Chemical enrichment history]] and hierarchical assembly of galaxies [Tinsley et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980FCPh....5..287T/abstract), [Scalo et al. (1986)](https://ui.adsabs.harvard.edu/abs/1986FCPh...11....1S/abstract). Population I encompasses the young, metal-rich stars that actively form in galactic disks; Population II describes the ancient, metal-poor stars residing in [[stellar-halos|Stellar halos]] and [[globular-clusters|Globular Clusters]]; and Population III refers to the hypothetical, entirely metal-free primordial stars that formed immediately following the Big Bang [Tinsley et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980FCPh....5..287T/abstract), [Cayrel et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996A&ARv...7..217C/abstract). Together, these generations chart the evolution of the baryonic universe from pristine, zero-metallicity gas clouds to the chemically complex stellar environments observed today.
 

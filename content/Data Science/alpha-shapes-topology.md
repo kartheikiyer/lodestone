@@ -9,7 +9,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In the context of [[topological-data-analysis-in-astronomy|Topological data analysis in astronomy]], **alpha shapes** provide a rigorous geometric framework for characterizing the multi-scale morphology of the cosmic web. Rather than relying on fixed-scale smoothing techniques like traditional [[isodensity-analysis|Isodensity Analysis]], an alpha shape is constructed as a tunable subset of the [[delaunay-tessellation|Delaunay tessellation]] applied directly to discrete point distributions, such as galaxy catalogs or $N$-body simulation particles [[bibcode-2010arxiv1006-2765v|bibcode:2010arXiv1006.2765V]]. By restricting the Delaunay simplices to only those with a circumradius smaller than a specified threshold parameter, $\alpha$, this method generates a family of piecewise-linear geometric objects that naturally adapt to the local density of the data. This discrete construction enables astrophysicists to explicitly preserve the hierarchical, multiscale nature of the universe's large-scale structure without the artificial suppression of small-scale features common to continuous density fields.
 

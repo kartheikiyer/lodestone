@@ -12,7 +12,6 @@ date: "2026-03-03"
 draft: false
 ---
 
-## Article
 
 In extragalactic astrophysics, **galaxy quenching** refers to the [[galaxy-quenching-mechanisms|physical processes]] responsible for the severe suppression or complete cessation of star formation within a galaxy. This phenomenon fundamentally underpins the observed bimodality of the local universe, driving the evolutionary transition of galaxies from the actively [[star-forming-galaxies|Star-forming galaxies]] that populate the "blue cloud" across the intermediate [[green-valley-galaxies|green valley]] to the passive, [[quiescent-galaxies|quiescent]] "[[red-sequence|Red sequence]]" [Smethurst et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450..435S/abstract). Quenching is characterized empirically by a drastic decline in a galaxy's specific star formation rate (sSFR), often coupled with a reduction in its cold molecular gas reservoir and overall [[average-star-formation-efficiency|star formation efficiency]]. Rather than a single evolutionary track, quenching encompasses a diverse suite of mechanisms that operate over widely varying timescales, altering both the interstellar medium and the fundamental structure of the host galaxy [Martig et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009ApJ...707..250M/abstract).
 

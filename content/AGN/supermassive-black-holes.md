@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Supermassive black holes** (SMBHs) are the most massive class of [[massive-compact-objects|Massive compact objects]] in the Universe, classically defined by masses ranging from $10^5$ to $10^{10}$ solar masses ($M_\odot$). Recent observational and theoretical constraints have expanded this demographic to include both [[ultramassive-black-holes|Ultramassive black holes]] exceeding $10^{11} M_\odot$ and lower-mass precursors that bridge the mass gap to [[intermediate-mass-astrophysical-objects|Intermediate-Mass Astrophysical Objects]]. SMBHs reside at the barycenters of virtually all [[massive-galaxies|Massive galaxies]] that possess a spheroidal stellar component [Kormendy et al. (1995)](https://ui.adsabs.harvard.edu/abs/1995ARA&A..33..581K/abstract), [Ferrarese et al. (2004)](https://ui.adsabs.harvard.edu/abs/2005SSRv..116..523F/abstract). Through highly efficient [[accretion-processes|Accretion Processes]], where gravitational binding energy is dissipated by a surrounding accretion disk, SMBHs power the most luminous persistent phenomena in the cosmos. This energy conversion drives [[active-galactic-nuclei-agn-physics|Active Galactic Nuclei (AGN) Physics]], producing intense radiation, relativistic jets, and wide-angle winds that profoundly influence the thermodynamic state of their host environments.
 

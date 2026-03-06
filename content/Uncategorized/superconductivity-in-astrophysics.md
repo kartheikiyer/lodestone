@@ -7,7 +7,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 # Superconductivity and Superfluidity in Astrophysics
 
 **Superconductivity and superfluidity in astrophysics** refer to the emergence of highly degenerate, superfluid-like states within the ultra-dense environments of compact objects, most notably neutron stars. Unlike terrestrial phase changes observed at cryogenic temperatures, the extreme conditions within these cosmic bodies prompt a macroscopic phase transition to a superfluid state during their cooling phases [Longair et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011hea..book.....L/abstract). This macroscopic quantum phase transition fundamentally alters the thermodynamic, rotational, and magnetic properties of the star, establishing compact objects as premier cosmic laboratories for studying degenerate matter at and beyond nuclear saturation density [Fryer et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJ...956...19F/abstract).

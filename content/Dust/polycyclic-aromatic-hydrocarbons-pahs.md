@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Polycyclic Aromatic Hydrocarbons (PAHs)** are a ubiquitous class of complex organic molecules that represent a major reservoir of carbon in the interstellar medium (ISM). Structurally consisting of fused carbon rings—characteristic of [[aromatic-hydrocarbons|Aromatic hydrocarbons]]—decorated with peripheral hydrogen atoms, PAHs bridge the evolutionary gap between small gas-phase molecules and large carbonaceous dust grains.
 

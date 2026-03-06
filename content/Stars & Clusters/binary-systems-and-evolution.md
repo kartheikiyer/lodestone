@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 A **binary system** consists of two gravitationally bound stars orbiting a common barycenter. While observational surveys indicate that the majority of low-mass stellar systems in the Galactic disk are single [Lada et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006ApJ...640L..63L/abstract), [[massive-stars|Massive stars]] are overwhelmingly found in binary or higher-order multiple configurations. For these systems, the standard paradigm of isolated stellar evolution is superseded by complex interactive processes. As the component stars age and expand, they frequently undergo [[roche-lobe-overflow|Roche lobe overflow]], initiating phases of conservative and non-conservative [[mass-transfer|Mass transfer]]. In systems where this mass transfer is dynamically unstable, the binary may plunge into [[common-envelope-evolution|Common Envelope Evolution]] [van den Heuvel et al. (1994)](https://ui.adsabs.harvard.edu/abs/1994inbi.conf..263V/abstract), a transformative phase that drastically shrinks the orbital separation through gas-dynamical friction and strips the [[donor-stars|donor star]] of its outer hydrogen or helium layers [Kiel et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010MNRAS.406..656K/abstract), [Chrimes et al. (2019)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.3479C/abstract). These interactions fundamentally dictate the masses, spins, and chemical yields of the constituent stars, altering their lifespans and ultimate fates.
 

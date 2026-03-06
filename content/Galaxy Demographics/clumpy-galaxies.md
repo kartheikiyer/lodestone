@@ -9,7 +9,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Clumpy galaxies** are a major demographic of massive [[star-forming-galaxies|Star-forming galaxies]] predominantly observed during "cosmic noon" ($z \sim 1-3$), the epoch corresponding to the peak of the [[cosmic-evolution-and-star-formation-history|Cosmic Evolution and Star Formation History]]. Unlike the smooth, rotationally supported spiral structures typical of the local Hubble sequence, these high-redshift systems exhibit highly irregular, chaotic morphologies. They are characterized by massive, kiloparsec-scale knots of intense ultraviolet emission embedded within thick, gas-rich, and highly turbulent [[clumpy-disks|Clumpy disks]] [Noguchi et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998Natur.392..253N/abstract), [Elmegreen et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009ApJ...701..306E/abstract). In traditional galactic dynamics, starbursts are often confined to compact nuclear regions triggered by external interactions; however, clumpy galaxies host widespread, distributed starbursts across their disks. These individual clumps can encompass up to $10^9 M_\odot$ in stellar mass and drive powerful multiphase outflows, contributing substantially to the global star formation and feedback profile of the host galaxy.
 

@@ -8,7 +8,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In astrophysics, gravitational binding energy is the minimum energy required to completely disassemble a [[self-gravitating-systems|self-gravitating system]]—such as a star, molecular cloud, or galaxy—and disperse its constituent mass to infinity. Because gravity is an unshielded, long-range force, self-gravitating structures are characterized by a negative heat capacity and lack a stable, extensive thermodynamic equilibrium [Bartelmann et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013SSRv..177....3B/abstract). Instead, the structural stability of these systems is governed by the delicate balance between their total internal kinetic energy and their gravitational potential energy, a relationship formalized by the [[virial-theorem-and-parameters|Virial Theorem and Parameters]]. The continuous extraction and dissipation of this binding energy dictate the structural evolution of the universe, ranging from stellar and interstellar medium dynamics [Longair et al. (1994)](https://ui.adsabs.harvard.edu/abs/1994hea..book.....L/abstract) to the catastrophic [[gravitational-collapse|Gravitational collapse]] that forms supermassive black holes [Colgate et al. (2001)](https://ui.adsabs.harvard.edu/abs/2001PhPl....8.2425C/abstract), [Merritt et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013degn.book.....M/abstract).
 

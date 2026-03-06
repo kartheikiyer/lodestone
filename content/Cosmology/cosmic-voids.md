@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Cosmic voids** are vast, underdense regions that constitute the majority of the volume in the [[large-scale-structure-of-the-universe|Large-Scale Structure of the Universe]]. Characterized by significantly lower densities of galaxies and dark matter compared to the cosmic mean, these [[low-density-environments|Low-density environments]] are bounded by the dense nodes, [[cosmic-filaments|Cosmic filaments]], and [[walls-astronomy|Walls (astronomy)]] that compose the [[cosmic-web|Cosmic web]]. Before the late 1970s, the universe was generally assumed to be populated by a relatively uniform distribution of galaxies. The advent of wide-angle redshift surveys revealed instead that galaxies are highly clustered, leaving immense intervening expanses nearly empty [Thompson et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011arXiv1109.1268T/abstract). The subsequent mapping of colossal underdensities, alongside successful replications in early cold dark matter models, cemented voids as a natural and fundamental consequence of hierarchical clustering and gravitational instability [White et al. (1987)](https://ui.adsabs.harvard.edu/abs/1987ApJ...313..505W/abstract), [Geller et al. (1989)](https://ui.adsabs.harvard.edu/abs/1989Sci...246..897G/abstract).
 

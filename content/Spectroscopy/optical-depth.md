@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In astrophysics, **optical depth** ($\tau$) is a fundamental dimensionless quantity that parameterizes the logarithmic attenuation of radiation as it propagates through a medium. Serving as the primary independent variable in the [[transport-equation-astrophysics|Transport equation (astrophysics)]], it directly links the macroscopic flow of radiation to the microscopic [[opacity|Opacity]] and [[emissivity|Emissivity]] of the local gas or dust. Formally defined as the integral of the absorption and scattering cross-sections along a given [[path-length|Path length]], optical depth determines whether a physical environment is transparent or opaque. When $\tau < 1$, the medium is considered an [[optically-thin-gas|Optically thin gas]], meaning the photon [[mean-free-path|Mean free path]] exceeds the physical dimensions of the system and radiation easily escapes. Conversely, a medium with $\tau > 1$ is optically thick, heavily resisting the passage of photons. In stellar astrophysics, these thermodynamic constraints allow researchers to relate the atmospheric pressure and internal temperature stratification directly to the emergent surface brightness.
 

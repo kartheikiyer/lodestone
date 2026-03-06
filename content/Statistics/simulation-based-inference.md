@@ -7,7 +7,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Simulation-based inference** (SBI), frequently referred to as [[likelihood-free-inference|Likelihood-free inference]], is a highly flexible statistical framework used to infer physical parameters from complex observational data when the underlying likelihood function is analytically intractable. Standard Bayesian parameter estimation and [[maximum-likelihood-estimation|Maximum likelihood estimation]] rely on evaluating an explicit likelihood function, $P(D|\theta)$, which maps physical parameters $\theta$ to the observed data $D$. In modern astrophysics and cosmology, however, this true likelihood is often unknown or computationally prohibitive to evaluate due to the highly non-linear nature of structure formation, complex baryonic physics, and intricate observational selection effects. Traditionally, analyses have resorted to assuming Gaussian likelihoods—an approximation that fails to capture non-linear and non-Gaussian regimes [Hahn et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.469.2791H/abstract), [Bellomo et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020JCAP...10..016B/abstract). SBI circumvents this bottleneck by implicitly defining the likelihood through stochastic forward modeling. By generating high-fidelity mock data from fundamental physical principles—such as large-scale $N$-body simulations or hydrodynamical galaxy models—SBI connects theoretical parameters directly to observables, enabling rigorous parameter estimation in previously inaccessible regimes.
 

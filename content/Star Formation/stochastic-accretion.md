@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Stochastic accretion** is the theoretical framework describing the mass growth of central objects—ranging from protostars to supermassive black holes (SMBHs)—through the capture of discrete, randomly distributed packets of matter, rather than through a continuous, azimuthally symmetric flow. In stark contrast to classical [[accretion-disk-theory|Accretion Disk Theory]], which relies on smooth mass transfer governed by a long [[viscous-timescale|Viscous timescale]], stochastic feeding models the infall of individual molecular clouds, stellar winds, or planetesimals. Because these discrete mass packets possess randomly oriented angular momentum vectors, their collisions in the inner accretion environment lead to rapid angular momentum cancellation. This [[chaotic-accretion|Chaotic accretion]] process allows material to bypass classical [[fragmentation-astrophysics|Fragmentation (astrophysics)]] barriers and fall inward at rates approaching the dynamical timescale, profoundly altering our understanding of [[mass-accretion-and-assembly|Mass Accretion and Assembly]] across multiple astrophysical scales.
 

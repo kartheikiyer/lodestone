@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In astrophysics, **superbubbles** are large-scale, low-density cavities in the interstellar medium (ISM) driven by the collective mechanical feedback of massive [[superassociations|Superassociations]] (OB stellar associations). Ranging from hundreds of parsecs to over a kiloparsec in diameter, these structures consist of a highly pressurized, shock-heated X-ray emitting core ($T \sim 10^6 - 10^7$ K) enclosed by a dense, expanding shell of swept-up neutral and ionized gas. Unlike isolated [[interstellar-bubbles|Interstellar Bubbles]] driven by single stars, superbubbles are powered by the continuous energy injection from strong stellar winds and [[clustered-supernovae|Clustered supernovae]]. This spatio-temporal correlation of explosions is fundamentally more efficient at driving large-scale gas motions than isolated supernovae, whose individual remnants often succumb to rapid radiative cooling before significantly impacting the global ISM [McCray et al. (1987)](https://ui.adsabs.harvard.edu/abs/1987ApJ...317..190M/abstract). 
 

@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In cosmology and particle physics, **topological defects** are stable, non-perturbative configurations of matter or energy fields that are theorized to have formed in the early universe. According to the Kibble mechanism, as the primordial universe expanded and cooled, it underwent a series of spontaneous symmetry-breaking phase transitions. When a field relaxes into a lower-energy vacuum state, causally disconnected regions of space can settle into topologically distinct degenerate vacua. As these regions expand and intersect, the field is unable to smoothly interpolate between them, trapping localized pockets of high energy density in the unbroken symmetric state [Vilenkin et al. (1985)](https://ui.adsabs.harvard.edu/abs/1985PhR...121..263V/abstract). The dimensionality of the resulting defect is dictated by the topology of the vacuum manifold, resulting in zero-dimensional [[monopoles|Monopoles]] (including [[global-monopoles|Global monopoles]]), one-dimensional [[cosmic-strings|Cosmic strings]], two-dimensional [[domain-walls|Domain walls]], and three-dimensional unwinding configurations such as [[non-topological-textures|Non-topological textures]].
 

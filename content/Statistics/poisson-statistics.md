@@ -7,7 +7,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In astrophysics, Poisson statistics provide the fundamental mathematical framework for describing the discrete fluctuations inherent in observing independent, random events. Whether characterizing individual photon arrivals at a charge-coupled device (CCD) or tallying the abundance of discrete point sources across the sky, astronomical measurements are fundamentally governed by a spatial or temporal [[poisson-point-process|Poisson point process]]. This inherent discreteness imposes a strict lower bound on [[measurement-uncertainty|Measurement uncertainty]] known as [[shot-noise|Shot noise]]. In observation regimes with extremely low count rates—such as high-energy X-ray and gamma-ray astronomy or the measurement of surface brightness fluctuations—rigorous probabilistic modeling of exact Poisson distributions is strictly necessary to differentiate faint astrophysical signals from [[detector-noise|Detector noise]] and to prevent unphysical results during background subtraction [Ehlert et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.5185E/abstract). 
 

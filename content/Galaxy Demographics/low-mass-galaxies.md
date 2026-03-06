@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Low-mass galaxies** are a ubiquitous class of extragalactic objects typically defined by stellar masses below $10^9 M_\odot$, historically encompassing systems with absolute blue magnitudes $M_B \gtrsim -18$. As the most numerically abundant building blocks in the [[cold-dark-matter|Cold dark matter]] ($\Lambda$CDM) cosmological framework, they dominate the faint end of the [[galaxy-luminosity-function|Galaxy luminosity function]]. Morphologically, the low-mass regime spans a continuum from gas-rich, actively star-forming dwarf irregulars to gas-poor, passive [[dwarf-spheroidal-and-elliptical-galaxies|Dwarf Spheroidal and Elliptical Galaxies]]. Because their shallow gravitational potential wells are highly inefficient at retaining baryons against energetic feedback, these systems are fundamentally characterized by low gas-phase metallicities, extreme mass-to-light ratios, and have historically been recognized as the most dark matter-dominated objects in the Universe [Tinsley et al. (1981)](https://ui.adsabs.harvard.edu/abs/1981MNRAS.194...63T/abstract), [Bothun et al. (1997)](https://ui.adsabs.harvard.edu/abs/1997PASP..109..745B/abstract). 
 

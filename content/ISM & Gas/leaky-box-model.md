@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **leaky box model** is a foundational phenomenological framework used to describe [[galactic-cosmic-ray-propagation|Galactic cosmic ray propagation]]. At its core, the model simplifies the complex, three-dimensional spatial diffusion of particles through galactic magnetic fields by treating the Galaxy as a homogeneous containment volume. Within this "box," cosmic ray sources and interstellar matter are assumed to be uniformly distributed. Instead of explicitly calculating spatial gradients, the model relies on a steady-state approximation where particles have a constant, spatially independent probability of escaping the Galaxy. This escape probability is typically parameterized by the *grammage*—the mean escape path length—which quantifies the column density of interstellar matter a cosmic ray traverses before leaking into intergalactic space [Webber et al. (1993)](https://ui.adsabs.harvard.edu/abs/1993ApJ...402..188W/abstract). 
 

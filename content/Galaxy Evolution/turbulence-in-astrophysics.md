@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 Turbulence in astrophysics refers to the stochastic, multi-scale fluid and plasma motions that govern the structural and thermodynamic evolution of the universe, operating everywhere from the interstellar medium (ISM) to the circumgalactic and intracluster scales. Unlike the highly collisional, incompressible flows frequently studied in terrestrial fluid dynamics, astrophysical turbulence is often characterized by highly [[compressible-turbulence|Compressible turbulence]] driven at supersonic speeds, and is fundamentally coupled to magnetic fields through magnetohydrodynamics (MHD). Historically explored as a "primeval" mechanism for cosmological structure formation [Zeldovich et al. (1983)](https://ui.adsabs.harvard.edu/abs/1983reas.book.....Z/abstract), the study of [[astrophysical-fluid-dynamics-and-turbulence|Astrophysical Fluid Dynamics and Turbulence]] has evolved into a modern paradigm where turbulence acts as a ubiquitous regulatory engine. It dictates the dissipation of kinetic energy, mediates mass and angular momentum transport, and serves as a primary mechanism for amplifying cosmic magnetic fields via both large-scale dynamos [Zeldovich et al. (1987)](https://ui.adsabs.harvard.edu/abs/1987SvPhU..30..494Z/abstract) and the [[small-scale-dynamo|Small-scale dynamo]] [Ruzmaikin et al. (1989)](https://ui.adsabs.harvard.edu/abs/1989MNRAS.241....1R/abstract).
 

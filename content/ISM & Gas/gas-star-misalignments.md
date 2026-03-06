@@ -8,7 +8,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In galactic dynamics, **gas-star misalignments** (often referred to interchangeably as [[stellar-gas-misalignments|Stellar-gas misalignments]]) occur when the angular momentum vector of a galaxy's stellar component is kinematically offset from that of its gaseous interstellar medium. Observationally, these offsets are characterized using spatially resolved velocity maps from integral field spectroscopy (IFS). A galaxy is typically classified as misaligned if the difference between the kinematic position angles of its gas and stars exceeds $30^\circ$. Because collisional gas naturally dissipates energy and settles into the principal equatorial plane of a host galaxy's gravitational potential, substantial kinematic offsets indicate that the stellar body and the gas do not share a secular origin. Instead, these misalignments serve as critical signatures of external galaxy assembly processes, such as smooth cold gas accretion from the cosmic web, cooling from the hot circumgalactic halo, or past merger events. 
 

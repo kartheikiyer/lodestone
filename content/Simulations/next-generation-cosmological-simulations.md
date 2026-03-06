@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Next-generation cosmological simulations** are state-of-the-art, high-performance computational models designed to track the co-evolution of dark matter and [[baryonic-matter-and-evolution|Baryonic Matter and Evolution]] across cosmic history. Driven by the demands of precision cosmology, these models bridge an unprecedented dynamic range, simultaneously capturing the gigaparsec scales of [[non-linear-structure-formation|Non-linear Structure Formation]]—a regime traditionally dominated by gravity-only frameworks [Angulo et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022LRCA....8....1A/abstract)—while also pushing to the sub-parsec scales of star formation and black hole accretion. To achieve this fidelity, [[cosmological-hydrodynamic-simulations|Cosmological Hydrodynamic Simulations]] combine highly accurate $N$-body gravity solvers with advanced Smoothed Particle Hydrodynamics (SPH) [Springel et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ascl.soft04014S/abstract), moving-mesh [Kereš et al. (2011)](https://ui.adsabs.harvard.edu/abs/2012MNRAS.425.2027K/abstract), mesh-free [Zhu et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJ...831...52Z/abstract), or Eulerian hydrodynamics. 
 

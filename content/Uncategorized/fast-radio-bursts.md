@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Fast Radio Bursts** (FRBs) are intensely luminous, millisecond-duration [[radio-transients|Radio transients]] originating at extragalactic and cosmological distances. They are fundamentally characterized by anomalously high dispersion measures (DMs)—a frequency-dependent delay in the pulse arrival time—that far exceed the maximum free electron column density expected from the Milky Way's interstellar medium [Thornton et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013Sci...341...53T/abstract). The [[rapid-variability|brief temporal durations]] and staggering energy releases of FRBs imply phenomenal brightness temperatures, often exceeding $10^{36}$ K. This extreme energy density strictly mandates a [[coherent-emission|Coherent emission]] mechanism, distinguishing FRB emission from the incoherent synchrotron radiation processes typical of most galactic and active galactic nuclei sources. Initially emerging from archival pulsar data as [[serendipitous-astronomical-discoveries|Serendipitous astronomical discoveries]], FRBs have rapidly become a cornerstone of high-energy time-domain astrophysics.
 

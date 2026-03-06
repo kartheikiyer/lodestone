@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Astrophysical cooling processes** encompass the diverse radiative mechanisms through which baryonic gas and relativistic particles dissipate thermal and kinetic energy, a fundamental requirement for the gravitational collapse of structures in the universe. In the low-density environments typical of cosmic gas, thermal regulation is dominated by two-body [[radiative-cooling|Radiative cooling]], quantified by a temperature- and metallicity-dependent cooling function, $\Lambda(T)$. The dominant microphysical channels transition sharply with the kinetic temperature of the gas. In a [[hot-astrophysical-plasma|Hot Astrophysical Plasma]] ($T \gtrsim 10^7$ K), such as the intracluster medium, fully collisionally ionized gas cools primarily via thermal bremsstrahlung. At intermediate temperatures ($10^4$ K $< T < 10^6$ K), [[atomic-cooling|Atomic cooling]] via collisional [[excitation-mechanisms|Excitation mechanisms]] and recombination dictates energy loss, producing strong emission from hydrogen, helium, and metal ions. In cold, neutral environments, gas sheds energy through molecular rotational-vibrational transitions and metal fine-structure lines, such as the [[c-ii-158-m-line|[C II] 158 μm line]], which ultimately allows the interstellar medium to fragment and form stars.
 

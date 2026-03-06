@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In computational cosmology, **halo finders** are algorithmic tools designed to identify, resolve, and characterize gravitationally bound structures—such as dark matter halos and their constituent subhalos—within large-scale $N$-body and hydrodynamical simulations. Because dark matter cannot be observed directly, these algorithms serve as the critical bridge between theoretical models of cosmic structure formation and observable astrophysical phenomena. Historically, halo finders operated purely in 3D configuration space, defining boundaries either through density thresholding criteria (Spherical Overdensity) or via spatial percolation techniques like the [[friends-of-friends-algorithm|Friends-of-friends algorithm]]. Foundational studies established that these spatial definitions successfully capture the bulk distribution of cosmic matter [Governato et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999MNRAS.307..949G/abstract); however, the choice of algorithm and its free parameters fundamentally shapes the resulting theoretical predictions, highlighting the inherent ambiguity in defining a dark matter halo [Knebe et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.435.1618K/abstract). 
 

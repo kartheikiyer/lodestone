@@ -11,7 +11,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Balmer break galaxies** (BBGs) are a class of extragalactic objects identified by a prominent continuum discontinuity at 3646 Å in their rest-frame spectral energy distributions. This spectral feature arises from the atomic physics of neutral hydrogen, specifically the ionization threshold from the first excited state ($n=2$). Because this absorption is maximized in the atmospheres of intermediate-mass stars, the depth of the Balmer break serves as a fundamental chronometer for dating stellar populations. A strong Balmer break typically indicates that a galaxy has recently ceased star formation (quenched), leaving its optical continuum dominated by an intermediate-age stellar population roughly 100 Myr to 1 Gyr old. Historically studied in the local universe as post-starburst or "E+A" systems with [[strong-metal-and-balmer-absorption-features|Strong metal and Balmer absorption features]], BBGs have become a critical tracer of galaxy mass assembly across cosmic time. They provide a distinct demographic view of galaxy evolution compared to the older, metal-rich spheroids traced by the [[4000 Å break]], or the continuously star-forming, UV-bright systems isolated via [[lyman-break-selection-and-galaxies|Lyman-Break Selection and Galaxies]] [Steidel et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996AJ....112..352S/abstract).
 

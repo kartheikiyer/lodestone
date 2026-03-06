@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 A simple stellar population (SSP) is an idealized, structurally and chemically homogeneous ensemble of stars that formed simultaneously from the same progenitor molecular cloud. By theoretical definition, all stars within an SSP share a single, strictly coeval age and a uniform initial [[stellar-chemical-abundances|chemical composition]], with their demographic distribution governed entirely by a chosen [[initial-mass-function-imf|Initial Mass Function (IMF)]]. SSPs serve as the fundamental theoretical building blocks in [[stellar-population-synthesis|Stellar Population Synthesis]] modeling [Tinsley et al. (1975)](https://ui.adsabs.harvard.edu/abs/1975MmSAI..46....3T/abstract), [Vazdekis et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003MNRAS.340.1317V/abstract). By coupling theoretical [[evolutionary-tracks|Evolutionary tracks]] with empirical spectral libraries, astrophysicists integrate the light of individual stars along a constant-age isochrone to predict the integrated spectral energy distributions (SEDs) and color-magnitude diagrams of unresolved [[galactic-stellar-populations|Galactic stellar populations]].
 

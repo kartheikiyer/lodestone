@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The Near Infrared Camera (NIRCam) is the [[james-webb-space-telescope-jwst|primary imaging instrument]] aboard the [[james-webb-space-telescope-jwst|James Webb Space Telescope (JWST)]], providing high-resolution photometry across the 0.6 to 5.0 $\mu$m wavelength range. Representing a paradigm shift in [[near-infrared-astronomy|Near-Infrared Astronomy]], NIRCam offers unprecedented sensitivity and spatial resolution that vastly exceed the capabilities of legacy space imagers such as [[nicmos|NICMOS]] and the [[wide-field-camera-3|Wide Field Camera 3]]. The instrument utilizes a dual-module design equipped with an extensive suite of broad- and medium-band filters, which are critical for estimating precision photometric redshifts and isolating specific emission lines or stellar types. Beyond its strictly scientific applications, NIRCam serves a foundational engineering role for the observatory: it functions as the primary wavefront sensor, capturing the specialized imagery required by the Wavefront Sensing and Control (WFS&C) system to align and phase JWST's 18 hexagonal primary mirror segments into a single, diffraction-limited optical surface [Contos et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006SPIE.6265E..0XC/abstract).
 

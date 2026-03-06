@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Super-Eddington radio-loud dust-obscured galaxies** are a rare, extreme class of [[high-redshift-active-galactic-nuclei|High-redshift active galactic nuclei]] ($z \approx 2-4.6$) characterized by the simultaneous presence of hyper-efficient black hole accretion, powerful relativistic jets, and profound circumnuclear dust obscuration. These systems host central supermassive black holes accreting at or above the Eddington limit—the theoretical threshold where outward radiation pressure balances the inward gravitational force. Because the [[active-galactic-nuclei-agn-physics|active nucleus]] is deeply embedded within a dense, gas-rich interstellar medium, its immense ultraviolet and optical output is almost entirely absorbed and thermally reprocessed by surrounding dust. This produces extreme mid-to-far infrared emission, frequently classifying these objects as hyperluminous [[hot-dog-hot-dust-obscured-galaxy|Hot DOG (Hot Dust-obscured Galaxy)]]s [Dey et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008ApJ...677..943D/abstract), [Assef et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJ...804...27A/abstract). The resulting X-ray spectra are typically reflection-dominated and Compton-thick, confirming the presence of an extraordinarily dense obscuring cocoon [Piconcelli et al. (2014)](https://ui.adsabs.harvard.edu/abs/2015A&A...574L...9P/abstract).
 

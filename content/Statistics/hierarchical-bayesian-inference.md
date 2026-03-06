@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In astrophysics, **hierarchical Bayesian inference** is a rigorous statistical framework used to characterize population-level distributions by simultaneously modeling the physical properties of individual objects and their associated observational uncertainties. As modern [[cosmic-surveys|Cosmic surveys]] produce increasingly massive [[large-galaxy-catalogs|Large galaxy catalogs]], traditional frequentist techniques—such as data stacking and standard [[maximum-likelihood-estimation|Maximum likelihood estimation]]—often fall short, systematically underestimating population variance and introducing parameter biases. The Hierarchical Bayesian Model resolves this by treating the true, unobserved properties of individual sources as latent variables drawn from a shared, overarching demographic distribution governed by hyperparameters. This mathematically unified approach correctly propagates complex, non-Gaussian measurement noise and survey [[selection-function|Selection function]] effects up to the population level, allowing astrophysicists to cleanly deconvolve instrumental dispersion from genuine astrophysical variations. Foundational literature and implementations (e.g., [Hobson et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009bmc..book.....H/abstract), [Jasche et al. (2009)](https://ui.adsabs.harvard.edu/abs/2010MNRAS.407...29J/abstract)) have firmly established this multi-level methodology as the standard paradigm for modern demographic analysis.
 

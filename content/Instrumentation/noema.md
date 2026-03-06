@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **Northern Extended Millimeter Array** (NOEMA) is the most sensitive facility for [[millimeter-wave-astronomy|Millimeter-wave Astronomy]] in the Northern Hemisphere. Operated by the Institut de Radioastronomie Millimétrique (IRAM), NOEMA is a radio interferometer designed for high-resolution spectroscopic imaging of molecular gas and cold dust emission. The observatory represents a comprehensive technological and structural upgrade from the legacy [[plateau-de-bure-interferometer|Plateau de Bure Interferometer]], featuring expanded baselines and ultra-wide-bandwidth correlators [da Cunha et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013ApJ...765....9D/abstract). Providing critical northern-sky coverage and high-frequency capabilities, NOEMA functions as a highly complementary counterpart to the southern-sky [[atacama-large-millimeter-array-alma|Atacama Large Millimeter Array (ALMA)]], enabling astronomers to probe the cold universe across all declinations [Tan et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A&A...684A..23T/abstract).
 

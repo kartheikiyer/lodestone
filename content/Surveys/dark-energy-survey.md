@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The **Dark Energy Survey (DES)** is a wide-field optical and [[infrared-instrumentation-and-catalogs|near-infrared]] [[extragalactic-astronomical-surveys|Stage III cosmological survey]] designed to characterize the nature of cosmic acceleration and the properties of dark energy. Operating over 525 observing nights between 2013 and 2019, the survey [[sky-mapping-and-surveys|mapped]] approximately 5,000 square degrees of the southern celestial hemisphere to unprecedented depths. The project was executed using the purpose-built, 570-megapixel Dark Energy Camera ([[decam|DECam]]), mounted at the prime focus of the [[blanco-telescope|Victor M. Blanco 4m telescope]] at the [[cerro-tololo-inter-american-observatory|Cerro Tololo Inter-American Observatory]] in Chile [Diehl et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012PhPro..37.1332T/abstract). By compiling precise [[astronomical-photometry-techniques|photometry]] in five broad bandpass filters ([[ugriz-photometry|$grizY$]]) for hundreds of millions of galaxies and stars, DES represents a major milestone in [[extragalactic-astronomy|Extragalactic astronomy]], bridging the gap between early [[large-galaxy-catalogs|large-area mapping projects]] and upcoming Stage IV [[cosmic-surveys|Cosmic surveys]] [The Dark Energy Survey Collaboration et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005astro.ph.10346T/abstract).
 

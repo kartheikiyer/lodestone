@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In astrophysics, **chemical abundances** quantify the relative concentrations of [[chemical-elements|Chemical elements]]—specifically those heavier than helium, which are collectively termed [[heavy-element-enrichment|metals]]—within stellar atmospheres, the interstellar medium, and the circumgalactic medium. Typically derived from high-resolution spectroscopy of [[stellar-absorption-lines|Stellar absorption lines]] and nebular emission features, these measurements are expressed using mass fractions, number density ratios, or the standard logarithmic "dex" notation relative to solar baselines [Pagel et al. (1973)](https://ui.adsabs.harvard.edu/abs/1973SSRv...15....1P/abstract). Because heavy elements are synthesized in the interiors of stars and subsequently expelled through stellar winds and supernovae, the chemical composition of an astrophysical system serves as a direct, observable fossil record of its [[star-formation-history|Star Formation History]] and assembly. Consequently, the study of chemical abundances forms the foundational pillar of galactic archaeology and models of [[chemical-evolution-and-nucleosynthesis|Chemical Evolution and Nucleosynthesis]].
 

@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **GADGET** (GAlaxies with Dark matter and Gas intEracT) is a widely used, [[parallel-computing-in-astrophysics|massively parallel]] [[numerical-simulation-codes|numerical code]] designed for high-resolution [[cosmological-hydrodynamic-simulations|Cosmological Hydrodynamic Simulations]] and isolated galactic dynamics. As a foundational tool in [[computational-astrophysics|Computational astrophysics]], GADGET tracks the collisionless dynamics of dark matter and stars alongside the gas dynamics of the interstellar and intergalactic mediums [Faltenbacher et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005MNRAS.362.1099F/abstract), [Springel et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ascl.soft04014S/abstract). To compute gravitational forces over vast dynamic ranges, the code employs a hybrid "[[p3m-gravity|TreePM]]" algorithm, which seamlessly couples a Barnes-Hut [[tree-code-n-body-simulations|Tree code (N-body simulations)]] for short-range interactions with Fourier-based [[particle-mesh-simulations|Particle-mesh simulations]] for long-range periodic forces. For fluid dynamics, standard GADGET utilizes Smoothed Particle Hydrodynamics (SPH), a Lagrangian, mesh-free technique that represents continuous gas as a set of discrete tracer particles. This approach provides natural spatial adaptivity, ensuring high computational resolution in dense, collapsing regions like galactic cores without wasting resources on empty voids.
 

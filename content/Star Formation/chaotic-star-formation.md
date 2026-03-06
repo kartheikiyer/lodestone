@@ -8,7 +8,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Chaotic star formation** is a modern theoretical framework describing the simultaneous, non-linear birth of stellar populations driven by supersonic turbulence, complex dynamical interactions, and competitive accretion. Moving beyond classical, [[deterministic-star-formation|Deterministic star formation]] models of isolated [[monolithic-cloud-collapse|Monolithic cloud collapse]], this paradigm posits that interstellar gas is structured by chaotic turbulent motions into a multi-phase, scale-free hierarchy of density fluctuations. Within this environment, localized dense regions that overcome thermal and turbulent support undergo gravitational instability through a process known as turbulent [[fragmentation-astrophysics|Fragmentation (astrophysics)]]. By applying excursion set frameworks—such as the "last-crossing" formalism—to the statistical properties of these turbulent fields, theorists can mathematically map the macro-scale variations in [[molecular-cloud-dynamics|Molecular Cloud Dynamics]] to the core mass function (CMF), successfully deriving the high-mass power-law tail of the stellar initial mass function (IMF) from first principles [Hopkins et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012MNRAS.423.2037H/abstract). In this clustered environment, nascent protostars grow via [[stochastic-accretion|Stochastic accretion]], dynamically interacting within a shared gas reservoir to dictate the final distribution of stellar masses.
 

@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Legacy surveys** are large-scale, systematic observational programs designed to produce high-fidelity, non-proprietary public datasets that serve as foundational resources for multi-generational community research. They represent a departure from targeted, hypothesis-driven observations, prioritizing instead a panoramic, unbiased [[sky-mapping-and-surveys|mapping of the sky]]. This cartographic approach enables robust statistical analyses on samples of millions to billions of sources, freeing researchers from the selection biases inherent in targeted [[archival-catalogs|archival pointings]]. While the paradigm originated with early visual compilations and digitized photographic plates [Gal et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006astro.ph..1195G/abstract), it fully matured into the "big data" era with the advent of wide-field digital astronomy pioneered by the [[sloan-digital-sky-survey-and-sub-surveys|Sloan Digital Sky Survey and Sub-surveys]] and the [[two-micron-all-sky-survey-2mass|Two Micron All-Sky Survey (2MASS)]]. Today, legacy surveys are the bedrock of modern [[extragalactic-astronomy|Extragalactic astronomy]], providing the comprehensive [[astronomical-catalogs|catalogs]] necessary for everything from rare [[stellar-transient-and-supernova-surveys|transient discovery]] to precision cosmology.
 

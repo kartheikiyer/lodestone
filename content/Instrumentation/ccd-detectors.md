@@ -8,7 +8,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 Charge-coupled devices (CCDs) are specialized [[silicon-detectors|Silicon detectors]] that have served as the primary imaging and spectroscopic sensors in optical, near-ultraviolet, and X-ray astronomy since their widespread adoption in the late 20th century. Operating via the photoelectric effect, CCDs convert incident photons into a spatial distribution of electric charge. As photons strike the fully depleted silicon bulk of the detector, the generated electrons (or holes, depending on the doping) are confined within discrete potential wells and systematically clocked across the pixel array to a readout amplifier. Early small-format devices revolutionized astronomical instrumentation by offering dramatically higher quantum efficiencies and broader dynamic ranges than legacy photographic plates [Leach et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980PASP...92..233L/abstract). CCDs are fundamentally characterized by their highly linear response to incident flux, a property that enables precise digital photometry and the quantitative observation of exceptionally faint cosmological sources.
 

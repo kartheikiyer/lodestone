@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Galaxy kinematics** is the branch of astrophysics dedicated to the study of the motion of stellar and gaseous components within galaxies. As a fundamental pillar of [[internal-stellar-and-galactic-dynamics|Internal Stellar and Galactic Dynamics]], it provides the primary empirical constraints on the underlying gravitational potential and mass distribution of galactic systems. The kinematic state of a galaxy is broadly characterized by the balance between [[ordered-rotation|Ordered rotation]]—the dominant form of dynamical support in [[disk-galaxies|Disk Galaxies]]—and random velocity dispersion, which supports pressure-dominated spheroids [Binney et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998gaas.book.....B/abstract). By mapping these velocity fields and extracting the full line-of-sight velocity distribution (LOSVD) from various galactic tracers, astrophysicists can disentangle luminous baryonic matter from invisible structural components. This process is essential for constraining the mass of central supermassive black holes and provides critical evidence for extended dark matter halos via the observation of [[flat-rotation-curves|Flat rotation curves]].
 

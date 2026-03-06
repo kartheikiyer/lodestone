@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In modern astrophysics, the **early universe** refers to the high-redshift [[primeval-formation-stages|Primeval formation stages]] of the cosmos, spanning from the [[early-universe-epochs|Early universe epochs]] immediately following the [[big-bang|Big Bang]] through the initial phases of structure formation. Governed by the universe's [[expansion-history|Expansion history]], this period is characterized by the thermal history of a rapidly cooling, expanding plasma. Key milestones in this primordial era include [[nucleosynthesis|Nucleosynthesis]], where the first light elements were forged in a [[radiation-dominated-universe|Radiation-dominated universe]] [Sato et al. (1971)](https://ui.adsabs.harvard.edu/abs/1971PThPS..49...11S/abstract), and the subsequent recombination era at $z \approx 1300$. During recombination, the cosmic temperature dropped sufficiently for electrons and protons to bind into neutral hydrogen, effectively decoupling [[baryonic-matter-and-evolution|Baryonic Matter and Evolution]] from the radiation field and releasing the cosmic microwave background. This transition marked the beginning of a dark period in [[cosmological-history|Cosmological history]] known as the Dark Ages, establishing the initial conditions for [[galaxy-and-universe-evolution|Galaxy and Universe evolution]].
 

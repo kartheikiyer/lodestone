@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **H I mass function** (HIMF) is a fundamental statistical measure in [[extragalactic-astronomy|Extragalactic astronomy]] that describes the comoving [[number-density|Number density]] of galaxies as a function of their neutral atomic hydrogen (H I) mass. Typically parameterized by a [[schechter-function|Schechter function]], the HIMF is characterized by a normalization constant defining the overall [[spatial-density|Spatial density]], a characteristic "knee" mass ($M^* \approx 10^{9.8} M_\odot$) that marks the exponential drop-off of gas-rich massive systems, and a faint-end slope ($\alpha$) that dictates the abundance of H I in [[low-mass-galaxies|Low-mass galaxies]]. By integrating this mass function, astronomers can derive the [[cosmic-h-i-density|Cosmic H I density]] ($\Omega_{\rm HI}$), which represents the total cosmological mass fraction locked in cold, neutral gas—the primary fuel reservoir for star formation across cosmic time [Schneider et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998ApJ...507L...9S/abstract), [Zwaan et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.2842Z/abstract).
 

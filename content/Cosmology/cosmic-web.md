@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The **cosmic web** is the fundamental, interconnected [[large-scale-structure-of-the-universe|Large-Scale Structure of the Universe]], comprising a vast network of [[cold-dark-matter|dark matter]] and [[baryonic-matter-and-evolution|baryonic gas]] that spans megaparsec scales. Emerging from the gravitational collapse of [[strong-primordial-inhomogeneities|primordial density fluctuations]] generated in the early [[cosmological-history|Universe]] [Bond et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996Natur.380..603B/abstract), this architecture represents the quasi-linear regime of [[hierarchical-structure-formation|Hierarchical structure formation]]. Driven by the dynamics of [[cold-dark-matter|Cold dark matter]], matter undergoes anisotropic gravitational collapse to form a distinct morphological hierarchy: expansive, underdense [[cosmic-voids|Cosmic Voids]] are bounded by two-dimensional planar sheets (or [[zel-dovich-pancake|Zel’dovich pancake]]s), which intersect to form dense, one-dimensional [[cosmic-filaments|Cosmic filaments]]. These filaments serve as cosmic highways, funneling matter into massive, zero-dimensional nodes that host rich [[clusters-of-galaxies|Clusters of galaxies]].
 

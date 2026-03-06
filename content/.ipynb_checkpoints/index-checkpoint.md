@@ -27,7 +27,7 @@ Lodestone is not a textbook. It is more akin to a reference module based on curr
 
 ## How to use this wiki
 
-Each page covers a single concept: an astrophysical object class, physical process, observational phenomenon, method, dataset, or theoretical framework. Pages are linked to each other through `[[wikilinks]]`, and every factual claim carries a citation traceable to a specific paper. Use the **graph view** to explore connections between topics, or the **search bar** to find a specific concept. If there's anything factually incorrect or not quite right (or if you like something!), please click on the feedback button on the right to provide a report! 
+Each page covers a single concept: an astrophysical object class, physical process, observational phenomenon, method, dataset, or theoretical framework. Pages are linked to each other through [[wikilinks]], and every factual claim carries a citation traceable to a specific paper. Use the **graph view** to explore connections between topics, or the **search bar** to find a specific concept. If there's anything factually incorrect or not quite right (or if you like something!), please click on the feedback button on the right to provide a report! 
 
 > [!tip] Relevant papers
 > 

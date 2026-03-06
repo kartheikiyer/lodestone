@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Direct electron temperature** ($T_e$) **determination** is a fundamental observational technique used to establish the thermal state and chemical composition of ionized gas. The method primarily relies on measuring the flux ratio of collisionally excited emission lines originating from the same ionic species but possessing significantly different excitation energies. By taking the ratio of a faint, high-excitation "auroral" line to a strong, low-excitation "nebular" line—such as the prominent [O III] $\lambda$4363/$\lambda$5007 diagnostic—the dependence on elemental abundance and the region's [[emission-measure|Emission measure]] cancels out entirely. The resulting ratio is highly sensitive to the [[kinetic-temperature|Kinetic temperature]] of the free electrons and only weakly dependent on the [[galactic-electron-density-distribution|Galactic electron density distribution]]. Historically, the development of empirical thermometry dismantled early assumptions that all H II regions were uniformly hot ($\sim 10^4$ K) plasmas, revealing complex thermal structures governed by heavy-element cooling [Burbidge et al. (1963)](https://ui.adsabs.harvard.edu/abs/1963ApJ...138..945B/abstract), [Churchwell et al. (1975)](https://ui.adsabs.harvard.edu/abs/1975A&A....38..451C/abstract).
 

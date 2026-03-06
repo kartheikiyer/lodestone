@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **gas cooling timescale**, often denoted $t_{\rm cool}$, is a fundamental parameter in astrophysics that quantifies the time required for a parcel of gas to radiate away its internal thermal energy. Defined mathematically as the ratio of the local thermal energy density to the volumetric cooling rate, this timescale is governed by a variety of [[astrophysical-cooling-processes|Astrophysical Cooling Processes]], including thermal bremsstrahlung at high temperatures, metal-line emission in enriched environments, and molecular transitions in cold, dense clouds. In the theoretical framework of structure formation, comparing the cooling timescale to the dynamical or [[free-fall-time|Free-fall time]] ($t_{\rm ff}$) of a system determines the thermodynamic fate of the [[hot-gas|Hot gas]]. If the cooling timescale is longer than the dynamical time, the gas can dynamically adjust to maintain hydrostatic equilibrium. Conversely, if the cooling timescale is shorter, the gas rapidly loses pressure support and undergoes runaway gravitational collapse, providing the primary reservoir of fuel for galactic star formation [Binney et al. (1977)](https://ui.adsabs.harvard.edu/abs/1977ApJ...215..483B/abstract).
 

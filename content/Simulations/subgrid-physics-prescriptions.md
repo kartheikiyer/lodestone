@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In [[computational-astrophysics|Computational astrophysics]], **subgrid physics prescriptions** are effective analytical and numerical models used to represent baryonic processes that occur below the spatial [[resolution-simulations|Resolution (simulations)]] or [[mass-resolution|Mass resolution]] limits of a simulation. [[cosmological-simulations|Cosmological simulations]] must track the evolution of large-scale structure across hundreds of megaparsecs, yet the astrophysical drivers of galaxy formation—such as [[molecular-cloud-dynamics|Molecular Cloud Dynamics]], star formation, and supermassive black hole accretion—unfold on sub-parsec scales. Because capturing this vast dynamic range from first principles is computationally prohibitive, subgrid models are required to bridge the gap. They act as macroscopic approximations, transferring mass, momentum, and energy between the unresolved microphysics and the resolved macroscopic fluid governed by the simulation's grid or [[sink-particles|Sink particles]] [Naab et al. (2016)](https://ui.adsabs.harvard.edu/abs/2017ARA&A..55...59N/abstract).
 

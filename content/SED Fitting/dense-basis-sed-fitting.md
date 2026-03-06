@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The **Dense Basis framework** is a Bayesian spectral energy distribution (SED) fitting method designed to reconstruct the [[dense-basis-sfh|non-parametric star formation histories (SFHs)]] of galaxies. In extragalactic astrophysics, [[sed-reconstruction|SED reconstruction]] is the primary tool for [[physical-parameter-estimation|Physical parameter estimation]], historically relying on [[traditional-sed-fitting-techniques|Traditional SED fitting techniques]] that parameterize SFHs using simple analytic functions, such as exponentially declining ($\tau$) or delayed-$\tau$ models. However, modern research has demonstrated that these rigid models impose severe systematic biases, frequently ruling out complex or bursty assembly histories *a priori*. Introduced by Iyer & Gawiser [Iyer et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...838..127I/abstract), the Dense Basis approach explicitly rejects these textbook functional forms. Instead, it utilizes a flexible parameterization based on mass assembly quantiles—specifically, the lookback times at which a galaxy assembled discrete fractions (e.g., 10%, 50%, 90%) of its total observed stellar mass. 
 

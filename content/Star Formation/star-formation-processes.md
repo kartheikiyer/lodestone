@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Star formation processes** encompass the physical mechanisms that dictate how diffuse gas in the [[cosmic-media-and-interstellar-medium|interstellar medium]] condenses into dense [[star-forming-regions-and-cores|protostellar cores]] and ultimately ignites as stars. At the fundamental level, this phenomenon is governed by a dynamic competition between the [[gravitational-collapse|Gravitational collapse]] of [[molecular-clouds-and-gas-clumping|giant molecular clouds]] (GMCs) and the stabilizing forces of thermal pressure, magnetic fields, and supersonic [[macroturbulence|turbulence]] [Mo et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010gfe..book.....M/abstract). In the modern astrophysical paradigm, turbulence plays a dual role: it provides large-scale macroscopic pressure that supports the cloud against global collapse, while simultaneously driving highly localized shock compressions that create a hierarchical, filamentary web of [[high-density-gas|dense gas]] [Krumholz et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014PhR...539...49K/abstract). Only the densest local cores within these turbulent structures become gravitationally bound and collapse, a bottleneck that naturally explains the remarkably low [[average-star-formation-efficiency|Average star formation efficiency]] observed across the Universe [Evans et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999ARA&A..37..311E/abstract).
 

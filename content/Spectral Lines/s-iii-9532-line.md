@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **[S III] 9532 Å line** is a prominent near-infrared forbidden [[fine-structure-emission-lines|fine-structure transition]] of doubly ionized sulfur ($S^{2+}$). Emitted primarily by astrophysical plasmas in H II regions, planetary nebulae, and active galactic nuclei, it serves as a critical diagnostic for the ionization state and metallicity of the interstellar medium (ISM). While standard textbook treatments of extragalactic spectra frequently emphasize rest-optical and ultraviolet metal absorption lines (such as Mg II, C IV, or O VI) for tracing chemical enrichment, the [S III] 9532 Å line—along with its doublet companion, the [[9069-line|λ9069 line]]—offers a distinct observational advantage in emission-line studies. Because it is situated in the near-infrared, the 9532 Å line suffers significantly less attenuation from interstellar dust than classic optical tracers like the [[balmer-lines|Balmer lines]] or the [[o-iii-5007-line|[O III] 5007 Å line]]. In environments where visual extinction exceeds $A_V \approx 3$ magnitudes, [S III] 9532 Å often becomes the superior, and sometimes only, viable probe of gas-phase conditions [Kistiakowsky et al. (1993)](https://ui.adsabs.harvard.edu/abs/1993AJ....105.2199K/abstract).
 

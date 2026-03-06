@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The galactic thin disk is the defining, actively star-forming structural component of most [[disk-galaxies|Disk Galaxies]], including the [[milky-way|Milky Way]]. Characterized by a highly flattened geometry with a remarkably small vertical [[scaleheight-distribution|Scaleheight distribution]], the thin disk contains the vast majority of a galaxy's angular momentum, cold interstellar medium, and young, high-metallicity [[galactic-stellar-populations|Galactic stellar populations]] (Population I stars). Kinematically, it is supported almost entirely by [[ordered-rotation|Ordered rotation]], distinguishing it from the kinematically hotter, older, and more metal-poor [[thick-disks|Thick disks]] and [[stellar-halos|Stellar halos]] in which it is typically embedded [Yoachim et al. (2005)](https://ui.adsabs.harvard.edu/abs/2006AJ....131..226Y/abstract). The radial mass distribution of a thin disk is classically parameterized as a [[freeman-stellar-disk|Freeman stellar disk]] with an exponential decline in surface brightness, though modern observations reveal a complex architecture featuring abrupt truncations—such as the [[type-ii-disk-break-radius|Type II disk break radius]]—and multi-phase gas dynamics governed by critical surface density thresholds [Dalcanton et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004ApJ...608..189D/abstract).
 

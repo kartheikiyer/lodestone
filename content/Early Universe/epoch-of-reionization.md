@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The Epoch of Reionization (EoR) marks the final major [[global-reionization|global phase transition]] of the [[early-universe|Early universe]]. Following cosmological recombination at $z \sim 1000$, the baryonic matter in the universe consisted primarily of cold, neutral hydrogen gas. As the first dark matter halos collapsed to form stars and active galactic nuclei, their [[stellar-ionizing-radiation|Stellar ionizing radiation]] permeated the intergalactic medium (IGM), systematically transforming the neutral gas back into a warm, highly ionized plasma. This period, spanning roughly from redshift $z \approx 20$ to $z \approx 6$, serves as the critical evolutionary link between the highly uniform early universe and the complex, structured cosmos observed today [Fan et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006ARA&A..44..415F/abstract). While early X-ray sources such as miniquasars may have contributed to the initial pre-heating of the IGM [Madau et al. (2014)](https://ui.adsabs.harvard.edu/abs/2004ApJ...604..484M/abstract), a strong consensus indicates that [[photoionization-and-ionizing-radiation|ultraviolet photons]] from star-forming galaxies drove the bulk of hydrogen reionization, preceding the much later, quasar-driven epoch of [[he-ii-reionization|He II reionization]].
 

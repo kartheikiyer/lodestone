@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **Warm-Hot Intergalactic Medium (WHIM)** is a tenuous, highly ionized [[hot-astrophysical-plasma|Hot Astrophysical Plasma]] with temperatures ranging between $10^5$ and $10^7$ K that permeates the [[cosmic-and-molecular-filaments|filamentary structures]] of the cosmic web. At high redshifts, the universe's baryonic matter is mostly accounted for in the photoionized intergalactic medium and dense galactic structures. However, in the low-redshift universe ($z \lesssim 2$), the observed mass of stars, cold gas, and cluster plasma falls significantly short of the cosmological baryon budget. Cosmological hydrodynamic simulations resolve this "[[hot-gas-mass-fraction|missing baryon problem]]" by predicting that 30% to 50% of the modern universe's baryons reside within the WHIM [Davé et al. (2000)](https://ui.adsabs.harvard.edu/abs/2001ApJ...552..473D/abstract) [Meiksin et al. (2007)](https://ui.adsabs.harvard.edu/abs/2009RvMP...81.1405M/abstract). This vast reservoir is generated primarily by supersonic gravitational [[heating-mechanisms-astrophysics|shock heating]]; as [[low-density-gas|diffuse gas]] collapses into [[cosmic-and-molecular-filaments|Cosmic and Molecular Filaments]], the kinetic energy of the infalling material is converted into thermal energy, fundamentally altering the [[temperature-density-relation|Temperature-density relation]] of the intergalactic medium [Davé et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003astro.ph.11518D/abstract).
 

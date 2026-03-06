@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 Modern cosmology is the branch of astrophysics dedicated to understanding the origin, evolution, and large-scale geometry of the [[universe|Universe]]. Grounded in Einstein's theory of general relativity and the Cosmological Principle—which posits that the universe is homogeneous and isotropic on large macroscopic scales—the field is mathematically underpinned by the [[friedmann-equations|Friedmann equations]] and the FLRW spacetime metric [Dodelson et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020moco.book.....D/abstract). By integrating these theoretical foundations with precision observational data, modern cosmology traces the [[expansion-history|Expansion history]] of the cosmos from a hot, dense initial state known as the Hot [[big-bang|Big Bang]] [Zeldovich et al. (1983)](https://ui.adsabs.harvard.edu/abs/1983reas.book.....Z/abstract), through a theorized epoch of rapid cosmic inflation, to the present-day era of [[late-time-cosmic-acceleration|Late-time cosmic acceleration]]. 
 

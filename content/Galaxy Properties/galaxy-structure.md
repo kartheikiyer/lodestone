@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 Galaxy structure encompasses the spatial distribution, physical organization, and kinematic state of the baryonic and dark matter components that constitute a galaxy. At a fundamental level, the [[galaxy-properties|observable structure]] of a galaxy is a fossil record of its underlying gravitational potential and its multi-phase [[galaxy-formation-and-assembly|assembly history]] [Mo et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010gfe..book.....M/abstract). Galaxies are broadly organized into distinct morphological subcomponents, most notably rotationally supported [[thin-disks|Thin disks]] and [[thick-disks|Thick disks]], central pressure-supported [[galactic-bulges|Galactic Bulges]], and extended, metal-poor [[stellar-halos|Stellar halos]] [Binney et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998gaas.book.....B/abstract). These luminous baryonic components are embedded within massive, invisible dark matter halos that dictate the system's global dynamics and are critical for stabilizing large-scale galactic architecture [Benson et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010PhR...495...33B/abstract). By mapping these features through photometric surface brightness profiles and [[galaxy-kinematics|Galaxy kinematics]], astrophysicists can decode the complex interplay of hierarchical merging, gas accretion, and feedback-regulated star formation.
 

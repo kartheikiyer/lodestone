@@ -8,7 +8,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In astrophysics, timescales represent the characteristic durations of fundamental physical processes, serving as essential metrics for evaluating the stability, structural evolution, and physical state of celestial systems. By comparing the rates of competing physical mechanisms, researchers can determine which forces dominate a system's behavior within the broader hierarchy of [[characteristic-astrophysical-scales|Characteristic Astrophysical Scales]]. At the scale of individual stars and compact objects, structural evolution is governed by a fundamental triad of chronometers. The dynamical timescale (parametrically related to the [[free-fall-time|Free-fall time]]) dictates the rapid mechanical restoration of [[quasi-static-equilibrium|Quasi-static equilibrium]] following a perturbation. The thermal, or Kelvin-Helmholtz timescale, measures the much slower rate at which a self-gravitating body radiates away its binding energy. Finally, the nuclear timescale governs the extended periods of thermonuclear fusion that dictate a star's primary lifespan and progression along its [[evolutionary-tracks|Evolutionary tracks]] [Binney et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998gaas.book.....B/abstract), [Longair et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011hea..book.....L/abstract).
 

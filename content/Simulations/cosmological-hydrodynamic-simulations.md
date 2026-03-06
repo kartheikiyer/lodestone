@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 Here is the fully revised article, seamlessly integrating the missing literature while preserving all the high-quality content and physical descriptions from the previous draft.
 
 ## Full draft

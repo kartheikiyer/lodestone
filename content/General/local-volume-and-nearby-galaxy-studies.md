@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 Here is the fully revised draft of the article, which carefully addresses all points raised by the expert critic and incorporates all missing papers into their suggested sections.
 
 ## Revised Full Draft

@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 A **pair-instability supernova (PISN)** is a rare and exceptionally energetic class of [[thermonuclear-explosions|Thermonuclear explosions]] that completely disrupts extremely massive stars, typically those with zero-age main-sequence masses between $140$ and $260 M_\odot$. The phenomenon diverges fundamentally from the textbook model of stellar death. While standard [[type-ii-supernovae|Type II Supernovae]] and other [[core-collapse-supernovae|Core-Collapse Supernovae]] are triggered by the catastrophic implosion of an iron core in stars above $8 M_\odot$ and leave behind a compact remnant, a PISN is triggered much earlier in the stellar life cycle. In the massive carbon-oxygen cores of PISN progenitors, core temperatures become high enough—and densities low enough—that pressure-supporting gamma-ray photons spontaneously convert into electron-positron pairs. This sudden loss of radiation pressure causes the core to rapidly contract. The resulting spike in temperature and density ignites a runaway oxygen burning process that releases more nuclear energy than the star's total gravitational binding energy, obliterating the star entirely [Gal-Yam et al. (2019)](https://ui.adsabs.harvard.edu/abs/2009Natur.462..624G/abstract), [Kozyreva et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014A&A...566A.146K/abstract).
 

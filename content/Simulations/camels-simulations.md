@@ -9,7 +9,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The **Cosmology and Astrophysics with MachinE Learning Simulations (CAMELS)** project is a massive ensemble of over 4,000 cosmological $N$-body and hydrodynamic simulations explicitly designed to interface with modern machine learning techniques [Villaescusa-Navarro et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...915...71V/abstract), [Villaescusa-Navarro et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...54V/abstract). Moving beyond the traditional paradigm of single "flagship" runs, CAMELS operates as a comprehensive suite of [[multi-cosmology-simulations|Multi-cosmology simulations]] that systematically varies fundamental cosmological parameters (such as the matter density $\Omega_m$ and clustering amplitude $\sigma_8$) alongside sub-grid astrophysical prescriptions governing supernova (SN) and active galactic nucleus (AGN) feedback.
 

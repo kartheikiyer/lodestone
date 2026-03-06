@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 Molecular clouds are dense, cold regions of the [[neutral-interstellar-medium|Neutral Interstellar Medium]] where gas exists primarily in molecular form, serving as the principal sites for [[stellar-formation-and-protostars|Stellar formation and protostars]]. The largest of these structures, Giant Molecular Clouds (GMCs), contain the vast majority of a galaxy's star-forming fuel. While historically modeled as quasi-spherical entities of $10^5$ to $10^6 \, M_\odot$, high-resolution observations have revealed that GMCs can reach up to $10^7 \, M_\odot$ in extreme environments and are far from uniform [Solomon et al. (1979)](https://ui.adsabs.harvard.edu/abs/1979IAUS...84...35S/abstract), [Blitz et al. (1993)](https://ui.adsabs.harvard.edu/abs/1993prpl.conf..125B/abstract), [Rice et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJ...822...52R/abstract). Instead, this gas exhibits profound substructure. [[gas-clumping|Gas clumping]] refers to the hierarchical [[fragmentation-astrophysics|Fragmentation (astrophysics)]] of these clouds into complex filamentary networks, parsec-scale clumps, and sub-parsec dense cores. This intricate internal architecture ultimately determines the stellar initial mass function (IMF) and dictates the spatial distribution of [[embedded-clusters|Embedded clusters]] and single stars.
 

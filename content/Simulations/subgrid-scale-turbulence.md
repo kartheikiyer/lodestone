@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In computational astrophysics, **subgrid-scale (SGS) turbulence** refers to the theoretical and numerical modeling of [[turbulence-in-astrophysics|Turbulence in Astrophysics]] occurring at spatial scales smaller than the resolution limit of a simulation. Because astrophysical environments—ranging from megaparsec-scale galaxy clusters to sub-parsec star-forming clouds—span an immense dynamic range, modern [[astrophysical-simulation-codes|Astrophysical Simulation Codes]] cannot explicitly resolve the entire turbulent cascade down to the physical dissipation scale. Without subgrid parameterizations, kinetic energy injected at macroscopic driving scales is artificially dissipated by numerical diffusion when it reaches the grid limit, leading to unphysical thermodynamics and structural evolution. 
 

@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Galaxy-black hole assembly** describes the coupled, co-evolutionary growth of [[supermassive-black-holes|Supermassive black holes]] (SMBHs) and their [[host-galaxies|Host galaxies]] across cosmic time. Embedded within the broader framework of hierarchical structure formation, this field bridges sub-parsec accretion physics with the large-scale cosmological evolution of dark matter halos. The cornerstone of this [[synchronized-coevolution|Synchronized coevolution]] paradigm is the emergence of tight empirical scaling relations in the local universe, most notably the $M_{\rm BH}-\sigma$ correlation between the central black hole mass and the stellar velocity dispersion of the host's bulge [Volonteri et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A&ARv..18..279V/abstract), [King et al. (2020)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L...1K/abstract). These relations suggest a fundamental, causal link regulating mass assembly, wherein the energy liberated by [[active-galactic-nuclei-agn-physics|AGN feedback]] couples the black hole's growth to the gravitational potential of the galaxy, effectively self-regulating both star formation and further gas accretion.
 

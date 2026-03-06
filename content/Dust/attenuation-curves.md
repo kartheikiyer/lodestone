@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In extragalactic astrophysics, **attenuation curves** describe the wavelength-dependent reduction of a galaxy's integrated starlight caused by the absorption and scattering of photons by interstellar dust. Unlike a simple [[extinction-law|Extinction law]]—such as the Milky Way-derived [[cardelli-extinction-law|Cardelli extinction law]] or the [[monotonic-smc-extinction-curve|Monotonic SMC extinction curve]]—which quantifies the loss of light along a single, infinitesimally narrow line of sight to a point source, attenuation is an emergent macroscopic property. It accounts for the complex, three-dimensional spatial geometry between heterogeneous stellar populations and the multiphase interstellar medium. Because light originating from embedded birth clouds experiences vastly different levels of obscuration and multiple scattering compared to light from older, diffusely distributed stars, simple [[line-of-sight-corrections|Line-of-sight corrections]] are fundamentally insufficient for modeling whole galaxies. Consequently, the observed shape of an attenuation curve is often dictated more by the macroscopic star-dust geometry and total [[optical-depth|Optical depth]] than by the intrinsic optical properties of individual dust grains.
 

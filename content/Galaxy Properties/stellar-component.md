@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In [[extragalactic-astronomy|Extragalactic astronomy]], the stellar component refers to the collective assembly of stars within a galaxy or larger cosmic structure. Representing the primary visible constituent of [[baryonic-matter-and-evolution|Baryonic Matter and Evolution]], it encompasses the integrated stellar mass, [[stellar-distributions|Stellar distributions]], [[stellar-and-galactic-kinematics|Stellar and Galactic Kinematics]], and [[chemical-abundances-and-nucleosynthesis|Chemical Abundances and Nucleosynthesis]] of a system. The macroscopic geometry of this component is traditionally analyzed through [[galaxy-structure|Galaxy structure]], an analytical framework that separates galactic light into distinct morphological [[galaxy-subcomponents|Galaxy subcomponents]]—such as the dense central bulge, the rotationally supported [[galactic-disk-structure-and-dynamics|Galactic Disk Structure and Dynamics]], and the extended spheroidal halo. The relative admixture of these structures dictates a galaxy's placement on the [[hubble-sequence|Hubble sequence]] and reflects the diverse physical mechanisms driving [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]] [Mould et al. (1982)](https://ui.adsabs.harvard.edu/abs/1982ARA&A..20...91M/abstract), [Mo et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010gfe..book.....M/abstract).
 

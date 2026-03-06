@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Disc transformations** refer to the morphological, kinematic, and chemical evolution of late-type, star-forming [[disk-galaxies|Disk Galaxies]] into more bulge-dominated, quiescent systems such as lenticular (S0) or [[elliptical-and-early-type-galaxies|Elliptical and Early-Type Galaxies]]. Historically, the Hubble tuning fork was viewed as a static classification scheme; however, modern extragalactic astrophysics recognizes it as a dynamic evolutionary track along which galaxies migrate over cosmic time [Zhang et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999ApJ...518..613Z/abstract), [Pfenniger et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996ASSL..209..291P/abstract). This structural metamorphosis encompasses a variety of physical processes that redistribute a galaxy's internal angular momentum, dynamically heat its stellar orbits, and deplete its cold interstellar medium (ISM) reservoirs. As a consequence, dynamically cold, rotationally supported discs transition into thicker, pressure-supported systems, a process invariably accompanied by the quenching of active star formation and a shift from the blue cloud to the red sequence [van Dokkum et al. (2001)](https://ui.adsabs.harvard.edu/abs/2001astro.ph.12547V/abstract). 
 

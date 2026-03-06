@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 ## Revised Full Draft
 
 The **half-light radius** ($R_e$), also known as the effective radius, is defined as the characteristic distance from the center of an astronomical object within which half of its total integrated flux is emitted. As a foundational metric in [[surface-brightness-analysis|Surface Brightness Analysis]], it provides a standardized measure for the spatial extent of galaxies, bulges, and star clusters. Because astronomical objects lack well-defined, hard physical boundaries, quantifying their sizes historically relied on [[isophotal-diameters|Isophotal diameters]] (isophotal radii), which are highly sensitive to instrumental depth and cosmological dimming. The adoption of the half-light radius—championed in early studies of elliptical galaxies [Young et al. (1976)](https://ui.adsabs.harvard.edu/abs/1976AJ.....81..807Y/abstract) and standardized in massive photometric compilations like the Third Reference Catalogue [de Vaucouleurs et al. (1991)](https://ui.adsabs.harvard.edu/abs/1991rc3..book.....D/abstract)—provided a robust operational definition for galaxy size. Observationally, $R_e$ is derived as a two-dimensional projected quantity; however, through deprojection techniques, it can be mapped to an intrinsic three-dimensional scale that closely tracks the underlying [[half-mass-radius|Half-mass radius]], assuming a relatively uniform [[galaxy-mass-to-light-ratio|Galaxy mass-to-light ratio]].

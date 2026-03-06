@@ -24,6 +24,8 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import EditLink from "./EditLink"
+import Collapsible from "./Collapsible"
+import FeedbackButton from "./FeedbackButton"
 
 export {
   ArticleTitle,
@@ -52,7 +54,6 @@ export {
   Flex,
   ConditionalRender,
   EditLink,
+  Collapsible,
+  FeedbackButton,
 }
-
-import FeedbackButton from "./FeedbackButton"
-export { FeedbackButton }

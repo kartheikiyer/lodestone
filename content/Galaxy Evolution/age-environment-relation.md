@@ -11,7 +11,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In extragalactic astrophysics, the **age-environment relation** describes the empirical correlation between the mean [[galaxy-stellar-age|Galaxy stellar age]] of a galaxy and the local mass density of its surrounding [[galaxy-environment|Galaxy environment]]. Observations consistently demonstrate that galaxies residing in high-density regions, such as [[galaxy-overdensities|massive galaxy clusters]], predominantly host older, redder, and quiescent [[stellar-populations|Stellar Populations]]. Conversely, galaxies located in the sparse, [[low-density-environments|low-density field]] generally exhibit younger stellar ages and active star formation. While closely linked to the classical [[morphology-density-relation|Morphology-density relation]], the age-environment relation isolates the chemical and spectral evolution of a galaxy, which often ceases on much shorter timescales than its [[galaxy-structure|structural transformation]]. The divergence in stellar ages is primarily driven by environmental quenching mechanisms—such as frequent galaxy interactions that strip the cold interstellar medium or the slow "strangulation" of hot halo gas accretion—which systematically suppress star formation as galaxies assemble into the dense cosmic web.
 

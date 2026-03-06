@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In **[[extragalactic-astronomy|Extragalactic astronomy]]**, **emission-line galaxies** (ELGs) are a broad class of galaxies characterized by prominent nebular emission features in their optical and near-infrared spectra. These features—such as the hydrogen Balmer series (e.g., H$\alpha$, H$\beta$) and collisionally excited forbidden lines (e.g., [O II] $\lambda\lambda3727, 3729$, [O III] $\lambda\lambda4959, 5007$)—arise from the photoionization of the interstellar medium. The ionizing radiation is predominantly supplied either by the extreme ultraviolet flux of massive young O and B stars in **[[star-forming-galaxies|Star-forming galaxies]]** or by the harder, non-thermal continuum of an active galactic nucleus (AGN). Because these emission lines encode the temperature, electron density, and ionization state of the gas, ELGs serve as fundamental laboratories for measuring **[[chemical-abundances|Chemical Abundances]]** and tracking the chemical enrichment of the Universe across cosmic time.
 

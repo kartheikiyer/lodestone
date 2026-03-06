@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 Cosmic ray physics is a central branch of [[high-energy-astrophysics|High-energy astrophysics]] and [[particle-astrophysics|Particle Astrophysics]] dedicated to understanding the origin, acceleration, and propagation of relativistic charged particles—primarily protons, atomic nuclei, and leptons—throughout the universe. The theoretical foundation of the field was established in the mid-20th century with the proposition of [[fermi-acceleration|Fermi acceleration]], a stochastic process by which particles gain macroscopic kinetic energy from interactions with moving magnetic clouds [Fermi et al. (1949)](https://ui.adsabs.harvard.edu/abs/1949PhRv...75.1169F/abstract). This framework later evolved into the standard paradigm of the field, which posits that the bulk of [[galactic-cosmic-rays|Galactic cosmic rays]] are energized by diffusive shock acceleration within the expanding blast waves of supernova remnants [Ginzburg et al. (1961)](https://ui.adsabs.harvard.edu/abs/1961PThPS..20....1G/abstract), [Gaisser et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016crpp.book.....G/abstract). By studying the energy spectra and isotopic abundances of both [[primary-cosmic-rays|Primary cosmic rays]] injected at these sources and [[secondary-cosmic-rays|Secondary cosmic rays]] produced via spallation in the interstellar medium, physicists can deduce the complex physical conditions of astrophysical plasmas across disparate spatial scales.
 

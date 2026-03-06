@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In observational astrophysics, **cross-matching** is the foundational process of identifying and associating detections of the same physical celestial source across multiple independent [[astronomical-catalogs|Astronomical catalogs]] or surveys. Because physical phenomena emit radiation across the entire electromagnetic spectrum, no single observatory or instrument can capture a complete picture of a source's physical properties. By correlating spatial coordinates, astrometric uncertainties, and photometric data, cross-matching enables multi-wavelength data fusion. This synthesis is critical for constructing comprehensive Spectral Energy Distributions (SEDs), estimating photometric redshifts, and determining intrinsic properties such as stellar mass and star formation rates, a synthesis accurately detailed in modern surveys like GAMA and A3COSMOS [Driver et al. (2012)](https://ui.adsabs.harvard.edu/abs/2013IAUS..295..155D/abstract), [Liu et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...40L/abstract). Historically performed via the manual visual inspection of photographic plates, the process has evolved into a highly automated computational discipline required to bridge "wide but shallow" and "deep but narrow" observational samples.
 

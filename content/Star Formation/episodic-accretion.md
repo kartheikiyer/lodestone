@@ -8,7 +8,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Episodic accretion** refers to the non-steady, intermittent accumulation of mass onto a central compact object or protostar, characterized by high-magnitude bursts separated by prolonged periods of quiescence. In contrast to classical textbook models that assume continuous, steady-state inflows—such as Bondi spherical accretion [McCrea et al. (1953)](https://ui.adsabs.harvard.edu/abs/1953MNRAS.113..162M/abstract) or the standard [[accretion-disk-theory|Shakura-Sunyaev $\alpha$-disk]]—most astrophysical systems exhibit severe [[rapid-variability|Rapid variability]] and [[unsteady-accretion|Unsteady accretion]]. This intermittent behavior is driven by a variety of internal and external triggers, including thermal and viscous [[accretion-disk-theory|disk instabilities]], [[radiation-pressure-instability|Radiation-pressure instability]], magnetic barrier transitions, and the [[stochastic-accretion|stochastic capture]] of external gas clouds or discrete stellar disruptions. Operating across all mass scales, from the formation of infant stars to the fueling of supermassive black holes (SMBHs), episodic [[mass-transfer|Mass transfer]] is now recognized as a fundamental mode of cosmic assembly.
 

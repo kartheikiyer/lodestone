@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **Gunn-Peterson effect** is the cosmological suppression of electromagnetic flux at wavelengths shortward of the Lyman-$\alpha$ resonance line in the spectra of distant background sources, such as quasars and gamma-ray bursts (GRBs). Originally hypothesized in early theoretical models, the effect arises from the resonant scattering of ultraviolet photons by neutral hydrogen (H I) in the expanding intergalactic medium (IGM). Because the scattering cross-section of the Lyman-$\alpha$ transition is exceptionally large, even a diffuse IGM with a minute neutral fraction ($x_{\rm HI} \sim 10^{-4}$) is sufficient to produce an effective optical depth much greater than unity, severely dominating [[igm-opacity|IGM opacity]] [Miralda-Escude et al. (1990)](https://ui.adsabs.harvard.edu/abs/1990ApJ...350....1M/abstract), [Fan et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006ARA&A..44..415F/abstract). At lower redshifts, the IGM is highly ionized, and surviving neutral gas confined to dense cosmic filaments produces the discrete absorption lines known as the Lyman-$\alpha$ forest. As observations probe higher redshifts, the baseline neutral fraction rises, and these discrete density fluctuations blend into the continuous, saturated absorption feature characteristic of a complete Gunn-Peterson trough [Weinberg et al. (1995)](https://ui.adsabs.harvard.edu/abs/1996ASSL..206...93W/abstract).
 

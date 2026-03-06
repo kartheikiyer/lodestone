@@ -11,7 +11,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **C IV absorbers** are prominently detected spectral features arising from the $\lambda\lambda 1548, 1550$ Å resonance doublet of triply ionized carbon. Identified primarily in the rest-[[ultraviolet-spectral-characteristics|ultraviolet]] and optical spectra of distant background sources such as quasars, they serve as one of the most vital observational probes of metal-enriched gas in the universe [Sargent et al. (1988)](https://ui.adsabs.harvard.edu/abs/1988ApJS...68..539S/abstract), [Quashnock et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998ApJ...500...28Q/abstract). Because the production of C IV requires a moderately hard ionizing radiation field capable of overcoming the 47.9 eV ionization potential of C III, these [[metal-line-absorbers|Metal-line absorbers]] typically trace an intermediate "warm" phase of the circumgalactic medium (CGM) and intergalactic medium (IGM) at temperatures of $T \sim 10^5$ K, or lower-density, photoionized diffuse environments at slightly cooler temperatures. In contrast to traditional textbook models that neatly partitioned cosmic gas into cold ($\sim 10^4$ K) neutral clouds and hot ($T \sim 10^6$ K) collisionally ionized halos, the widespread detection of C IV highlights the inherently multiphase nature of the CGM, bridging the physical conditions tracked by [[low-ion-metal-absorption|Low-ion metal absorption]] species (like Mg II) and hotter [[high-ionization-absorbers|High-ionization absorbers]] (like O VI).
 

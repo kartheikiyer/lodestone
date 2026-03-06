@@ -8,7 +8,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In extragalactic astronomy, **backsplash galaxies** are a distinct dynamical population of galaxies that have previously transited deep into the gravitational potential of a massive galaxy cluster but are currently observed residing outside of its virial radius ($R_{\rm vir}$). Unlike pristine field galaxies or first-time infallers, these objects have completed at least one pericentric passage through the dense cluster core before rebounding outward on highly eccentric orbits [Gill et al. (2004)](https://ui.adsabs.harvard.edu/abs/2005MNRAS.356.1327G/abstract). The existence of this population fundamentally challenges the traditional theoretical paradigm that environmental transformation strictly occurs and persists *within* dense environments. Instead, backsplash galaxies demonstrate that a single transit through the intracluster medium is sufficient to impart lasting evolutionary changes, making them critical laboratories for studying the timescales of environmental "nurture" on galaxy evolution.
 

@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The red sequence is a prominent, narrow locus in the [[color-magnitude-relation|Color-magnitude relation]] that defines one half of the fundamental [[galactic-bimodality|Galactic Bimodality]]. Populated primarily by [[massive-galaxies|Massive galaxies]], [[quiescent-galaxies|Quiescent galaxies]] with highly evolved stellar populations, it stands in stark observational contrast to the broader "blue cloud" of actively [[star-forming-galaxies|Star-forming galaxies]] [Bell et al. (2003)](https://ui.adsabs.harvard.edu/abs/2004ApJ...608..752B/abstract). The defining characteristic of the red sequence is its tight linear slope, which is driven predominantly by a mass-metallicity relation: deeper gravitational potential wells in [[massive-galaxies|Massive galaxies]] retain heavy elements more effectively against supernova-driven winds, leading to enhanced line blanketing in stellar atmospheres and systematically redder integrated colors. Meanwhile, the minimal scatter around this ridge-line—often less than 0.05 magnitudes in cluster environments—reflects minor variations in stellar age. Identified prominently in dense regions, the red sequence serves as a cornerstone of extragalactic demographics, tracing the cosmic population of galaxies whose star formation has definitively ceased.
 

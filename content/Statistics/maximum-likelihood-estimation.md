@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Maximum likelihood estimation** (MLE) is a foundational statistical framework used extensively in astrophysics for rigorous [[parameter-estimation|Parameter estimation]] and [[model-fitting|Model fitting]]. At its core, MLE identifies the set of physical parameters, $\boldsymbol{\theta}$, that makes the observed data most probable, by globally maximizing the likelihood function, $\mathcal{L}(\boldsymbol{\theta} | \mathbf{D}) \propto P(\mathbf{D} | \boldsymbol{\theta})$, which quantifies the probability of observing a given astronomical dataset $\mathbf{D}$ under a specific theoretical model. In many applications—particularly within [[cosmological-inference|Cosmological inference]]—the likelihood is approximated as a [[multivariate-gaussian-distributions|multivariate Gaussian distribution]] governed by a theoretical covariance matrix. Under this pure Gaussian assumption, maximizing the likelihood is mathematically equivalent to minimizing a [[chi-squared-test|Chi-squared test]] statistic or [[merit-function|Merit function]]. By systematically exploring the peak and curvature of this probability surface, astronomers can constrain fundamental physical quantities ranging from the expansion rate of the Universe to the complex star formation histories of individual galaxies.
 

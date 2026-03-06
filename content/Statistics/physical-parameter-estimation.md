@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In observational astronomy, physical parameter estimation is the rigorous mathematical process of deriving intrinsic, often unobservable physical properties—such as stellar masses, cosmological density parameters, or gravitational wave source characteristics—from raw observational data. This discipline bridges the gap between theoretical physical models and observed phenomena by employing advanced [[statistical-methods-in-astrophysics|Statistical methods in astrophysics]]. Historically rooted in frequentist approaches like [[maximum-likelihood-estimation|Maximum likelihood estimation]] and simple grid-based $\chi^2$ minimization, the field has increasingly adopted probabilistic Bayesian frameworks to navigate complex, high-dimensional parameter spaces [[bibcode-2014bmc-book-h|bibcode:2014bmc..book.....H]]. By combining the likelihood of the observed data with physically motivated [[priors-in-astrophysics|Priors in astrophysics]], researchers can robustly map [[posterior-distributions|Posterior distributions]] and rigorously quantify [[measurement-uncertainty|Measurement uncertainty]]. This approach is essential for breaking severe parameter degeneracies, such as the confusion between dust attenuation and star formation rates in multi-wavelength data [[bibcode-2024mnras-531-3242m|bibcode:2024MNRAS.531.3242M]].
 

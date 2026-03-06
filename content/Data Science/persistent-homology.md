@@ -9,7 +9,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 Persistent homology is a highly robust mathematical framework within [[topological-data-analysis-in-astronomy|Topological data analysis in astronomy]] used to characterize the multi-scale connectivity and [[hierarchical-clustering|hierarchical morphology]] of the cosmic web. Historically, the large-scale structure of the Universe has been quantified using spatial point processes, such as the two-point correlation function [Peebles et al. (1981)](https://ui.adsabs.harvard.edu/abs/1981lssu.book.....P/abstract), or single-scale geometric measures like [[minkowski-functionals|Minkowski functionals]]. While traditional summary statistics successfully describe Gaussian random fields, they often fail to capture the complex, non-linear phase information inherent to the late-time cosmic web. Persistent homology overcomes this limitation by formalizing the topology of the matter distribution across an entire continuum of spatial scales or density thresholds, providing a parameter-free description of how cosmic structures assemble, connect, and hierarchically nest [van de Weygaert et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011LNCS.6970...60V/abstract), [Pranav et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.4281P/abstract).
 

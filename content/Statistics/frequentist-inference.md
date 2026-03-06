@@ -7,7 +7,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Frequentist inference** is a foundational framework within [[statistical-methods-in-astrophysics|Statistical methods in astrophysics]] that treats probability strictly as the long-run frequency of observable events under hypothetical repeated trials. Unlike Bayesian inference, which models physical parameters as random variables described by prior probability distributions, the frequentist paradigm considers parameters to be fixed but unknown constants. Consequently, statistical constraints rely entirely on the likelihood of the observed data rather than external priors. The cornerstone of this approach is [[maximum-likelihood-estimation|Maximum likelihood estimation]] (MLE), which identifies the parameter values that maximize the probability of the observed dataset. This is routinely paired with [[null-hypothesis-testing|Null hypothesis testing]] to rigorously quantify the statistical significance of new transient events, periodicities, or signal detections via p-values and confidence intervals. Historically, these techniques were instrumental in early evaluations of spatial point processes, originally used to determine whether the large-scale distribution of galaxies deviated from uniform randomness [de Vaucouleurs et al. (1971)](https://ui.adsabs.harvard.edu/abs/1971PASP...83..113D/abstract).
 

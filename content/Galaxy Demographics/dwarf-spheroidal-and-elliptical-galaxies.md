@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Dwarf spheroidal (dSph) and dwarf elliptical (dE) galaxies** are the most numerous yet least luminous dynamically hot stellar systems in the Universe. Classified broadly as [[low-luminosity-galaxies|Low-luminosity galaxies]], these pressure-supported systems are characterized by a highly deficient interstellar medium and predominantly evolved, ancient to [[intermediate-age-stellar-populations|Intermediate-age stellar populations]]. Unlike massive [[elliptical-and-early-type-galaxies|Elliptical and Early-Type Galaxies]], which often reside at the centers of deep gravitational potential wells, dSphs and dEs are primarily found in high-density regions such as [[dwarf-galaxy-clusters|Dwarf galaxy clusters]] or acting as [[satellite-galaxies|Satellite galaxies]] around massive hosts like the Milky Way and the [[andromeda-galaxy-and-satellites|Andromeda Galaxy and Satellites]] [Hodge et al. (1966)](https://ui.adsabs.harvard.edu/abs/1966ApJ...144..869H/abstract). The recognition of these faint, gas-poor systems as a ubiquitous galactic population [Kormendy et al. (1987)](https://ui.adsabs.harvard.edu/abs/1987nngp.proc..163K/abstract) has established them as fundamental building blocks in hierarchical assembly models and crucial tracers of environmental quenching.
 

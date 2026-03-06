@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In physical cosmology, **non-linear structure formation** describes the advanced stages of cosmic evolution where primordial [[density-perturbations|Density perturbations]] grow to mass overdensities significantly greater than unity ($\delta \gg 1$). While the early universe and large-scale fluctuation modes are well-described by [[linear-theory|Linear theory]] and a simple [[linear-growth-factor|Linear growth factor]], local regions eventually decouple from the background Hubble expansion due to runaway [[gravitational-instability|Gravitational instability]]. Upon reaching a maximum turnaround radius, these regions undergo rapid gravitational collapse and violent relaxation to form gravitationally bound dark matter halos characterized by near-universal [[density-profiles|Density profiles]] [Peebles et al. (1981)](https://ui.adsabs.harvard.edu/abs/1981lssu.book.....P/abstract), [Navarro et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996IAUS..171..255N/abstract). This late-time [[collisionless-dynamics|Collisionless dynamics]] transforms the initially smooth density field into the highly complex [[cosmic-web|Cosmic web]], a vast interconnected topology of expansive voids, two-dimensional sheets (or [[zel-dovich-pancake|Zel’dovich pancake]]s), one-dimensional filaments, and dense cluster nodes [Gott et al. (1987)](https://ui.adsabs.harvard.edu/abs/1987ApJ...319....1G/abstract).
 

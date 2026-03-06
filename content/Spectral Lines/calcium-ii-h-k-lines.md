@@ -9,7 +9,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The Calcium II H and K lines are a pair of exceptionally prominent resonance absorption and emission features located in the violet region of the electromagnetic spectrum, with rest wavelengths of 396.8 nm (the H line) and 393.4 nm (the K line). Originating from the ground-state transitions of singly ionized calcium (Ca II), these lines are among the strongest optical features observed across a wide variety of astrophysical environments. Because calcium possesses a relatively low first ionization potential, Ca II represents the dominant ionization state in cool to warm stellar atmospheres and diffuse gaseous environments. Consequently, the H and K lines serve as foundational diagnostic tools in modern astrophysics, utilized for everything from measuring stellar chromospheric activity and classifying spectral types to mapping the extended halos of distant galaxies. 
 

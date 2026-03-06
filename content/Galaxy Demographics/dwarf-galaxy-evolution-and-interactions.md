@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Dwarf Galaxy Evolution and Interactions** examines the morphological, dynamical, and chemical transformations of the Universe's most abundant galactic inhabitants. Defined by their [[stellar-mass-assembly-and-functions|low stellar masses]] and exceptionally shallow gravitational potential wells, dwarf galaxies are highly [[subhalo-physics-and-galactic-substructure|dark matter-dominated systems]]. In the hierarchical paradigm of [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]], these [[low-mass-galaxies|low-mass halos]] are the first to collapse and serve as the fundamental building blocks of more massive cosmic structures [White et al. (1982)](https://ui.adsabs.harvard.edu/abs/1982SAAS...12..291W/abstract), [Carlberg et al. (1992)](https://ui.adsabs.harvard.edu/abs/1992ApJ...397....5C/abstract). Historically viewed as simple, passively evolving remnants of a single primordial collapse [Tinsley et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980FCPh....5..287T/abstract), modern astrophysics recognizes [[low-mass-galaxies|Low-mass galaxies]] as highly dynamic entities. Their evolutionary trajectories are continuously reshaped by an intricate balance of intense internal [[galactic-outflows-and-feedback|feedback mechanisms]] and violent environmental forces.
 

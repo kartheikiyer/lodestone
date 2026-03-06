@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In [[statistical-methods-in-astrophysics|Statistical methods in astrophysics]], **non-parametric methods** comprise a diverse set of [[model-independent-analysis|Model-independent analysis]] techniques designed to extract physical properties from observational data without assuming a rigidly fixed analytical form. Traditional [[parametric-modeling|Parametric modeling]] often relies on mathematically convenient but physically restrictive functional forms—such as the [[schechter-function|Schechter function]] for a [[galaxy-luminosity-function|Galaxy luminosity function]] or the [[sersic-profile|Sersic profile]] for surface brightness. While these models are efficient, they risk imposing theoretically driven biases that fail to capture complex, irregular, or multi-component phenomena. By contrast, non-parametric approaches treat the underlying [[probability-density-function-cosmology|Probability density function (cosmology)]] or structural map as a flexible, data-driven distribution. This adaptability is critical for characterizing everything from merger-driven morphological disruptions across cosmic time [Conselice et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ARA&A..52..291C/abstract) to unbiased distributions of galaxy luminosities affected by complex observational selection limits [Nicoll et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980A&A....82L...3N/abstract).
 

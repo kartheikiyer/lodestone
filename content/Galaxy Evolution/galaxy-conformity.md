@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In the study of galaxy formation and evolution, **galaxy conformity** refers to the empirical correlation between the physical properties of neighboring galaxies—most notably their star formation rates and colors—that persists even when controlling for the mass of their host dark matter halo. While classical theoretical frameworks, such as standard Halo Occupation Distribution (HOD) models, traditionally assume that the virial mass of a dark matter halo ($M_{\rm vir}$) exclusively dictates the statistical properties of its resident galaxies, conformity demonstrates that galactic environments play a persistent, coordinated role in shaping [[galaxy-property-distributions|Galaxy property distributions]] [Hearin et al. (2014)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.452.1958H/abstract). The primary observational signature of this phenomenon is that quiescent (or passive) central galaxies are preferentially surrounded by quiescent neighbors, whereas actively star-forming centrals tend to host star-forming neighbors. 
 

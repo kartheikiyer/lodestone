@@ -11,7 +11,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 In extragalactic astrophysics, **quiescent galaxies** are defined as systems that have largely or entirely ceased actively forming stars, exhibiting specific star formation rates (sSFR) typically orders of magnitude below those of typical [[star-forming-galaxies|Star-forming galaxies]]. Dominated by evolved, low-mass [[galactic-stellar-populations|Galactic stellar populations]], these galaxies lack the prominent nebular emission lines and blue continuum associated with young massive stars. Instead, they populate the [[red-sequence|Red sequence]] on color-magnitude diagrams and occupy a distinct locus in color-color spaces (such as the UVJ diagram) that separates them from dust-reddened star-forming systems. The transition of a galaxy from the active blue cloud to the quiescent red sequence is known as [[galaxy-quenching|Galaxy quenching]], a fundamental evolutionary milestone that transforms both the photometric and physical properties of the system.
 

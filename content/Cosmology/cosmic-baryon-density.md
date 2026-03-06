@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The **cosmic baryon density** represents the total mass-energy density of ordinary, baryonic matter—primarily protons, neutrons, and electrons—in the [[universe|Universe]]. It is conventionally expressed using the dimensionless [[omega-parameters|Omega parameters]] as $\Omega_b$, defined as the ratio of the mean baryonic [[mass-density|Mass density]] to the critical density. Within the standard [[lambda-cdm-model|Lambda CDM model]], baryons account for approximately 4% to 5% of the total [[energy-density-cosmology|Energy density (cosmology)]] and roughly 15% to 20% of the total matter content, with the remainder composed of [[non-baryonic-dark-matter|Non-baryonic dark matter]] (specifically [[cold-dark-matter|Cold dark matter]]) and dark energy. In precision cosmology, the parameter is frequently formulated as the physical baryon density, $\omega_b \equiv \Omega_b h^2$, which isolates the matter content from the late-time [[expansion-history|Expansion history]] and directly parameterizes the primordial baryon-to-photon ratio established during the [[big-bang|Big Bang]].
 

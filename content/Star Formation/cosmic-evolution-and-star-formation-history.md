@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The study of **Cosmic Evolution and Star Formation History** characterizes the global trajectory of baryonic matter as it condenses into stars across Hubble time. A central metric in this field is the comoving cosmic star formation rate density (SFRD), which quantifies the total mass of gas converted into stars per unit volume per unit time [Mo et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010gfe..book.....M/abstract). Observations across the electromagnetic spectrum have established a definitive overarching narrative for the [[stellar-mass-assembly-and-functions|Stellar Mass Assembly and Functions]]. Starting from the epoch of [[first-light-galaxies|First-light galaxies]], the [[global-star-formation-rate|Global star formation rate]] density rose steadily over the first few billion years of cosmic history. This activity culminated in a pronounced epoch known as "cosmic noon" ($z \approx 1-3$), where both the global rate and central supermassive black hole accretion reached their [[peak-star-formation-history|Peak star formation history]]. Following this peak, the SFRD has undergone an exponential decline of nearly an order of magnitude down to the present day [Madau et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ARA&A..52..415M/abstract).
 

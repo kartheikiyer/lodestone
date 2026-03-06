@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 Here is the revised draft of the wiki page, followed by a change log detailing the edits made.
 
 ***
@@ -103,7 +102,7 @@ While the concept of critical thresholds successfully describes many macroscopic
 *   Removed slightly unencyclopedic filler phrases and ensured the mathematical formatting was consistent throughout. 
 
 **4. Cross-Links:**
-*   Verified that only valid cross-links (`[[maximal-growth-rates|Maximal growth rates]]`, `[[limit-cycles|Limit cycles]]`, `[[gravitational-instability|Gravitational instability]]`) were used and formatted correctly. Eliminated redundant links to the same page within close proximity to maintain wiki style.
+*   Verified that only valid cross-links ([[maximal-growth-rates|Maximal growth rates]], [[limit-cycles|Limit cycles]], [[gravitational-instability|Gravitational instability]]) were used and formatted correctly. Eliminated redundant links to the same page within close proximity to maintain wiki style.
 
 ---
 

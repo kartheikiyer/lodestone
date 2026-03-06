@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **DISPERSE** (Discrete Persistent Structure Extractor) is an open-source geometric formalism and computational algorithm designed to identify and characterize the multi-scale topology of the cosmic web. Developed as a foundational tool for [[topological-data-analysis-in-astronomy|Topological data analysis in astronomy]], DISPERSE operates directly on discrete tracer distributions—such as galaxy catalogs from large-scale redshift surveys or dark matter particles in $N$-body simulations—to extract a mathematically robust, scale-independent "skeleton" of the universe [Sousbie et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013ascl.soft02015S/abstract). Acting as a highly precise [[galaxy-filament-finding-algorithm|Galaxy Filament-Finding algorithm]], DISPERSE typically begins by estimating a continuous density field from discrete points via a [[delaunay-tessellation|Delaunay tessellation]]. It then applies discrete Morse theory to partition this field into a discrete Morse-Smale complex. This topological framework rigorously categorizes the spatial manifold into its constituent critical points: local density maxima (nodes/clusters), connecting ridges (filaments), two-dimensional sheets (walls), and local minima (cosmic voids) [Pranav et al. (2016)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.4281P/abstract).
 

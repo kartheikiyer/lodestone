@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The **Compton $y$ distortion** is a characteristic spectral shift of cosmic microwave background (CMB) photons toward higher energies, generated via the inverse scattering of these photons by hot, free electrons. As the defining observational signature of the thermal [[sunyaev-zel-dovich-effect|Sunyaev-Zel'dovich effect]] (tSZ), this distortion manifests as a decrease in CMB intensity at low frequencies (wavelengths $\lambda > 1.3$ mm) and a corresponding increment at higher frequencies [Zemcov et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A&A...518L..16Z/abstract). The magnitude of this [[comptonization|Comptonization]] process is quantified by the dimensionless Compton $y$ parameter, which represents the line-of-sight integral of the thermal electron pressure. Because it is directly sensitive to the product of electron density and temperature, the $y$ distortion provides a powerful, redshift-independent probe of the thermodynamic state of ionized gas in the universe, bridging the gap between primordial cosmology and late-time astrophysics.
 

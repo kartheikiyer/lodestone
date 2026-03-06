@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In astrophysics, **abundance gradients** refer to the systematic spatial variation in the chemical enrichment of the interstellar medium and stellar populations across a galaxy. Most commonly observed as a radial decrease in [[metallicity|Metallicity]] with increasing galactocentric distance—termed a negative gradient—these profiles serve as a fundamental fossil record of a galaxy's assembly and [[chemical-enrichment-history|Chemical enrichment history]]. The ubiquity of [[negative-abundance-gradients|Negative abundance gradients]] in local disk galaxies is primarily understood through the "inside-out" growth paradigm [Tinsley et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980FCPh....5..287T/abstract), [Matteucci et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003ceg..book.....M/abstract). In this framework, the central regions of a galactic potential well accumulate gas, achieve a high [[gas-fraction|Gas fraction]], and form stars earlier and more rapidly than the extended outer disk. As successive stellar generations inject newly synthesized heavy elements back into the interstellar medium, the central regions undergo rapid [[chemical-evolution-and-nucleosynthesis|Chemical Evolution and Nucleosynthesis]], while the outskirts are continuously diluted by the slower accretion of pristine or metal-poor cosmological gas [Prantzos et al. (1999)](https://ui.adsabs.harvard.edu/abs/2000MNRAS.313..338P/abstract).
 

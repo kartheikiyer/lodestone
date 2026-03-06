@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Patchy reionization** describes the highly structured, spatially non-uniform phase transition of the intergalactic medium (IGM) from a neutral to a fully ionized state during the cosmic dawn. Driven by the emergence of the first luminous sources, this epoch is characterized by an "inside-out" topology where discrete, ionized H II bubbles form around overdense regions of space. As the ionizing ultraviolet background builds, these isolated bubbles grow and eventually merge in a complex percolation process, culminating in the completion of [[inhomogeneous-reionization|Inhomogeneous reionization]] across the universe [Furlanetto et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004ApJ...613...16F/abstract), [Iliev et al. (2005)](https://ui.adsabs.harvard.edu/abs/2006MNRAS.369.1625I/abstract). This modern paradigm starkly contrasts with early theoretical models that approximated the transition as a sudden, uniform [[global-reionization|Global reionization]], demonstrating instead that the patchiness is an intrinsic, scale-dependent feature dictated by the underlying clustering of dark matter halos and the filamentary cosmic web [Barkana et al. (2003)](https://ui.adsabs.harvard.edu/abs/2004ApJ...609..474B/abstract).
 

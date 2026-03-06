@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 # Infilling Satellite Galaxies
 
 In extragalactic astrophysics, the inward migration and orbital decay of [[satellite-galaxies|Satellite galaxies]] describes their trajectory toward the center of a massive cluster or group's gravitational potential well. This inward migration is driven by dynamical friction, a process in which the satellite transfers its orbital energy and angular momentum to the surrounding dark matter and stellar background. As a fundamental pillar of hierarchical [[galaxy-accretion|Galaxy accretion]], the continuous infall and orbital decay of these satellites is the primary mechanism for the late-time [[ex-situ-galaxy-growth|Ex-situ galaxy growth]] of massive halos. For the most massive [[central-galaxies|Central galaxies]], particularly [[brightest-cluster-galaxies|Brightest cluster galaxies]] (BCGs) and extended [[cd-galaxies|cD galaxies]], the accretion of massive infalling systems constitutes the bulk of their [[stellar-mass-assembly-and-functions|stellar mass assembly]], culminating in the process traditionally known as [[cannibalized-satellite-galaxies|galactic cannibalism]].

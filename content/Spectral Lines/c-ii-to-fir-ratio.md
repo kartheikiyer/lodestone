@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **[C II]-to-FIR ratio** is a fundamental astrophysical diagnostic that compares the luminosity of the [[c-ii-158-m-line|[C II] 158 μm line]] to the underlying far-infrared (FIR) dust continuum. Because the [C II] fine-structure transition is a primary cooling channel for the neutral interstellar medium (ISM) and the FIR continuum traces thermal dust emission heated by ultraviolet photons, this ratio serves as an observational proxy for the photoelectric heating efficiency of the gas [Crawford et al. (1985)](https://ui.adsabs.harvard.edu/abs/1985ApJ...291..755C/abstract). In normal [[star-forming-galaxies|Star-forming galaxies]], the ratio typically ranges from $0.1\%$ to $1\%$ of the bolometric luminosity [Gong et al. (2011)](https://ui.adsabs.harvard.edu/abs/2012ApJ...745...49G/abstract), reflecting a stable energy balance between gas heating in photodissociation regions (PDRs) and dust cooling [De Looze et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011MNRAS.416.2712D/abstract).
 

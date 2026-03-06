@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **X-ray binaries** (XRBs) are a class of gravitationally bound stellar systems characterized by immense high-energy emission, typically ranging from $10^{35}$ to $10^{39}$ erg s$^{-1}$. These systems consist of a compact remnant—either a neutron star or a [[stellar-mass-black-holes|stellar-mass black hole]]—that accretes matter from a non-degenerate [[donor-stars|companion star]]. The intense X-ray luminosity is powered by the conversion of gravitational potential energy into radiation as material from the companion is captured via Roche lobe overflow or powerful stellar winds. This infalling matter typically forms a rapidly rotating, geometrically thin accretion disk, emitting thermal X-rays from a multi-temperature blackbody. In systems with highly magnetized neutron stars, the accretion flow is truncated and channeled onto the magnetic poles, producing coherent [[x-ray-pulsars|X-ray pulsars]]. As the observable and long-lived endpoints of massive stellar evolution, XRBs serve as crucial astrophysical laboratories for studying extreme accretion physics, general relativity in strong-field regimes, and the star-formation and dynamical histories of their host galaxies.
 

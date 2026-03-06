@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Astrophysical spectroscopy** is the study of celestial objects through the dispersion and analysis of their electromagnetic radiation. As the primary method for extracting physical information from the Universe, it relies on decomposing an object's light into its [[integrated-photometry|spectral energy distribution (SED)]]. This spectrum typically comprises a slowly varying continuum—produced by thermal emission, bound-free transitions, or diffuse relativistic electrons—superimposed with discrete [[spectral-line-profiles-and-diagnostics|atomic and molecular spectral lines]]. By measuring these bound-bound emission features and [[stellar-absorption-lines|Stellar absorption lines]], astronomers can precisely determine the [[chemical-abundances|Chemical Abundances]], temperature, density, and ionization state of celestial sources, ranging from local stellar photospheres to high-redshift galaxies [Sandage et al. (1975)](https://ui.adsabs.harvard.edu/abs/1975gaun.book.....S/abstract), [Shore et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002tma..book.....S/abstract). Furthermore, the [[blueshift|Doppler shift]] of these spectral features provides a direct measure of radial velocity, establishing the cosmological [[spectroscopic-redshift|Spectroscopic redshift]] scale and mapping both internal galactic dynamics and the expansion of the Universe.
 

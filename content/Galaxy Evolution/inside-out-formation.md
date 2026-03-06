@@ -8,7 +8,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Inside-out formation** is the prevailing theoretical model for the structural and chemical evolution of [[disk-galaxies|Disk Galaxies]], positing that galaxies assemble their mass and initiate star formation in their dense central regions before progressively building their extended outer disks over cosmic time. Situated within the broader framework of $\Lambda$CDM [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]], this spatial growth pattern is fundamentally driven by the cosmological [[galaxy-accretion|Galaxy accretion]] and the conservation of angular momentum. As dark matter halos grow hierarchically over cosmic time, baryons that accrete at later epochs possess higher specific angular momentum. Consequently, this late-arriving gas cools and circularizes at progressively larger galactocentric radii [Bouwens et al. (1997)](https://ui.adsabs.harvard.edu/abs/1997ApJ...489L..21B/abstract), [Kennicutt et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998ARA&A..36..189K/abstract). This continuous outside-in fueling of gas naturally drives the inside-out buildup of the stellar disk, a mechanism central to understanding [[galactic-disk-evolution|Galactic disk evolution]] across the universe.
 

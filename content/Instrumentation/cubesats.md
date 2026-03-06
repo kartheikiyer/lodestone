@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **CubeSats** are a class of standardized, miniaturized, and modular satellites that have rapidly transitioned from educational technology demonstrators into primary [[astronomical-observatories-and-missions|astrophysical observatories]]. Built upon a standardized volumetric unit and leveraging commercial off-the-shelf (COTS) components, the CubeSat architecture dramatically reduces the cost and development time of space-borne instrumentation. Within the broader landscape of [[space-based-observatories-and-surveys|Space-Based Observatories and Surveys]], these agile platforms serve a highly specialized role. While flagship missions such as the [[gaia-mission-and-data-products|Gaia Mission and Data Products]] excel at producing massive population statistics and microarcsecond astrometry [Gaia Collaboration et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...674A...1G/abstract), they are inherently constrained by rigid observing schedules and competing science goals. CubeSats fill this operational gap by executing dedicated, high-cadence [[multi-epoch-observations|Multi-epoch observations]] of specific, highly variable targets, capturing dynamic phenomena that require uninterrupted, long-duration temporal baselines. 
 

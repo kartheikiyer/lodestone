@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **High-redshift active galactic nuclei** (AGN) are extremely luminous galactic cores situated at high cosmological redshifts spanning the Cosmic Dawn and Cosmic Noon epochs (typically $z > 1$ to $z > 5$ and beyond). Powered by the rapid, often super-Eddington accretion of gas onto [[supermassive-black-holes|Supermassive black holes]], these objects serve as vital astrophysical laboratories for understanding the formation of [[massive-black-hole-seeds|Massive black hole seeds]] and the primordial assembly of their [[host-galaxies|Host galaxies]]. While textbook models of [[extragalactic-astronomy|Extragalactic astronomy]] establish a tight co-evolutionary scaling relation between central black hole mass and host spheroid stellar mass in the local Universe [Ho et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998astro.ph..3307H/abstract), high-redshift AGN provide a direct window into an epoch where these relationships had not yet matured. Because their rest-frame optical and ultraviolet emission is frequently subjected to severe attenuation by neutral gas and dust, characterizing these early accreting systems requires comprehensive multi-wavelength approaches, ranging from deep X-ray surveys probing [[compton-thick-agn|Compton-thick AGN]] to infrared spectroscopy targeting their broad emission lines. 
 

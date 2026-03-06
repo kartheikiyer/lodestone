@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Isochrone analysis** is a foundational astrophysical technique used to determine the age, distance, and [[metallicity|Metallicity]] of coeval stellar systems by fitting theoretical stellar evolution models to an observed [[color-magnitude-diagram|Color-magnitude diagram]] (CMD). An isochrone—literally a line of constant age—represents a theoretical snapshot of [[simple-stellar-populations|Simple stellar populations]] plotted in the luminosity-effective temperature plane, derived by interpolating across a dense grid of mass-dependent [[evolutionary-tracks|Evolutionary tracks]]. Because massive stars exhaust their core hydrogen much faster than low-mass stars, the luminosity and color of the main-sequence turn-off point are highly sensitive to the elapsed time since star formation. By anchoring these models with an assumed [[initial-mass-function-imf|Initial Mass Function (IMF)]], astrophysicists can match the diagnostic morphology of main-sequence and post-main-sequence evolutionary phases to photometric data. This process is widely considered the most accurate tool currently available for inferring the [[star-formation-history|star formation histories]] of stellar-resolved environments [Zheng et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..279...12Z/abstract).
 

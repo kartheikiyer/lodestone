@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Statistical Inference and Data Methods** encompass the mathematical frameworks and computational algorithms used to extract physical insights and quantify uncertainties from complex astronomical observations. Historically, [[statistical-methods-in-astrophysics|Statistical methods in astrophysics]] relied heavily on frequentist tools, utilizing Poisson statistics and basic correlation estimators to evaluate the spatial clustering of galaxies [de Vaucouleurs et al. (1971)](https://ui.adsabs.harvard.edu/abs/1971PASP...83..113D/abstract), [Ling et al. (1987)](https://ui.adsabs.harvard.edu/abs/1987PhDT........12L/abstract), [Hamilton et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005astro.ph..3603H/abstract). However, as astronomical surveys have expanded into petabyte-scale datasets with highly correlated, multi-dimensional parameter spaces, the field has recognized the limitations of rigid analytic likelihoods and simple point estimates [Feigelson et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003sca..book.....F/abstract). Consequently, a major paradigm shift has established Bayesian probability theory as the foundational standard for [[scientific-data-analysis|Scientific data analysis]], providing a mathematically rigorous mechanism to model heterogeneous noise, propagate non-Gaussian uncertainties, and solve underdetermined inverse problems [Hobson et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009bmc..book.....H/abstract).
 

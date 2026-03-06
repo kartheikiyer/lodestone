@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **Hobby-Eberly Telescope Dark Energy Experiment (HETDEX)** is a massive, untargeted [[extragalactic-astronomical-surveys|spectroscopic survey]] designed to map the three-dimensional spatial distribution of emission-line galaxies across a comoving volume of 8.5 Gpc$^3$ [Chiang et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJ...808...37C/abstract). Utilizing the Visible Integral-field Replicable Unit Spectrograph (VIRUS)—an innovative array of over a hundred highly replicated integral field units (IFUs)—HETDEX conducts a "blind" spectroscopic survey that does not rely on prior photometric pre-selection. The survey primarily targets high-redshift Lyman-$\alpha$ emitting galaxies (LAEs) at $1.9 < z < 3.5$, alongside a vast foreground population of [O II] emitters at $z < 0.5$ [Mentuch Cooper et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJ...943..177M/abstract). By uniformly sampling the focal plane with fiber optics, HETDEX systematically identifies hundreds of thousands of [[extragalactic-astronomy|extragalactic sources]] strictly through their emission features, bypassing the continuum brightness limits that restrict traditional targeting strategies.
 

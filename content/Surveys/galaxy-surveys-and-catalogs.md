@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Galaxy surveys** are systematic observational campaigns that map expansive volumes of the sky to produce comprehensive catalogs of extragalactic sources. By collecting multi-band [[observational-photometry|Observational Photometry]], precise [[redshift-catalogs|Redshift catalogs]], and detailed [[galaxy-structure|Galaxy structure]], these surveys transform two-dimensional sky projections into three-dimensional [[galaxy-mapping|Galaxy mapping]] of the universe. Historically evolving from early photographic compilations of "nebulae" to massively multiplexed [[spectroscopy-surveys|Spectroscopy surveys]], these datasets are the empirical foundation of modern [[extragalactic-astronomy|Extragalactic astronomy]]. They are essential for visualizing the "Cosmic Web"—the vast network of high-density filaments, galaxy clusters, and underdense voids that characterizes the large-scale structure of the universe and traces the underlying [[galaxy-density-fields|Galaxy density fields]] [Lahav et al. (2003)](https://ui.adsabs.harvard.edu/abs/2004LRR.....7....8L/abstract).
 

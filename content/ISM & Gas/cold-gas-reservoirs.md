@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In astrophysics, **cold gas reservoirs** represent the primary supply of [[atomic-gas-hi-studies|neutral atomic (H I)]] and [[dense-molecular-gas|molecular ($\text{H}_2$) hydrogen]] within galaxies and their surrounding [[extra-planar-and-circumgalactic-gas|Extra-planar and Circumgalactic Gas]]. These reservoirs dictate the star formation history of the Universe, serving as the essential fuel that governs a galaxy's growth across cosmic time. In the local Universe, the bulk of this material resides in extended galactic disks, where atomic gas generally dominates the total [[gas-fraction|Gas fraction]], while the denser, colder molecular phase condenses into [[cold-molecular-clouds|Cold molecular clouds]] to actively form stars. Because the symmetric $\text{H}_2$ molecule lacks a permanent electric dipole moment, the molecular phase is traditionally quantified using [[dense-gas-tracers|Dense gas tracers]] such as carbon monoxide (CO) rotational transitions. In contrast, atomic hydrogen and its accretion flows are mapped directly via the 21-cm hyperfine emission line [Sancisi et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A&ARv..15..189S/abstract). 
 

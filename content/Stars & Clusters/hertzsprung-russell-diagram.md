@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The Hertzsprung-Russell (H-R) diagram is a fundamental diagnostic scatter plot in astrophysics that relates a star's [[intrinsic-galaxy-and-stellar-properties|intrinsic luminosity]] or absolute magnitude to its effective temperature ($T_{\rm eff}$) or [[stellar-classifications-and-evolutionary-stages|spectral class]]. Rather than being distributed uniformly across this parameter space, stars cluster into highly structured sequences that correspond to specific phases of hydrostatic equilibrium and nuclear burning. The most prominent feature is the [[zero-age-main-sequence|Zero Age Main Sequence]], a diagonal locus where stars spend the majority of their lifetimes fusing hydrogen in their cores. As stars exhaust this core fuel, their [[evolutionary-tracks|Evolutionary tracks]] diverge across the diagram, driven primarily by their [[initial-mass-function-imf|initial mass]] and [[metallicity|Metallicity]]. Low- to intermediate-mass stars cool and expand to populate the [[red-giant-branch|Red giant branch]] before shedding their outer envelopes to leave behind degenerate [[white-dwarfs|White dwarfs]], while [[massive-stars|massive stars]] evolve horizontally across the upper regions of the diagram through complex supergiant and mass-loss phases. 
 

@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 Photoelectric heating is a dominant thermal process regulating the temperature of the neutral interstellar medium (ISM) and [[photodissociation-chemistry|photodissociation regions (PDRs)]] in star-forming galaxies. The mechanism is driven by far-ultraviolet (FUV) photons ($6\ {\rm eV} < h\nu < 13.6\ {\rm eV}$) that eject electrons from the surfaces of dust particles, most notably polycyclic aromatic hydrocarbons (PAHs) and [[very-small-grains|Very Small Grains]] [Wolfire et al. (1995)](https://ui.adsabs.harvard.edu/abs/1995ApJ...443..152W/abstract). Upon ejection, these photoelectrons transfer their excess kinetic energy to the ambient gas through elastic collisions, effectively converting stellar radiation into thermal energy. Balanced primarily by fine-structure [[radiative-cooling|Radiative cooling]], photoelectric heating establishes the multiphase structure of the neutral ISM, maintaining the equilibrium temperatures of both the Cold Neutral Medium (CNM) and the Warm Neutral Medium (WNM) [Draine et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011piim.book.....D/abstract).
 

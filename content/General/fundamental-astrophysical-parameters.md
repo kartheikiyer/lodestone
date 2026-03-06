@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Fundamental astrophysical parameters** are the primary physical quantities required to characterize the state, structure, and evolution of celestial bodies. At the stellar level, these encompass a star's intrinsic mass, radius, [[effective-temperature|Effective temperature]], [[surface-gravity-stellar|Surface gravity (stellar)]], and [[metallicity|Metallicity]]. Together, these variables determine a star's emergent spectrum, internal physics, and placement on the [[hertzsprung-russell-diagram|Hertzsprung-Russell diagram]]. Historically, the derivation of these parameters relied heavily on theoretical mass-luminosity relations and the classical distance ladder, anchored by [[standard-candles|Standard candles]] such as [[cepheid-variables|Cepheid variables]] [Mo et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010gfe..book.....M/abstract). Today, the field has been revolutionized by large-scale space astrometry—most notably the [[gaia-mission-and-data-products|Gaia Mission and Data Products]]—and the advent of asteroseismology. These modern techniques allow for direct, high-precision [[mass-determination|Mass determination]] and atmospheric characterization across hundreds of millions of sources, drastically reducing our reliance on purely empirical models [Gaia Collaboration et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018A&A...616A...1G/abstract).
 

@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Stellar Population Synthesis** (SPS) is the foundational theoretical and computational framework used to interpret the integrated spectral energy distributions ([[sed-fitting|SED fitting]]) of unresolved galaxies and [[star-clusters|Star clusters]]. Because the vast majority of stellar systems beyond the Local Group cannot be resolved into individual stars, astrophysicists must model their combined light to infer fundamental macroscopic properties such as [[stellar-component|Stellar component]], [[star-formation-history|Star Formation History]], and [[chemical-abundances|Chemical Abundances]]. The technique traces its origins to the pioneering work of Beatrice Tinsley [Tinsley et al. (1980)](https://ui.adsabs.harvard.edu/abs/1980FCPh....5..287T/abstract), who formalized the synthesis of macroscopic galaxy properties from microscopic stellar physics. At its core, SPS constructs [[simple-stellar-populations|Simple stellar populations]] (SSPs)—coeval groups of stars with a single initial metallicity—by convolving three primary ingredients: theoretical [[evolutionary-tracks|Evolutionary tracks]] (isochrones), an assumed [[initial-mass-function-imf|Initial Mass Function (IMF)]], and an empirical or synthetic stellar spectral library. By integrating these SSPs over cosmic time, researchers can forward-model the light of complex, multi-generation galaxies [Conroy et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013ARA&A..51..393C/abstract).
 

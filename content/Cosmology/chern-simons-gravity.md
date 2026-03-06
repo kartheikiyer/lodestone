@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 Here is the revised draft of the wiki page, followed by a change log detailing the edits made.
 
 ***
@@ -114,9 +113,9 @@ A primary observational objective for next-generation detectors like LISA is to 
    - Flagged `[UNSUPPORTED]` next to mentions of the "Jackiw-Pi model", "Square Kilometre Array", "pathological ghost instabilities", "Strong equivalence principle", and "massive graviton" modified dispersion relations, as none of the provided abstracts explicitly verify these claims within the context of Chern-Simons gravity.
 3. **Citations & Cross-links**:
    - Corrected an inaccurate citation in the lead: The draft cited Moffat's STVG (2006JCAP...03..004M) and Bekenstein's TeVeS (2011RSPTA.369.5003B) as examples of "chiral scalar-tensor theories" when discussing Chern-Simons gravity. Replaced these with appropriate citations to CSG trispectrum papers from the provided list (`[Fujita et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024JCAP...05..127F/abstract), [Moretti et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv241011801M/abstract)`).
-   - Ensured all wiki cross-links matched the provided valid list perfectly (e.g., added a link to `[[ricci-scalar|Ricci scalar]]` and `[[quantum-field-theory|Quantum field theory]]`, adjusted capitalization to `[[scalar-tensor-theories|Scalar-tensor theories]]`).
+   - Ensured all wiki cross-links matched the provided valid list perfectly (e.g., added a link to [[ricci-scalar|Ricci scalar]] and [[quantum-field-theory|Quantum field theory]], adjusted capitalization to [[scalar-tensor-theories|Scalar-tensor theories]]).
 4. **Style**:
-   - Smoothed out textbook-style explanations (e.g., "standard General Relativity textbooks" was revised to just "standard `[[general-relativity|General Relativity]]`" to align with encyclopedic tone while maintaining consistency with the textbook snippet).
+   - Smoothed out textbook-style explanations (e.g., "standard General Relativity textbooks" was revised to just "standard [[general-relativity|General Relativity]]" to align with encyclopedic tone while maintaining consistency with the textbook snippet).
 
 ---
 

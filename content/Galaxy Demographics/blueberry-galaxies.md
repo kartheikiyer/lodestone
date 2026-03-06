@@ -10,7 +10,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Blueberry galaxies** are a class of [[compact-galaxies|extremely compact]], metal-poor dwarf starburst galaxies situated in the [[low-redshift-star-forming-galaxies|local universe]]. Characterized by exceptionally high specific star formation rates and strong nebular emission that yields enormous ionization ratios [Rong et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018arXiv180610149R/abstract), these systems possess very low stellar masses ($10^5 - 10^7 M_{\odot}$) [Paswan et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021arXiv210208240P/abstract) and gas-phase metallicities typically around 10% of the solar value [Brennan et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.259B/abstract), [Brennan et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv231213280B/abstract). They are widely recognized as the lower-redshift, lower-mass counterparts to [[green-pea-galaxies|Green Pea galaxies]] and represent an extreme, transient phase within the broader evolutionary sequence of [[blue-compact-dwarf-galaxies|Blue compact dwarf galaxies]] [Paswan et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...929...50P/abstract). Because of their pristine nature and uniquely blue optical continua, blueberry galaxies serve as critical local [[galaxy-analogues|Galaxy analogues]] for studying the extreme interstellar medium conditions prevalent during the early phases of cosmic assembly.
 

@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Submillimeter astronomy** is a branch of observational astrophysics that studies the universe at wavelengths between approximately 300 μm and 1 mm (frequencies from 300 GHz to 1 THz). Situated between [[far-infrared-astronomy|Far-infrared astronomy]] and [[millimeter-wave-astronomy|Millimeter-wave Astronomy]], this spectral window is uniquely sensitive to the cold, dense components of the interstellar medium (ISM). The primary physical processes observed in this regime include the thermal continuum emission from cold interstellar dust—typically modeled as a modified blackbody—and the rotational transitions of abundant molecules such as carbon monoxide (CO), which act as standard proxies for total molecular gas mass. Unlike [[visible-light|Visible light]] or [[near-ultraviolet-astronomy|Near-ultraviolet astronomy]], which predominantly trace unobscured stellar photospheres, submillimeter observations penetrate regions of high optical extinction to reveal the obscured, dusty nurseries where the majority of cosmic star formation occurs.
 

@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The Milky Way is the galaxy that contains our Solar System, functioning as the foundational astrophysical laboratory for understanding the formation and evolution of $L^\star$ [[disk-galaxies|barred spiral galaxies]]. Structurally, the Galaxy is composed of several distinct components: a central [[supermassive-black-holes|supermassive black hole]], Sagittarius A*, residing within [[the-galactic-center|The Galactic Center]]; a secularly evolved [[alard-bar|stellar bar]] that projects as a boxy/peanut-shaped [[galactic-bulges|bulge]] [Minniti et al. (2007)](https://ui.adsabs.harvard.edu/abs/2008IAUS..245..323M/abstract); a bimodal disk system separated into chemically and kinematically distinct [[thin-disks|Thin disks]] and [[thick-disks|Thick disks]]; and an extended, metal-poor [[stellar-halos|Stellar halos]] embedded within a massive dark matter halo. Historically conceptualized as a system in steady-state equilibrium [Mihalas et al. (1981)](https://ui.adsabs.harvard.edu/abs/1981gask.book.....M/abstract), [Binney et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998gaas.book.....B/abstract), modern high-dimensional data have redefined the Milky Way as a highly dynamic, non-equilibrium structure undergoing active perturbations from infalling [[satellite-galaxies|Satellite galaxies]] and the reflex motion of the Milky Way induced by the Large Magellanic Cloud.
 

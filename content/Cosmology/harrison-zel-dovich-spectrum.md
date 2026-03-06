@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The **Harrison-Zel'dovich spectrum** is a foundational model of [[initial-conditions-in-astrophysics|Initial Conditions in Astrophysics]] that describes a purely scale-invariant distribution of primordial [[density-perturbations|Density perturbations]]. Formulated independently in the early 1970s, it posits that the dimensionless power spectrum of curvature fluctuations is constant, meaning that [[metric-perturbations|Metric perturbations]] possess equal amplitude across all physical scales at the moment they enter the cosmological horizon [Carr et al. (1975)](https://ui.adsabs.harvard.edu/abs/1975ApJ...201....1C/abstract), [Zeldovich et al. (1983)](https://ui.adsabs.harvard.edu/abs/1983reas.book.....Z/abstract). In modern parametric terms, this corresponds to a primordial [[cosmological-power-spectrum|Cosmological power spectrum]] following a strict power law with a scalar spectral index of $n_s = 1$. Originally proposed as a heuristic necessity to prevent severe cosmological pathologies—such as the overproduction of primordial black holes or an overwhelmingly chaotic early universe—this $n_s = 1$ baseline became the standard theoretical precursor to modern models of large-scale structure formation.
 

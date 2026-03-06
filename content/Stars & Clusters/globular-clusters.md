@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 Globular clusters are remarkably dense, gravitationally bound [[star-clusters|Star clusters]] containing between $10^5$ and $10^6$ ancient stars. Characterized by high degrees of spherical symmetry and extreme central [[stellar-density|Stellar density]], they are ubiquitous features of [[massive-galaxies|Massive galaxies]], typically residing in their extended [[stellar-halos|Stellar halos]]. As some of the oldest bound macroscopic structures in the universe, with absolute ages frequently spanning 12.5 to 15 Gyr [Chaboyer et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996NuPhS..51...10C/abstract), globular clusters have historically served as critical laboratories for constraining the age of the universe via main-sequence turnoff fitting and as secondary distance indicators through the universally peaked globular cluster luminosity function (GCLF). Today, they are recognized as fundamental fossil records that drive [[galactic-archaeology|Galactic archaeology]] and trace the earliest epochs of galactic assembly and chemical enrichment [Brodie et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006ARA&A..44..193B/abstract).
 

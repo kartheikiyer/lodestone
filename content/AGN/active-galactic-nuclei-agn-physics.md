@@ -12,7 +12,6 @@ date: "2026-03-03"
 draft: false
 ---
 
-## Article
 
 **Active Galactic Nuclei (AGN) Physics** is the study of the extreme energetic processes occurring at the centers of a fraction of galaxies, where matter accreting onto [[supermassive-black-holes|Supermassive black holes]] powers bolometric luminosities that can outshine the entire host galaxy. The foundational paradigm of the field establishes that this immense, broadband radiative output is driven by the highly efficient conversion of gravitational potential energy into radiation via various [[accretion-processes|Accretion Processes]] [Blandford et al. (1992)](https://ui.adsabs.harvard.edu/abs/1992AIPC..254....3B/abstract), [Shields et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999PASP..111..661S/abstract). Depending on the accretion rate relative to the [[eddington-ratio|Eddington limit]], these central engines manifest in different physical states: as radiatively efficient, geometrically thin accretion disks—characteristic of luminous [[quasars|Quasars]] and [[seyfert-galaxies|Seyfert galaxies]]—or as a [[radiatively-inefficient-accretion-flow|Radiatively inefficient accretion flow]] (RIAF) typical of [[low-luminosity-active-galactic-nuclei|Low-Luminosity Active Galactic Nuclei]] [Ho et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999ApJ...516..672H/abstract). 
 

@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Starburst galaxy evolution** constitutes a critical phase in [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]], characterized by the exceptionally rapid conversion of cold molecular gas into stars. Unlike quiescent [[disk-galaxies|Disk Galaxies]] that form stars steadily over Hubble timescales, starburst systems exhibit drastically elevated specific star formation rates, placing them well above the [[star-forming-main-sequence|Star-Forming Main Sequence]]. In these environments, gas depletion timescales drop to as short as $10^7$ to $10^8$ years. These extreme conditions push the limits of star formation efficiency, often reaching a fundamental "starburst intensity limit" governed by self-regulatory feedback mechanisms [Heckman et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005ASSL..329....3H/abstract). Because the intense radiation from newly formed [[massive-stars|Massive stars]] is heavily reprocessed by dense interstellar dust, these galaxies are frequently obscured at optical wavelengths and emerge as luminous infrared sources, representing a dominant mode of stellar mass assembly at the peak of the [[cosmic-evolution-and-star-formation-history|Cosmic Evolution and Star Formation History]] [Heckman et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999AIPC..470..322H/abstract).
 

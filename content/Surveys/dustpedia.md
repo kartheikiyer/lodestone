@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **DustPedia** is a collaborative research initiative and comprehensive multi-wavelength archive designed to characterize the physical properties of cosmic dust, the interstellar medium (ISM), and [[dust-obscured-star-formation-and-galaxies|Dust-Obscured Star Formation and Galaxies]] in the [[local-volume-and-nearby-galaxy-studies|Local Volume and Nearby Galaxy Studies]]. Capitalizing on the legacy of the [[herschel-space-observatory|Herschel Space Observatory]], the project provides a highly homogenized dataset for 875 nearby galaxies (recession velocities $v \le 3000\text{ km s}^{-1}$) across 42 broad-band filters spanning from the ultraviolet to the microwave [[bibcode-2018a-a-609a-37c|bibcode:2018A&A...609A..37C]]. Historically, early [[far-infrared-astronomy|Far-infrared astronomy]] observations from facilities like IRAS were fundamentally limited by low spatial resolution, which often forced researchers to treat galaxies as single-temperature point sources [[bibcode-1989a-arv-1-49c|bibcode:1989A&ARv...1...49C]]. DustPedia overcomes these limitations by integrating modern, high-resolution imagery to explicitly trace the complete energy balance of nearby galaxies—the physical principle that stellar radiation absorbed by interstellar dust grains in the ultraviolet and optical is entirely thermally re-emitted in the far-infrared and sub-millimeter regimes. 
 

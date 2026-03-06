@@ -8,7 +8,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In galactic astrophysics, **pseudobulges** are central, dense stellar components of [[disk-galaxies|Disk Galaxies]] that form through slow, internal [[secular-evolution-of-galaxies|Secular evolution of galaxies]] rather than through violent major mergers. Historically, all central [[galactic-bulges|Galactic Bulges]] were assumed to be "classical" bulges—dynamically hot, pressure-supported spheroids resembling scaled-down [[elliptical-and-early-type-galaxies|Elliptical and Early-Type Galaxies]]. However, modern kinematic and photometric surveys have established a fundamental two-family paradigm, revealing that many bulges retain a strong structural and dynamical "memory" of a disk origin [Kormendy et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005RMxAC..23..101K/abstract), [Kormendy et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013seg..book....1K/abstract). Driven by non-axisymmetries such as [[galactic-bars|Galactic Bars]], secular processes redistribute angular momentum and funnel cold gas into the [[nuclear-regions-of-galaxies|Nuclear Regions of Galaxies]]. Over gigayear timescales, this continuous or episodic gas transport fuels [[starburst-galaxy-evolution|Starburst Galaxy Evolution]] that builds a rotationally supported, disk-like central concentration [Fisher et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006ApJ...642L..17F/abstract).
 

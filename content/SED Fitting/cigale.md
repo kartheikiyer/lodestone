@@ -11,7 +11,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **CIGALE** (Code Investigating GALaxy Emission) is a state-of-the-art, open-source software package designed for [[multi-component-sed-fitting|Multi-component SED fitting]] of galaxies. At its core, CIGALE derives fundamental physical properties—such as stellar mass, star formation rate (SFR), and star formation history—by modeling the panchromatic spectral energy distribution (SED) of a galaxy across the electromagnetic spectrum. The tool is predicated on the physical principle of energy balance: it assumes that the ultraviolet and optical radiation emitted by stars and [[active-galactic-nuclei-agn-physics|active galactic nuclei]] that is absorbed by interstellar dust must be strictly conserved and thermally re-emitted in the mid- to far-infrared [Noll et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009A&A...507.1793N/abstract). By explicitly coupling dust attenuation to dust emission, CIGALE breaks traditional degeneracies between intrinsic stellar age and reddening, providing robust constraints on a galaxy's overall energy budget in a manner similar to other established energy-balance tools like [[magphys|MAGPHYS]].
 

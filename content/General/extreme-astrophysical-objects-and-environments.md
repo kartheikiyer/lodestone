@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The domain of extreme astrophysics encompasses environments dominated by deep gravitational potential wells, ultra-strong magnetic fields, and relativistic plasma dynamics [Longair et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011hea..book.....L/abstract). At the center of this field are [[massive-compact-objects|Massive compact objects]]—particularly neutron stars and supermassive black holes (SMBHs)—which act as the [[central-engines|Central engines]] for the most luminous phenomena in the Universe. Governed by the Kerr spacetime metric in [[black-hole-physics|Black Hole Physics]], these objects convert gravitational binding energy into immense radiative and kinetic output via accretion processes that frequently approach or exceed the [[eddington-limit|Eddington limit]] [Eardley et al. (1975)](https://ui.adsabs.harvard.edu/abs/1975ARA&A..13..381E/abstract). This fundamental energy conversion powers [[active-galactic-nuclei-agn-physics|Active Galactic Nuclei (AGN) Physics]], where phenomenologically diverse sources are united under a common structural paradigm consisting of an accretion disk, broad and narrow line regions, and highly collimated [[relativistic-jets|Relativistic Jets]] [Krolik et al. (1999)](https://ui.adsabs.harvard.edu/abs/1999agnf.book.....K/abstract).
 

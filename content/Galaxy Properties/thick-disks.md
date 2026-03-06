@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In galactic astronomy, a **thick disk** is a ubiquitous structural component of [[disk-galaxies|Disk Galaxies]] characterized by a geometrically extended vertical distribution of stars. First identified as an excess of surface brightness above and below the galactic mid-plane, thick disks typically exhibit vertical [[scaleheight-distribution|scale heights]] two to three times larger than those of their embedded [[thin-disks|Thin disks]]. Observations of [[nearby-edge-on-galaxies|Nearby edge-on galaxies]] have established that thick disks are a generic feature of [[galaxy-structure|Galaxy structure]] across the [[hubble-sequence|Hubble sequence]] [Comerón et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011ApJ...741...28C/abstract). While they constitute a secondary mass component in massive, rapidly rotating spirals, their relative prominence scales inversely with host galaxy mass, frequently dominating the optical luminosity and stellar mass budget in [[low-mass-galaxies|Low-mass galaxies]] and dwarf systems [Yoachim et al. (2005)](https://ui.adsabs.harvard.edu/abs/2006AJ....131..226Y/abstract).
 

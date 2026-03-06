@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 Warm dark matter (WDM) is a class of hypothetical [[non-baryonic-dark-matter|Non-baryonic dark matter]] candidates characterized by intermediate, keV-scale masses. Positioned kinematically between the highly relativistic particles of hot dark matter and the massive, sluggish particles of standard [[cold-dark-matter|Cold dark matter]] (CDM), WDM particles decouple from the primordial plasma while still retaining a non-negligible thermal velocity dispersion. This intrinsic motion yields a characteristic free-streaming length that allows the particles to stream out of small gravitational potential wells in the early Universe. Consequently, WDM heavily suppresses the linear matter power spectrum on sub-galactic scales, delaying the formation of the first luminous objects and truncating the hierarchy of structure formation at low masses, while preserving the well-documented successes of the [[lambda-cdm-model|Lambda CDM model]] on macroscopic cosmic scales.
 

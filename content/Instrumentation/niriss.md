@@ -11,7 +11,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 The Near-Infrared Imager and Slitless Spectrograph (NIRISS) is a primary science instrument aboard the [[james-webb-space-telescope-jwst|James Webb Space Telescope (JWST)]], designed to provide versatile imaging and spectroscopic capabilities across the [[near-infrared-astronomy|Near-Infrared Astronomy]] wavelength range. Optimized to balance high-multiplexing survey speed with specialized [[high-resolution-spectroscopy|High-resolution spectroscopy]] modes, NIRISS builds upon the legacy of earlier space-based [[slitless-spectroscopy|Slitless spectroscopy]] programs to act as a highly efficient "redshift machine." By dispersing light without a traditional entrance slit, NIRISS enables unbiased, large-scale spectroscopic surveys of emission-line galaxies across cosmic time. This approach overcomes the cosmic variance and photometric pre-selection biases inherent to traditional targeted spectroscopy, allowing astronomers to identify faint, high-redshift populations that would otherwise be missed [Weiner et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012arXiv1209.1405W/abstract), [Malkan et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250900596M/abstract). To achieve its scientific goals, the instrument operates in four primary modes: Wide-Field Slitless Spectroscopy (WFSS), Single Object Slitless Spectroscopy (SOSS), Aperture Masking Interferometry (AMI), and standard wide-field imaging. 
 

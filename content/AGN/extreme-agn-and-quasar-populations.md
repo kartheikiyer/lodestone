@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Extreme AGN and quasar populations** encompass outlier subsets of active galactic nuclei (AGN) that push the boundaries of supermassive black hole (SMBH) accretion physics and host galaxy co-evolution. While standard textbook models often describe AGN and [[quasars|Quasars]] as a relatively uniform class separated primarily by bolometric luminosity and viewing angle [Beckmann et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012agn..book.....B/abstract), extreme populations represent distinct, highly dynamic phases of galaxy evolution. These subsets include hyper-luminous sources at cosmic noon, heavily obscured (dust-reddened) systems, and rapidly varying or super-Eddington accretors. Understanding these extreme outliers is essential for testing [[agn-classification-and-unified-models|AGN Classification and Unified Models]] [Urry et al. (2007)](https://ui.adsabs.harvard.edu/abs/2007arXiv0712.1041U/abstract), as modern multi-wavelength observations increasingly demonstrate that features like extreme obscuration frequently trace specific, gas-rich evolutionary stages rather than simple geometric orientation effects. 
 

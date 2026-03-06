@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 The Dark Energy Spectroscopic Instrument ([[desi-survey|DESI survey]]) Bright Galaxy Survey (BGS) is a massive, highly complete [[galaxy-redshift-survey|Galaxy redshift survey]] designed to map the [[three-dimensional-galaxy-surveys|three-dimensional distribution]] of approximately 10 million galaxies in the local universe. Conducted primarily during bright lunar observing conditions—when elevated sky backgrounds preclude the efficient observation of fainter, high-redshift targets—the BGS covers approximately 14,000 [[survey-area|square degrees]] of the extragalactic sky [DESI Collaboration et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016arXiv161100036D/abstract), [Hahn et al. (2022)](https://ui.adsabs.harvard.edu/abs/2023AJ....165..253H/abstract). By securing high-precision spectroscopic [[redshift-catalogs|redshifts]] out to $z \approx 0.6$, with a median [[redshift-distribution|Redshift distribution]] of $z \approx 0.2$, the survey's primary cosmological objective is to trace the [[low-redshift-large-scale-structure|Low-redshift large-scale structure]]. This dense mapping enables the most precise local measurements to date of Baryon Acoustic Oscillations (BAO) and Redshift-Space Distortions (RSD), which act as vital probes for constraining the cosmic expansion history and the growth rate of large-scale structure [Hahn et al. (2022)](https://ui.adsabs.harvard.edu/abs/2023AJ....165..253H/abstract).
 

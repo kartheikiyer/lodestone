@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Emission line spectroscopy** is the study of discrete, luminous spectral features produced by bound-bound radiative transitions within atoms, ions, and molecules. It represents a cornerstone of [[astrophysical-spectroscopy|Astrophysical spectroscopy]], allowing astronomers to decode the physical and kinematic properties of [[line-emitting-gas|Line-emitting gas]] across the universe. The fundamental strength of a given emission line is determined by its volume emissivity, which is governed by the quantum mechanical probability of spontaneous emission and the population density of the excited state. Depending on the environment, these atomic and molecular states are populated via various [[excitation-mechanisms|Excitation mechanisms]], most notably photoionization by massive stars or active galactic nuclei (AGN), and collisional excitation in shock-heated plasmas. By analyzing line fluxes and their relative strength against the underlying continuum—often quantified by the [[rest-equivalent-width|Rest equivalent width]]—astrophysicists can construct detailed physical models of gaseous nebulae, interstellar media, and high-energy accretion environments [Osterbrock et al. (1988)](https://ui.adsabs.harvard.edu/abs/1988LNP...307....1O/abstract), [Ferland et al. (1992)](https://ui.adsabs.harvard.edu/abs/1992ApJ...387...95F/abstract).
 

@@ -10,7 +10,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In observational cosmology, **redshift-space distortions** (RSD) are systematic, anisotropic biases in the observed three-dimensional clustering of galaxies. When constructing [[galaxy-mapping|maps of the universe]] from a [[galaxy-redshift-survey|Galaxy redshift survey]], astronomers rely on the cosmological [[redshift|Redshift]] to infer radial distances via the Hubble law. However, a galaxy's observed redshift is a combination of the cosmic expansion and its local [[cosmic-velocity-field|Cosmic velocity field]]—the peculiar velocity driven by gravitational interactions with surrounding large-scale structure. Because the line-of-sight component of this peculiar velocity introduces a kinematic Doppler shift, galaxies appear displaced from their true comoving coordinates. This mapping from real space to redshift space transforms an intrinsically isotropic matter distribution into an anisotropic pattern, providing a direct observational window into the dynamic assembly of the cosmos.
 

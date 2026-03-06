@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Disc fading** is the gradual reduction in surface brightness and progressive reddening of a galactic disc following the suppression (or "quenching") of its star formation. Driven by the mechanics of stellar population evolution, this secular process occurs as the supply of cold gas is either exhausted or removed, halting the creation of massive, short-lived OB stars. As these highly luminous blue stars evolve off the main sequence and leave behind compact remnants, the integrated light of the galaxy becomes dominated by an aging, lower-mass stellar population. Consequently, the disc’s luminosity decays significantly over time [Hogg et al. (1997)](https://ui.adsabs.harvard.edu/abs/1997ApJ...488L..95H/abstract), causing dwarf and intermediate-mass galaxy populations to dim by one or more magnitudes [Driver et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996ApJ...466L...5D/abstract). This drives a sharp, continuous increase in the stellar mass-to-light ratio ($M/L$), permanently altering the galaxy's photometric footprint and marking a critical late-stage phase of [[galactic-disk-evolution|Galactic disk evolution]].
 

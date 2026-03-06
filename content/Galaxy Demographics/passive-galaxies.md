@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Passive galaxies** (also frequently referred to as [[passive-and-quiescent-galaxies|quiescent galaxies]]) represent a major demographic of the universe's galaxy population, defined observationally by their lack of significant ongoing star formation. Typically characterized by [[global-star-formation-rate|specific star formation rates]] (sSFR) falling below $\sim 10^{-11} \text{ yr}^{-1}$, these systems are dominated by mature, low-mass [[stellar-populations|Stellar Populations]]. This lack of young, luminous [[ob-stars|O and B stars]] lends them the characteristic red optical colors that place them on the [[red-sequence|Red sequence]] of the galaxy color-magnitude diagram. Within the broader context of [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]], passive galaxies represent the evolutionary endpoint for many systems, having transitioned out of the actively star-forming "blue cloud" via a combination of [[gas-depletion-and-consumption|gas depletion]] and feedback mechanisms collectively known as [[galaxy-quenching|Galaxy quenching]]. Historically envisioned as the products of an early, monolithic collapse followed by [[passive-evolution-models|passive stellar aging]], the modern paradigm recognizes that these galaxies assemble hierarchically, shaped by a complex interplay of internal physics and environmental drivers.
 

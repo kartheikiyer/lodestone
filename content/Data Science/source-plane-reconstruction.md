@@ -9,7 +9,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In strong gravitational lensing, **source plane reconstruction** is the numerical and statistical process of mapping highly distorted, multiply-imaged background galaxies back to their intrinsic, unlensed spatial configurations. Because gravitational deflection conserves the surface brightness of the source, astronomers can theoretically invert the lens equation to deduce both the original morphology of the background object and the mass distribution of the foreground deflector. While textbook scenarios involving simple point-mass lenses yield highly deterministic parity and magnification rules, realistic galaxy clusters feature complex, asymmetric mass profiles that produce intricate [[arc-geometry|Arc geometry]] and severe structural distortions. By exploiting these massive foreground deflectors as "cosmic telescopes," source plane reconstruction allows for the study of high-redshift ($z \sim 1-3$) galaxies at sub-kiloparsec resolutions that would otherwise remain far below the diffraction limits of modern observatories, revealing detailed kinematics and star-forming clumps in the early Universe [Johnson et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...843...78J/abstract), [Sharma et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.1427S/abstract), [Sharma et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505L...1S/abstract).
 

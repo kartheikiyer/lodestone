@@ -8,7 +8,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 ## Revised Full Draft
 
 

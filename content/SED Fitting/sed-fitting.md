@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Spectral energy distribution (SED) fitting** is a foundational computational technique in extragalactic astrophysics used to extract the physical properties of astronomical objects—most notably galaxies—from their observed multi-wavelength light. At its core, SED fitting is an inverse problem: it compares observed broad-band photometry or spectroscopy to a vast grid of synthetic [[template-fitting|templates]] to identify the most probable physical state of the target. By bridging observational data with theoretical [[stellar-population-synthesis|Stellar Population Synthesis]] models, SED fitting allows astronomers to constrain macroscopic [[integrated-galaxy-properties|Integrated galaxy properties]] such as stellar mass, star formation history (SFH), dust attenuation, and gas-phase metallicity. While early implementations relied on simple [[least-squares-method|Least squares method]] comparisons to empirical templates to find a single best-fit solution [Walcher et al. (2010)](https://ui.adsabs.harvard.edu/abs/2011Ap&SS.331....1W/abstract), modern [[model-fitting|Model fitting]] relies heavily on Bayesian inference frameworks. These modern algorithms generate robust posterior probability distributions for target parameters, allowing researchers to rigorously quantify [[physical-parameter-estimation|uncertainties]] and marginalize over complex physical degeneracies. 
 

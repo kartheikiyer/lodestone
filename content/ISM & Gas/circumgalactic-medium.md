@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The **circumgalactic medium (CGM)** is the diffuse, multiphase envelope of gas and dust residing within the virial radius of a galaxy's dark matter halo. Acting as the critical boundary between a galaxy's internal [[neutral-interstellar-medium|Neutral Interstellar Medium]] and the broader cosmic web, the CGM is the primary arena for the galactic baryon cycle. It governs the continuous exchange of matter and energy that regulates galaxy evolution, simultaneously mediating the accretion of pristine intergalactic gas and the expulsion of metal-enriched [[galaxy-outflows|Galaxy outflows]] [Tumlinson et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017ARA&A..55..389T/abstract). Rather than a static halo, the CGM is a highly dynamic and structured reservoir that contains a substantial fraction of a galaxy's total baryonic mass and heavy elements.
 

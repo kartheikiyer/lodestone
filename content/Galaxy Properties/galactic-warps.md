@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Galactic warps** are large-scale, non-planar distortions in the gaseous and stellar disks of spiral galaxies, where the outermost regions deviate significantly from the central symmetry plane. Representing one of the most common [[non-axisymmetric-structures|Non-axisymmetric structures]] in the universe, warps are frequently identified in H I 21-cm line maps and deep optical surveys. They predominantly manifest in two geometrical classifications: the ubiquitous "S-shaped" or integral-sign warp, where opposite edges of the disk bend in opposing vertical directions, and the much rarer "U-shaped" or bowl-shaped warp. Observational statistics indicate that warping is a nearly universal phenomenon among late-type galaxies. In the local universe, 50% to 70% of edge-on spirals exhibit detectable vertical bends, and this fraction approaches 100% when considering highly extended neutral hydrogen layers [Sanchez-Saavedra et al. (1990)](https://ui.adsabs.harvard.edu/abs/1990Ap&SS.171..239S/abstract), [Reshetnikov et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998A&A...337....9R/abstract), [Ann et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006NewA...11..293A/abstract). As a fundamental manifestation of [[galactic-disk-structure-and-dynamics|Galactic Disk Structure and Dynamics]], these bending waves serve as critical visible tracers of the unseen gravitational potential and the complex evolutionary history of their host galaxies.
 

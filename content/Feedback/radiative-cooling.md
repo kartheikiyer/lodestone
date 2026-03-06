@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Radiative cooling** is the fundamental mechanism by which astrophysical gases and plasmas [[energy-dissipation|dissipate]] [[thermal-processes-in-astrophysics|thermal energy]] into escaping [[radiative-processes|electromagnetic radiation]]. In optically thin, diffuse environments, this energy loss is driven predominantly by two-body interactions. The volumetric cooling rate is conventionally parameterized by the temperature-dependent cooling function, $\Lambda(T)$, which captures the underlying atomic and molecular microphysics [Draine et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011piim.book.....D/abstract). At temperatures exceeding $10^7$ K, a [[hot-astrophysical-plasma|Hot Astrophysical Plasma]] cools primarily via thermal bremsstrahlung (free-free emission). At intermediate temperatures ($10^4 \text{ K} < T < 10^6 \text{ K}$), [[atomic-cooling|Atomic cooling]] via the collisional excitation of trace metals dominates the energy loss, while fine-structure, rotational, and vibrational transitions of molecules govern the coldest phases. By breaking the [[adiabatic-processes|adiabaticity]] of shock-heated gas, radiative cooling allows baryons to lose thermal pressure support, decouple from collisionless dark matter, and condense into deep potential wells to form stars and galactic disks [Binney et al. (1977)](https://ui.adsabs.harvard.edu/abs/1977ApJ...215..483B/abstract).
 

@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **Dwarf Galaxy Populations** represent the most numerically abundant class of galaxies in the universe, occupying the faintest and least massive end of the [[mass-distribution-and-functions|galaxy mass spectrum]]. Historically defined by absolute magnitudes fainter than $M_B \approx -18$, these systems serve as the fundamental building blocks of large-scale structure within the $\Lambda$CDM [[hierarchical-merger-paradigm|Hierarchical merger paradigm]]. Dwarf populations exhibit remarkable structural and chemical diversity that resists simple placement on the traditional Hubble sequence, broadly dividing into two main taxonomic categories: gas-rich, rotationally supported or kinematically chaotic systems such as [[late-type-galaxies-and-stellar-populations|dwarf irregulars]] (dIrr), and gas-poor, pressure-supported systems like [[dwarf-spheroidal-and-elliptical-galaxies|Dwarf Spheroidal and Elliptical Galaxies]] (dSph/dE) [Mateo et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998ARA&A..36..435M/abstract). The distribution of these distinct types is strongly governed by the [[galaxy-environment|Galaxy environment]], obeying a strict [[morphology-density-relation|Morphology-density relation]]. Quiescent early-type dwarfs are preferentially found in dense cluster cores or as bound [[satellite-galaxies|Satellite galaxies]], while star-forming late-types dominate isolated field regions [van den Bergh et al. (1981)](https://ui.adsabs.harvard.edu/abs/1981seng.proc..201V/abstract).
 

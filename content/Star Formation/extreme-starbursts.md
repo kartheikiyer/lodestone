@@ -10,7 +10,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In extragalactic astrophysics, **extreme starbursts** are galaxies or localized galactic regions undergoing exceptionally intense, rapid episodes of stellar assembly. Deviating significantly from the steady-state growth of typical [[star-forming-galaxies|Star-forming galaxies]] on the [[star-forming-main-sequence|Star-Forming Main Sequence]], extreme starbursts are characterized by dramatically elevated specific star formation rates and total star formation rates (SFRs) that can exceed $1000 \, M_\odot \text{yr}^{-1}$ [Riechers et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013Natur.496..329R/abstract). These violent episodes are predominantly triggered by dynamical instabilities—most notably gas-rich [[major-mergers|Major Mergers]] and severe radial gas inflows—that funnel vast reservoirs of cold molecular gas into highly concentrated nuclear or disk environments. Because the immense ultraviolet radiation produced by newly formed [[massive-stars|Massive stars]] is almost entirely absorbed by surrounding interstellar dust, these systems typically manifest observationally as [[luminous-infrared-galaxies-lirgs|Luminous Infrared Galaxies (LIRGs)]], ultra-luminous infrared galaxies (ULIRGs), or submillimeter galaxies (SMGs), emitting the bulk of their luminosity at far-infrared wavelengths.
 

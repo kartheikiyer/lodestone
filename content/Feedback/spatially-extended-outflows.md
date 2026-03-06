@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Spatially extended outflows** are large-scale ejections of multiphase gas and plasma propelled from the [[nuclear-regions-of-galaxies|Nuclear Regions of Galaxies]] out into the circumgalactic medium, frequently reaching distances of $10$ to $30$ kiloparsecs [Shaban et al. (2021)](https://ui.adsabs.harvard.edu/abs/2022ApJ...936...77S/abstract), [Pessa et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240816067P/abstract). As a crucial mechanism of baryon cycling, extended outflows transport mass, metals, and kinetic energy out of the interstellar medium. Depending on the depth of the host galaxy's gravitational potential, this ejected material may permanently escape into the intergalactic medium—particularly in dwarf galaxies—or eventually stall and recycle back onto the galactic disk via [[galactic-fountains|Galactic fountains]] [Arribas et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014A&A...568A..14A/abstract), [Roberts-Borsani et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.3081R/abstract).
 

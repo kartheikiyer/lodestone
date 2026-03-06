@@ -21,6 +21,7 @@ export const sharedPageComponents: SharedLayout = {
           lang: 'en'
         }
       }),
+      Component.Collapsible(),
   ],
   footer: Component.Footer({
     links: {

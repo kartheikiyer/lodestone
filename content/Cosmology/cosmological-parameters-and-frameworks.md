@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In [[modern-cosmology|Modern cosmology]], cosmological parameters and frameworks define the fundamental quantitative values and theoretical models used to describe the origin, composition, and dynamical evolution of the [[universe|Universe]]. The reigning [[fiducial-cosmological-model|Fiducial cosmological model]] is the Lambda Cold Dark Matter ($\Lambda$CDM) paradigm. Anchored by the general relativistic interpretation of an expanding, spatially flat universe, $\Lambda$CDM assumes that on sufficiently large scales, the cosmos adheres to the cosmological principle of macroscopic homogeneity and isotropy [Dodelson et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020moco.book.....D/abstract). The model is entirely specified by a minimal set of core variables: the [[expansion-rate|Expansion rate]] parameterized by the Hubble constant ($H_0$), the relative energy densities of constituent components expressed as [[omega-parameters|Omega parameters]] (specifically the matter density $\Omega_m$, [[cosmic-baryon-density|Cosmic baryon density]] $\Omega_b$, and dark energy $\Omega_\Lambda$), and the statistical properties of the initial [[density-perturbations|Density perturbations]] that seeded structure, such as the scalar spectral index ($n_s$) and the late-time fluctuation amplitude ($\sigma_8$) [Spergel et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003ApJS..148..175S/abstract).
 

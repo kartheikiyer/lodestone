@@ -8,7 +8,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In [[extragalactic-astronomy|Extragalactic astronomy]], **galaxy analogues** are local or low-redshift systems that replicate the extreme physical conditions characteristic of distant, early-universe [[galaxy-populations|Galaxy populations]]. Because the direct observation of primordial systems is fundamentally hindered by severe spatial resolution and surface brightness constraints, analogues serve as accessible, high-resolution laboratories. By matching key [[global-observables-of-galaxies|Global observables of galaxies]]—such as [[unusually-high-specific-star-formation-rates|Unusually high specific star formation rates]], [[low-metallicity-galaxies|low gas-phase metallicities]], and intense nebular emission—these systems allow astrophysicists to directly probe the interstellar medium physics, starburst dynamics, and ionizing photon escape mechanisms that governed the epoch of reionization and [[early-galaxy-formation|Early galaxy formation]] [Blanton et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009ARA&A..47..159B/abstract), [Shapley et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011ARA&A..49..525S/abstract). 
 

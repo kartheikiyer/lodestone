@@ -9,7 +9,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In [[modern-cosmology|Modern cosmology]], the **expansion history** of the [[universe|Universe]] describes the evolution of the cosmic scale factor $a(t)$ over time. Rooted in General Relativity, this dynamic space-time framework dictates how distances between co-moving observers increase as the universe evolves from the hot [[big-bang|Big Bang]] to the present day [Kirshner et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004PNAS..101....8K/abstract). The fundamental kinematics of this expansion are governed by the [[friedmann-equations|Friedmann equations]], which directly relate the macroscopic [[expansion-rate|Expansion rate]]—quantified by the Hubble parameter $H(t)$—to the total [[energy-density-cosmology|Energy density (cosmology)]] and spatial curvature. Because different components of the cosmic [[energy-content|Energy content]] (such as relativistic radiation, non-relativistic matter, and vacuum energy) dilute at different rates as space expands, the universe naturally transitions through distinct dynamical epochs that fundamentally shape its physical properties [Mo et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010gfe..book.....M/abstract).
 

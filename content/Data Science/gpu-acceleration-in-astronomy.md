@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 **GPU acceleration in astronomy** refers to the utilization of the massively parallel architecture of Graphics Processing Units (GPUs)—which feature thousands of concurrent processing cores—to execute computationally intensive astrophysical calculations. As modern observational astronomy transitions into a petabyte-scale discipline driven by facilities like the Square Kilometre Array (SKA) and the Vera C. Rubin Observatory, traditional CPU-bound data pipelines have become a prohibitive bottleneck. Historically, GPUs were first adopted by astronomers to resolve "embarrassingly parallel" numerical workloads. Early applications exploited GPU architecture to perform brute-force N-body simulations, execute exact inverse ray-shooting for unapproximated microlensing magnification maps [Thompson et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ascl.soft03001T/abstract), and conduct real-time, incoherent de-dispersion of massive data streams to detect millisecond radio transients and pulsars [Armour et al. (2011)](https://ui.adsabs.harvard.edu/abs/2012ASPC..461...33A/abstract), [Ng et al. (2014)](https://ui.adsabs.harvard.edu/abs/2013IAUS..291...53N/abstract). 
 

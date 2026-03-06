@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 In contemporary astrophysics, **multi-scale feedback processes** encompass the diverse mechanisms by which the localized release of [[mechanical-feedback|mechanical]] and [[radiative-feedback|radiative energy]]—primarily from stars and supermassive black holes—regulates the global thermodynamic and chemical evolution of galaxies. Situated at the core of modern galaxy formation theory, these processes solve the fundamental [[energy-dissipation|"overcooling"]] and mass-overproduction problems inherent to purely gravitational collapse models. By driving [[galactic-outflows-and-feedback|Galactic Outflows and Feedback]], this energy injection creates a [[self-regulated-feedback-mechanisms|self-regulated baryon cycle]] that continuously balances the infall of pristine cosmic gas with the expulsion of metal-enriched material. This non-linear coupling spans an immense dynamic range, operating from sub-parsec scales where [[stellar-feedback-and-winds|protostellar winds]] disperse natal molecular clouds, to megaparsec scales where relativistic jets heat the intergalactic medium and sculpt the cosmic web.
 

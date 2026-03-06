@@ -12,7 +12,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 The [[lambda-cdm-model|Lambda CDM model]] currently stands as the standard cosmological paradigm, successfully describing the large-scale structure and expansion history of the universe through a combination of a static cosmological constant ($\Lambda$) and collisionless cold dark matter (CDM) [Davis et al. (1992)](https://ui.adsabs.harvard.edu/abs/1992Natur.356..489D/abstract), [Liddle et al. (1993)](https://ui.adsabs.harvard.edu/abs/1993PhR...231....1L/abstract). However, the advent of precision cosmology has exposed persistent discrepancies between early-universe predictions and late-universe observations, motivating the **Beyond-$\Lambda$CDM** paradigm. This umbrella term encompasses a diverse array of theoretical extensions designed to resolve macroscopic anomalies—most notably the Hubble ($H_0$) and amplitude of structure growth ($S_8$) tensions—as well as the sub-galactic "small-scale crisis." 
 

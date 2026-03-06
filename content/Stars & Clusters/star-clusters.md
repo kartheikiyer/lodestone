@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 Star clusters are dense, gravitationally bound ensembles of stars that originate from the fragmentation and collapse of giant molecular clouds. As fundamental building blocks of galaxies, their formation is a scale-free, hierarchical process driven by supersonic turbulence in the interstellar medium [Elmegreen et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010IAUS..266....3E/abstract), [Gouliermis et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018PASP..130g2001G/abstract). Historically, clusters have been bifurcated into two primary classifications: [[open-clusters|Open clusters]], which are relatively low-mass, young-to-intermediate-age systems residing in galactic disks, and ancient, massive [[globular-clusters|Globular Clusters]] that predominantly populate galactic halos and bulges. Modern observations, however, reveal a continuum of cluster properties, bridged by the discovery of [[young-massive-clusters|Young massive clusters]] and [[super-star-clusters|Super star clusters]]. These massive systems form in the high-pressure environments of starbursts and major mergers, serving as contemporary analogues to the progenitors of globular clusters [Portegies Zwart et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010ARA&A..48..431P/abstract).
 

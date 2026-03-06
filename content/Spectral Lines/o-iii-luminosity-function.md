@@ -138,8 +138,8 @@ At $z \sim 0$, a lingering mystery surrounds the [[planetary-nebula-luminosity-f
 > This article has **3** flagged issue(s) (severity: **major**).
 >
 > **1. [broken link]** in *The Planetary Nebula Luminosity Function (PNLF) as a Standard Candle*
-> The page `[[metallicity|Metallicity]]` is not present in the provided list of available wiki pages.
-> → *Suggested fix:* Remove the brackets or link to the existing page `[[metallicity-distributions-and-scaling-relations|Metallicity]]`.
+> The page [[metallicity|Metallicity]] is not present in the provided list of available wiki pages.
+> → *Suggested fix:* Remove the brackets or link to the existing page [[metallicity-distributions-and-scaling-relations|Metallicity]].
 >
 > **2. [factual error]** in *[O III] as a Tracer of AGN Bolometric Power*
 > The article incorrectly attributes the misidentification of 50% of X-ray selected AGN to dust attenuation causing an 'artificially low [O III] flux'. However, Trouille et al. (2010) explicitly state that this effect persists 'even after applying reddening corrections' to the [O III] luminosities. They postulate that the low [O III] flux is actually due to the physical complexity of the narrow-line region, which causes many ionizing photons from the AGN to simply not be absorbed (i.e., a low covering factor), rather than dust obscuring the emitted lines.

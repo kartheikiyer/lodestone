@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Wolf-Rayet (WR) stars** are a class of highly luminous, evolved [[massive-stars|Massive stars]] characterized by extreme surface temperatures and intense, radiation-driven mass loss. Representing the final evolutionary stages of progenitors with initial masses typically exceeding $20-25 M_\odot$, classical WR stars have been largely stripped of their outer hydrogen envelopes, exposing hot, nucleosynthetically processed cores. Spectroscopically, they are defined by a near-total absence of photospheric absorption lines; instead, their spectra are dominated by broad emission lines formed in dense, high-velocity, and optically thick outflows [Conti et al. (1981)](https://ui.adsabs.harvard.edu/abs/1981ApJ...249..471C/abstract), [Conti et al. (1983)](https://ui.adsabs.harvard.edu/abs/1983ApJ...274..302C/abstract). The WR classification sequence—divided primarily into nitrogen-rich (WN), carbon-rich (WC), and oxygen-rich (WO) subtypes—reflects the progressive unpeeling of the star's layers, transitioning from CNO-cycle hydrogen-burning ashes to the exposed products of core helium burning [Langer et al. (1994)](https://ui.adsabs.harvard.edu/abs/1994A&A...290..819L/abstract). 
 

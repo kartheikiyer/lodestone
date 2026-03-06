@@ -58,9 +58,9 @@ This non-local gravitational imprint offers a promising localized method to test
    - The original draft claimed that modeling wormholes within the expansion of the universe is done using Friedmann models, and that this shares formal similarities with the [[mcvittie-metric|McVittie metric]]. It subsequently tied this to `[Bruneton et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012CQGra..29o5001B/abstract)`. 
    - Upon review, the referenced abstract is regarding a lattice universe validating the fluid approximation; it does not mention wormholes, expanding wormhole metrics, or the McVittie metric. I inserted `[UNSUPPORTED]` tags to mark the unverified connection while retaining the factual statements about the lattice universe that *are* strictly supported by the abstract.
 3. **Style and Formatting**:
-   - Normalized cite keys from mixed syntaxes (`[[bibcode|bibcode]]` and `` `[[bibcode|bibcode]]` ``) to a standard wiki format.
+   - Normalized cite keys from mixed syntaxes ([[bibcode|bibcode]] and `` [[bibcode|bibcode]] ``) to a standard wiki format.
    - Cleaned up introductory hooks by shifting specific numbers and limits (e.g., specific astrometric accelerations and quasar counts) into the relevant body text rather than overcrowding the opening summary.
-4. **Cross-links Checked**: Correctly utilized and preserved exact casing for the allowed cross-links (`[[throat-radius|Throat radius]]` and `[[mcvittie-metric|McVittie metric]]`).
+4. **Cross-links Checked**: Correctly utilized and preserved exact casing for the allowed cross-links ([[throat-radius|Throat radius]] and [[mcvittie-metric|McVittie metric]]).
 
 ---
 

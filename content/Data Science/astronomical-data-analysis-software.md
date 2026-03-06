@@ -10,7 +10,6 @@ date: "2026-03-04"
 draft: false
 ---
 
-## Article
 
 **Astronomical data analysis software** encompasses the specialized [[astronomical-software|Astronomical software]], algorithms, and pipelines required to transform raw telemetry from ground- and space-based observatories into scientifically actionable insights. Situated at the core of [[astronomical-data-science-and-reduction|Astronomical Data Science and Reduction]], this software mediates the crucial transition between instrument-specific data formatting and generalized [[scientific-data-analysis|Scientific data analysis]]. Historically, the field evolved from manual data inspection toward highly automated survey pipelines, catalyzed by foundational source extraction tools like SExtractor [Bertin et al. (1996)](https://ui.adsabs.harvard.edu/abs/1996A&AS..117..393B/abstract) and the processing architectures developed for the Sloan Digital Sky Survey [Lupton et al. (2001)](https://ui.adsabs.harvard.edu/abs/2001ASPC..238..269L/abstract). Today, these frameworks handle a vast array of operations within [[astronomical-image-processing|Astronomical Image Processing]], ranging from point-spread function (PSF) modeling and instrumental calibration to the synthesis of radio interferometric visibilities and X-ray spectral mapping.
 

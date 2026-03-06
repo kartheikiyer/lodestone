@@ -8,7 +8,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In the era of petabyte-scale sky surveys, extracting scientific insight from complex, high-dimensional datasets is a central challenge in astrophysics. **Representation learning** refers to the use of machine learning algorithms—predominantly deep neural networks—to automatically discover the optimal features or patterns required to perform a given task directly from raw data, such as multi-band images or 1D spectra. Historically, astronomers relied heavily on manual feature engineering, compressing survey data into human-defined summary statistics like magnitudes, colors, and Sérsic profiles before applying traditional statistical classifiers [Banerji et al. (2009)](https://ui.adsabs.harvard.edu/abs/2010MNRAS.406..342B/abstract). However, foundational applications of Convolutional Neural Networks (CNNs) in astronomy demonstrated that end-to-end automated feature extraction could achieve performance highly competitive with conventional machine learning techniques without the need for manual feature engineering [Kim et al. (2016)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.464.4463K/abstract). By processing raw pixel or spectral data directly, representation learning models compress astronomical objects into low-dimensional **latent embeddings**—continuous mathematical spaces where physical proximity tightly correlates with intrinsic astrophysical properties like stellar mass, metallicity, and morphology.
 

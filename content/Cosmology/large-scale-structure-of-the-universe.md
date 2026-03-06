@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In [[modern-cosmology|Modern cosmology]], the **large-scale structure (LSS)** of the [[universe|Universe]] refers to the spatial distribution and organization of observable matter and dark matter on scales ranging from a few megaparsecs to gigaparsecs. Rather than being randomly scattered, galaxies and gas trace out a complex, highly organized macroscopic pattern. According to the standard $\Lambda$CDM (Cold Dark Matter and Dark Energy) concordance model, this vast architecture originated from microscopic, primordial density fluctuations in the early universe. Over billions of years, these tiny perturbations were amplified by [[gravitational-instability|Gravitational instability]], causing overdense regions to decouple from the background cosmic expansion and collapse [Peacock et al. (2011)](https://ui.adsabs.harvard.edu/abs/2001Natur.410..169P/abstract). This process drives a "bottom-up" sequence of [[hierarchical-structure-formation|Hierarchical structure formation]], where small dark matter halos form first and continuously merge to assemble progressively more massive systems [Peebles et al. (1981)](https://ui.adsabs.harvard.edu/abs/1981lssu.book.....P/abstract).
 

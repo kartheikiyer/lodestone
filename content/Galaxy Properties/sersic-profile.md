@@ -8,7 +8,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 # Sérsic profile
 
 The **Sérsic profile** (or $R^{1/n}$ model) is a generalized mathematical function that describes how the surface brightness of a galaxy varies with its projected galactocentric radius. Introduced by J. L. Sérsic in 1968, it characterizes the radial concentration of a stellar system's light through the Sérsic index, $n$. The profile is anchored by two additional primary parameters: the [[half-light-radius|Half-light radius]] ($R_e$), which encloses exactly half of the system's total emitted light, and the characteristic surface brightness at that radius. By allowing $n$ to vary, the formula smoothly bridges classical empirical models of [[galaxy-structure|Galaxy structure]]. For instance, $n=1$ yields the exponential profile typical of late-type, rotationally supported spiral disks, while $n=4$ mathematically recovers the [[de-vaucouleurs-law|De Vaucouleurs law]] historically used to model the collision-dominated distribution of massive elliptical galaxies.

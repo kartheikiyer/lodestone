@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In extragalactic astrophysics, **deeply buried nuclei** represent an extreme, transient phase of galaxy evolution where intense energy production from an active galactic nucleus (AGN) or a nuclear starburst is completely enshrouded by massive columns of gas and dust. Defined by hydrogen column densities exceeding $N_H \gtrsim 10^{24} \text{ cm}^{-2}$, these compact regions (typically $r < 100 \text{ pc}$) are Compton-thick and virtually opaque to optical, ultraviolet, and soft X-ray radiation [Iwasawa et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998MNRAS.297.1219I/abstract). Buried nuclei are intrinsically linked to the late stages of gas-rich galaxy mergers, where rapid angular momentum loss triggers "wet compaction." This process funnels enormous reservoirs of interstellar material into the galactic center, creating the dense environments necessary to fuel both Eddington-limited starbursts and the rapid mass assembly of supermassive black holes (SMBHs). Theoretical models suggest that this heavily obscured phase accounts for the majority of a supermassive black hole's growth over its lifetime, lasting until energetic feedback eventually clears the enshrouding medium [Hopkins et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005ApJ...630..705H/abstract). The most extreme and compact variants of these environments are often classified as [[compact-obscured-nuclei|Compact Obscured Nuclei]].
 

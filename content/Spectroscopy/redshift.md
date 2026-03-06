@@ -8,7 +8,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 Redshift ($z$) is the fractional displacement of electromagnetic radiation toward longer wavelengths between the rest frame of the emitter and the observer. In modern astrophysics, this shift arises from three primary physical mechanisms: the expansion of spacetime governed by the Friedmann-Lemaître-Robertson-Walker (FLRW) metric ([[cosmological-redshift|Cosmological redshift]]), the kinematic Doppler effect driven by the local [[peculiar-velocity-field|Peculiar velocity field]], and, to a lesser extent, gravitational time dilation within massive potential wells ([[gravitational-redshift|Gravitational redshift]]). Because the scale factor of an expanding universe monotonically increases, redshift serves as a fundamental proxy for both distance and [[look-back-time|Look-back time]], providing a direct, observable window into the [[expansion-history|Expansion history]] of the cosmos.
 

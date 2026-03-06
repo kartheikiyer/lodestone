@@ -11,7 +11,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 A color-magnitude diagram (CMD) is a fundamental graphical tool in observational astrophysics that plots the brightness of stars—typically expressed as an absolute or apparent magnitude—against their color index. Serving as the direct empirical counterpart to the theoretical [[hertzsprung-russell-diagram|Hertzsprung-Russell diagram]], the CMD relies on color as a proxy for stellar effective temperature and magnitude as a proxy for bolometric luminosity. Because stars evolve through specific phases of nuclear burning, they do not distribute randomly in photometric space but rather cluster into well-defined evolutionary sequences, such as the main sequence, subgiant branch, and red giant branch. By mapping these morphological features, astronomers can directly link observable photometric quantities to the fundamental physical parameters of underlying [[stellar-populations|Stellar Populations]] [[bibcode-1959apj-130-496w|bibcode:1959ApJ...130..496W]], [[bibcode-1965mnras-129-51d|bibcode:1965MNRAS.129...51D]].
 

@@ -6,7 +6,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **Likelihood-free inference** (LFI) is a statistical framework designed to perform Bayesian parameter estimation in complex physical systems where the likelihood function, $P(\text{data} \mid \text{parameters})$, is analytically intractable. In traditional cosmological and astrophysical analyses, researchers often rely on simplified, Gaussian likelihood approximations to constrain parameters using summary statistics. However, these analytic approximations break down when analyzing complex, non-linear physical processes, leading to systematically biased parameter estimates. 
 

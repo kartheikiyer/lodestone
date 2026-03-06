@@ -12,7 +12,6 @@ date: "2026-03-06"
 draft: false
 ---
 
-## Article
 
 **[Fe II] emission lines** are forbidden [[fine-structure-emission-lines|Fine-structure emission lines]] of singly ionized iron that serve as powerful diagnostic tracers of the physical conditions, kinematics, and chemical abundances in a wide range of astrophysical environments. Due to iron's highly complex electronic structure—characterized by a partially filled 3d shell—the Fe$^+$ ion produces a dense forest of thousands of transitions across the ultraviolet, optical, and infrared bands [Sigut et al. (2002)](https://ui.adsabs.harvard.edu/abs/2003ApJS..145...15S/abstract). Indeed, infrared fine-structure lines as a broad category have been described as the "workhorse" for studying galaxy evolution [Decarli et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025A&ARv..33....4D/abstract). Among these, the near-infrared transitions of [Fe II] at 1.257 µm and 1.644 µm are particularly valuable. Because they are significantly less susceptible to dust extinction than optical tracers like the [[balmer-lines|Balmer lines]], these near-infrared [Fe II] lines allow astronomers to probe deeply obscured [[emission-line-regions|Emission-line regions]] in supernova remnants, dusty star-forming galaxies, and active galactic nuclei (AGN). 
 

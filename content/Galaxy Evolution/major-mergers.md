@@ -12,7 +12,6 @@ date: "2026-03-05"
 draft: false
 ---
 
-## Article
 
 In extragalactic astrophysics, a **major merger** is defined as the gravitational coalescence of two galaxies of comparable mass, typically characterized by a baryonic or dark matter mass ratio greater than 1:4 ($\mu \ge 0.25$). As a cornerstone of the [[hierarchical-merger-paradigm|Hierarchical merger paradigm]], these highly energetic interactions are fundamental drivers of [[galaxy-formation-and-assembly|Galaxy Formation and Assembly]]. The [[galaxy-merger-dynamics-and-evolution|Galaxy Merger Dynamics and Evolution]] of a major encounter is governed by dynamical friction, which drains the orbital kinetic energy of the progenitor galaxies and causes their orbits to decay. During final coalescence, rapidly fluctuating gravitational potentials induce violent relaxation, a collisionless mechanism that redistributes stellar orbits, though the kinematic memory of the progenitor systems can partly survive. Historically encapsulated by the Toomre merger hypothesis, major collisions were long thought to inevitably destroy rotationally supported disks, transforming them entirely into dispersion-dominated [[elliptical-and-early-type-galaxies|Elliptical and Early-Type Galaxies]].
 
