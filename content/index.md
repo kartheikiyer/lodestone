@@ -3,11 +3,11 @@ title: "Lodestone"
 tags: 
 ---
 
-# Lodestone
+<!-- # Lodestone -->
+
+![Lodestone logo](images/lodestone_banner1.png)
 
 > *A living encyclopedia of astrophysics and cosmology, built from the research literature.*
-
-![Lodestone logo](../public/lodestone_banner1.png)
 
 Lodestone is an automatically generated wiki drawn from thousands of peer-reviewed papers in galaxy evolution, cosmology, and observational astrophysics. Each page synthesizes findings from across the literature into a coherent narrative, tracing how our understanding of a concept has developed over time, where consensus exists, and where open questions remain.
 
