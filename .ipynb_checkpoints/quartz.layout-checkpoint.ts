@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/kartheikiyer",
+      GitHub: "https://github.com/kartheikiyer/lodestone",
       "UniverseTBD": "https://universetbd.org/",
       "Pathfinder": "https://v2.pfdr.app",
     },
@@ -26,7 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
     Component.EditLink({
-        repoUrl: "https://github.com/youruser/lodestone-wiki",
+        repoUrl: "https://github.com/kartheikiyer/lodestone",
         branch: "v4",
         contentFolder: "content",
       }),
