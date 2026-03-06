@@ -1,6 +1,7 @@
 ---
 title: "Lodestone"
 tags: 
+comments: false
 ---
 
 <!-- # Lodestone -->
@@ -38,7 +39,7 @@ Each page covers a single concept: an astrophysical object class, physical proce
 
 
 ### Instruments and surveys
-- [[James Webb Space Telescope]]
+- [[james-webb-space-telescope-jwst|JWST]]
 - [[extragalactic-astronomical-surveys|Extragalactic Surveys]]
 - [[sloan-digital-sky-survey-and-sub-surveys|SDSS and Friends]]
 - [[dustpedia|Dustpedia]]
@@ -57,7 +58,6 @@ Each page covers a single concept: an astrophysical object class, physical proce
 ### Methods
 - [[sed-fitting|SED fitting]]
 - [[star-formation-rate-tracers|SFR Tracers]]
-- [[Photometric Redshifts]]
 - [[neural-posterior-estimation|Neural Posterior Estimation]]
 - [[frequentist-inference|Frequentist Inference]]
 
