@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Lodestone v0.6",
-    pageTitleSuffix: "A living astronomy encyclopedia",
+    pageTitleSuffix: ": A living astronomy encyclopedia",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

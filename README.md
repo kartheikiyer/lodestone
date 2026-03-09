@@ -33,6 +33,20 @@ If you're interested in contributing, get in touch!
 
 ---
 
+## Changelog
+
+Ver 0.6 - Async support for different stages of running the page-creation routine. Run for a sample of hand-picked pages + the 200 most common links within them (will scale eventually). Has a routine to custom-create a paper. Scripts to post-process pages, fix links (especially multi-line , 
+
+Ver 0.5 - Scale to ~100k papers with 'galaxy evolution' in the title/abstract. Make initial set of 'seed' pages using keywords + textbook (MvdBW) + iterative pruning, write descriptions for all seed pages and embed everything with Specter for faster routing. Better multi-stage page writer with consensus eval and iterative writer-critic-review cycle. 
+
+Ver 0.4 - Scale to ~1k papers. Rerouting to sections is getting expensive, just store snippets as part of the Wikipage() class instance and do routing when writing the page.
+
+Ver 0.3 - Basic version using a 100 papers with 'JWST' in the title. Making sure cross-links work, that papers are properly attributed. Ingest one paper at a time, atomize into independent statements, split across pages, reroute to the right section, and synthesize all the sections into coherent paragraphs when done.
+
+Ver 0.1
+
+---
+
 ## About
 
 Lodestone is built with [Pathfinder](https://github.com/kiyer/pathfinder), [Quartz](https://quartz.jzhao.xyz/), and the Gemini API. Source code is available on [GitHub](https://github.com/kartheikiyer/lodestone). Pages are regenerated periodically as new papers are ingested.
