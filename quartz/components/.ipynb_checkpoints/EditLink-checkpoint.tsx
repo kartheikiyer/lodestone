@@ -16,8 +16,14 @@ export default ((userOpts?: Partial<Options>) => {
   const opts = { ...defaultOptions, ...userOpts }
 
   const EditLink: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+    let relativePath = fileData.filePath?.replace(/\\/g, "/") ?? ""
+    if (opts.contentFolder && !relativePath.startsWith(opts.contentFolder + "/")) {
+      relativePath = `${opts.contentFolder}/${relativePath}`
+    }
+    const editUrl = `${opts.repoUrl}/edit/${opts.branch}/${encodeURI(relativePath)}`
+      
     const slug = fileData.slug!
-    const editUrl = `${opts.repoUrl}/edit/${opts.branch}/${opts.contentFolder}/${slug}.md`
+    // const editUrl = `${opts.repoUrl}/edit/${opts.branch}/${opts.contentFolder}/${slug}.md`
     const fdbkUrl = `https://forms.gle/a6wr1SU7pFZANauu9`
         
     return (
